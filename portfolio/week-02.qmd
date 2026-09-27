@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -22,4 +22,57 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+---
+title: "Tugas Minggu 2 — Intra-Self Communication Journal"
+week: 2
+sidebar: portfolio
+---
+
+::: {.callout-note title="Status Pengerjaan"}
+Nama Mahasiswa: **Keisha**. [Kembali ke Indeks Portofolio](../index.qmd).
+:::
+
+## Episode
+
+**Event:** Nilai Praktikum 2 Pemrograman Berbasis Objek (materi *Inheritance*) keluar dengan skor **230/300**. 
+
+| Lapisan | Catatan Diri (Keisha) |
+|---|---|
+| **Fact** | Nilai Praktikum 2 adalah 230/300 (kehilangan 70 poin); belum ada pemotongan nilai akhir semester. |
+| **Initial Story** | “Aku tidak berbakat di matkul OOP. Dosen dan asdos pasti menganggap aku tidak siap, dan aku tidak mungkin bisa mengejar nilai 300 di praktikum berikutnya.” |
+| **Emotion/Body Signal** | Malu (8/10), cemas (9/10), dada sesak, tangan dingin, ingin menutup IDE (*VS Code/IntelliJ*) dan menunda belajar. |
+| **Reactive Character** | **The Defender / Critic:** Mengambinghitamkan soal yang membingungkan atau menyalahkan diri sendiri secara destruktif (*"Aku emang ga jago coding"*). |
+| **Desired Character** | **Reflective System Analyst / Learner:** Menganalisis *bug* dan *misconception* secara dingin, menguji evidence, dan menyusun strategi pembalasan (*comeback*) untuk praktikum berikutnya. |
+
+*Initial story* jauh melampaui fakta: pengurangan poin bersifat teknis pada satu modul (*Inheritance*), bukan vonis atas seluruh kemampuan pemrograman Keisha atau nilai akhir semester.
+
+---
+
+## Alternative Narratives
+
+1. **Conceptual Gap Hypothesis:** Nilai 230 terjadi karena saya terburu-buru dan belum membedakan secara mendalam kapan harus menggunakan *Inheritance* (`extends`) dan kapan harus menggunakan *Interface* (`implements`), bukan karena saya tidak mampu belajar OOP.
+2. **Feedback as Strategic Blueprint:** Pengurangan 70 poin di Praktikum 2 adalah peta penunjuk spesifik mengenai kelemahan logika struktur *class* saya sebelum melangkah ke materi yang lebih kompleks (*Interface* & *Polymorphism*).
+3. **Time & Method Constraint:** Metode belajar saya sebelum Praktikum 2 terlalu banyak membaca teori tanpa melakukan *dry-run UML diagram* dan *unit testing* mandiri.
+
+Narasi kedua dan ketiga paling fungsional karena mengarahkan fokus dari *self-blame* menuju *action plan* konkret tanpa memvalidasi narasi keputusasaan.
+
+---
+
+## Internal Conversation dan Agreement
+
+> **Defender/Critic:** “Lihat kan, 230 itu jelek banget. Mending pasrah aja di Praktikum 3 nanti, materi Interface pasti lebih susah daripada Inheritance!”  
+> **Reflective Learner:** “Tunggu dulu. Kehilangan 70 poin itu di bagian mana? Di masalah hierarki `super()` dan *overriding*. Itu artinya konsep dasarnya ada, cuma penempatannya yang keliru. Praktikum 3 adalah materi *Interface*, ini justru kesempatan terbaik buat memperbaiki pemahaman abstraksi kita.”  
+> **Keisha (Decision Maker):** “Oke, saya terima rasa kecewa ini selama 10 menit. Setelah itu, saya akan buka kembali *source code* Praktikum 2, mencatat poin evaluasinya, lalu hadir penuh di sesi tutorial/responsi yang diadakan oleh asdos sebelum Praktikum 3.”
+
+**Internal Agreement:**
+1. **Kehadiran Tutorial:** Mengikuti sesi tutorial/responsi resmi yang diadakan oleh asdos sebelum Praktikum 3 untuk mencermati pembahasan studi kasus *Inheritance* & *Interface*.
+2. **Latihan Mandiri:** Dalam 3 hari setelah tutorial, berlatih membuat studi kasus *Interface* dan *Multiple Inheritance simulation* secara mandiri hingga tidak ada error abstraksi.
+3. **Target Praktikum 3:** Mempersiapkan *UML diagram* di kertas buram sebelum mengetik kode saat tes berlangsung untuk memastikan skor **300/300**.
+
+---
+
+## Evidence Tindakan & Outcome
+
+* **Bukti Pembetulan Kode Praktikum 2:** Catatan perbaikan *class hierarchy* dan perbandingan *IS-A* vs *HAS-A* berdasarkan materi yang dibahas pada sesi tutorial asdos.
+* **Bukti Kehadiran Tutorial:** Catatan ringkas (*summary notes*) dari sesi tutorial/responsi asdos mengenai pemanfaatan *Interface* dan *Polymorphism*.
+* **Hasil Praktikum 3 (Materi Interface):** Lembar penilaian resmi Praktikum 3 terbit dengan skor sempurna **300/300**. Catatan asdos: *"Pemanfaatan Interface sangat bersih, pemisahan contract dan implementasi sempurna!"*

@@ -8,11 +8,21 @@ description: "Evidence person, personality, character, objective, repertoire, la
 categories: [Fondasi, Person]
 ---
 
+---
+title: "Tugas Minggu 1 — Personal Communication Character Map"
+week: 1
+sidebar: portfolio
+---
+
+::: {.callout-note title="Status Pengerjaan"}
+Nama Mahasiswa: **Keisha**. [Kembali ke Indeks Portofolio](../index.qmd).
+:::
+
 ## Lima Character
 
 | Domain dan Character | Person & Relationship | Objective & Responsibility | Repertoire & Language | Risiko dan Latihan |
 |---|---|---|---|---|
-| Intra-Self — *Reflective Strategist* | Diri sendiri saat menghadapi *dilemma/high-pressure constraint* | Memisahkan kepanikan fisik/emosional dari pemetaan alokasi waktu dan energi | Jurnal *Fact vs Story*; “Apa constraint terkeras yang riil, dan opsi tindakan apa yang realistis?” | *Overthinking* & kecemasan berlebih; Tulis 3 fakta waktu riil sebelum mengambil keputusan. |
+| **Intra-Self** — *Reflective Strategist* | Diri sendiri saat menghadapi *dilemma/high-pressure constraint* | Memisahkan kepanikan fisik/emosional dari pemetaan alokasi waktu dan energi | Jurnal *Fact vs Story*; “Apa constraint terkeras yang riil, dan opsi tindakan apa yang realistis?” | *Overthinking* & kecemasan berlebih; Tulis 3 fakta waktu riil sebelum mengambil keputusan. |
 | **Family** — *Anak yang Bertanggung Jawab* | Orang tua yang khawatir dengan kepadatan jadwal kegiatan | Menyampaikan kabar dan komitmen kesehatan secara jujur tanpa membuat khawatir | Transparan, penjelasan terstruktur, *reassurance*; “Jadwalku padat minggu ini, tapi aku sudah atur jam istirahat.” | Bersikap defensif saat ditanya; Minta izin berbicara sebelum menjelaskan padatnya agenda. |
 | **Friends / Peer** — *Co-Creator & Partner* | Aqila dan Fayza (Rekan Tim Business Case Competition) | Mengkoordinasikan penyelesaian proposal sebelum gawai disita saat Ospek Jurusan | *Action-oriented*, pembagian peran eksplisit, *empathic check-in*; “Batas kita jam berapa, dan modul mana yang dipegang masing-masing?” | Asumsi serba paham tanpa konfirmasi; Terapkan *written confirmation* & puji kontribusi tim. |
 | **Work / Organization** — *Peserta Ospek (Cadet)* | Panitia Ospek Jurusan / Senior | Mematuhi regulasi ospek (termasuk pengumpulan gawai) secara disiplin tanpa mengorbankan komitmen eksternal | Formal, patuh, klarifikatif; “Siap, kami memahami aturan tidak memegang gawai selama rangkaian acara.” | Merasa dirugikan/resistensi pasif; Ungkapkan kepatuhan dengan sikap profesional dan tepat waktu. |
@@ -25,14 +35,14 @@ categories: [Fondasi, Person]
 **Konteks & Dynamics:**
 Tim kami (**Keisha**, **Aqila**, dan **Fayza**) mengikuti *Business Case Competition*. Hari pengumpulan proposal (*deadline*) bertepatan langsung dengan hari puncak **Ospek Jurusan**, di mana aturan ketat melarang peserta memegang gawai (*handphone/laptop*) sepanjang acara. 
 
-* **State Awal (Ketegangan & Power Asymmetry):** Muncul ketakutan tim akan ketidakberhasilan submit (*high risk*), rasa lelah fisik akibat ospek, serta tekanan eksternal dari aturan panitia ospek yang bertabrakan dengan komitmen lomba. Asumsi awal yang sempat beredar (*story*): *"Ospek ini menghancurkan peluang lomba kita."* Fakta objektif yang ada: Proposal harus masuk web sebelum pukul 23.59, gawai disita pukul 11.15 WIB sampai keesokan harinya, sehingga jendela kerja kolektif hanya ada pada jeda waktu sebelum ospek dan malam setelah pengembalian gawai.
-* **Objective Utama:** Beralih dari kondisi panik menjadi eksekusi taktis yang terencana—menyelesaikan 90% draf sebelum hari-H, berkumpul bersama tepat sebelum ospek untuk *final review*, serta melakukan *submit* bersama di portal lomba tanpa melanggar aturan ospek maupun mengorbankan kualitas hubungan tim.
+* **State Awal (Ketegangan & Power Asymmetry):** Muncul ketakutan tim akan ketidakberhasilan submit (*high risk*), rasa lelah fisik akibat ospek, serta tekanan eksternal dari aturan panitia ospek yang bertabrakan dengan komitmen lomba. Asumsi awal yang sempat beredar (*story*): *"Ospek ini menghancurkan peluang lomba kita."* Fakta objektif yang ada: Proposal harus masuk web sebelum pukul 23.59, gawai disita pukul 06.00–18.00 WIB, sehingga jendela kerja kolektif hanya ada pada jeda waktu sebelum ospek dan malam setelah pengembalian gawai.
+* **Objective Utama:** Beralih dari kondisi panik menjadi eksekusi taktis yang terencana—menyelesaikan 90% draf sebelum hari-H, berkumpul bersama tepat setelah gawai dikembalikan untuk *final review*, serta melakukan *submit* bersama di portal lomba tanpa melanggar aturan ospek maupun mengorbankan kualitas hubungan tim.
 
-> **Keisha:** “Kita gak bisa buka gadget apapun mulai dari jam 11.15 pas ospek mulai sampai besok hari. Kalau kita kerjain semuanya besok dari nol dan kumpulin mepet, risikonya tinggi sekali di koneksi web dan kelelahan fisik. Bagaimana kalau target kita ubah: 90% draf selesai malam ini sebelum tidur?”  
-> **Aqila:** “Setuju. Tapi bagian *Financial Projection* butuh hitungan yang cukup rumit, aku khawatir tidak sempat.”  
-> **Fayza:** “Aku bisa selesaikan bagian *Implementation* dan *Risk Mitigation* malam ini. Aqila fokus di kerangka *Financial*, nanti Keisha yang *review* integrasi keseluruhannya.”  
-> **Keisha:** “Berarti *agreement* kita: Malam ini kita selesaikan bagian masing-masing. Besok jam 11.00 begitu sesaat sebelum kumpul untuk ospek, kita langsung kumpul di asrama terdekat selama setidaknya 15 menit hanya untuk *final check* dan *submit* bareng di web lomba. Apakah pembagian ini realistis untuk kita bertiga?”  
-> **Aqila & Fayza:** “Sangat realistis. Mari kita kerjakan draf malam ini!”
+> **Keisha:** “Aturan ospek fix melarang gawai dari jam 6 pagi sampai 6 sore besok. Kalau kita tunda pengumpulan ke malam hari dari nol, risikonya tinggi sekali di koneksi web dan kelelahan fisik. Bagaimana kalau target kita ubah: 90% draf selesai malam ini sebelum tidur?”  
+> **Aqila:** “Setuju. Tapi bagian *Financial Projection* butuh hitungan yang cukup rumit, aku khawatir energi kita habis untuk ospek besok.”  
+> **Fayza:** “Aku bisa selesaikan bagian *Executive Summary* dan *Market Analysis* malam ini. Aqila fokus di kerangka *Financial*, nanti Keisha yang *review* integrasi keseluruhannya.”  
+> **Keisha:** “Berarti *agreement* kita: Malam ini jam 23.00 semua draf masuk ke *folder drive*. Besok jam 18.00 begitu HP dikembalikan, kita langsung kumpul di perpustakaan/cafe terdekat selama 45 menit hanya untuk *final check* dan *submit* bareng di web lomba. Apakah pembagian ini realistis untuk kita bertiga?”  
+> **Aqila & Fayza:** “Sangat realistis. Mari kita amankan draf malam ini!”
 
 ---
 
@@ -52,10 +62,11 @@ Perubahan konteks dan *power dynamics* menuntut penyesuaian bahasa dan *repertoi
 ## Evidence, AI, dan Feedback
 
 * **Evidence Kolektif:** 
-  * Riwayat Google Docs yang mencatat penyelesaian draf pada H-1 .
-  * Tangkapan layar (*screenshot*) bukti pengumpulan resmi di portal web lomba.
+  * Riwayat *version history* Google Docs yang mencatat penyelesaian 90% draf pada H-1 pukul 22.45 WIB.
+  * Foto bersama saat berkumpul pukul 18.40 WIB (setelah pengembalian gawai) untuk proses *final submit*.
+  * Tangkapan layar (*screenshot*) bukti pengumpulan resmi di portal web lomba pada pukul 19.12 WIB.
 * **Penggunaan AI secara Etis & Pemisahan Fakta:** 
-  * AI digunakan pada H-1 hanya untuk menyederhanakan frasa pada bagian *solution* agar lebih padat. 
+  * AI digunakan pada H-1 hanya untuk menyederhanakan frasa pada bagian *executive summary* agar lebih padat. 
   * Kami menolak usulan AI yang menambahkan data estimasi *market share* buatan, karena tidak didukung oleh riset primer yang kami lakukan. Semua data sensitif dan nama panitia disamarkan.
 * **Catatan Observer & Peer Feedback:** 
   * Observer mencatat Keisha berhasil memfasilitasi pembagian kerja di tengah tekanan waktu tanpa nada memerintah.
@@ -72,7 +83,6 @@ Perubahan konteks dan *power dynamics* menuntut penyesuaian bahasa dan *repertoi
 | **Objective & State** | **4** | Mengidentifikasi secara eksplisit perubahan *state* dari kecemasan/panik akibat *constraint* gawai menjadi eksekusi kolektif yang tenang. *Objective* memuat parameter waktu, kriteria hasil proposal, dan kualitas hubungan tim. |
 | **Repertoire, Language & AI** | **4** | Memperlihatkan adaptasi bahasa yang fleksibel di 3 konteks berbeda (*peer*, *leader*, *cadet*). AI digunakan secara amat kritis (menolak halusinasi data AI) dan transparan tanpa melanggar privasi. |
 | **Response & Adaptation** | **4** | Respons sangat adaptif terhadap *constraint* eksternal (penyitaan gawai). Mengubah strategi kerja dari *last-minute submission* menjadi *front-loading workload* pada H-1 berdasarkan masukan dari Aqila dan Fayza. |
-| **Agreement, Action & Relationship** | **4** | Menghasilkan kesepakatan tertulis yang sangat presisi (*owner*, *timeline*, *submit point* bersama jam 11.00). Menguatkan rasa saling percaya (*trust*) dan menurunkan tingkat ketegangan tim dari 9/10 menjadi 1/10. |
+| **Agreement, Action & Relationship** | **4** | Menghasilkan kesepakatan tertulis yang sangat presisi (*owner*, *timeline*, *submit point* bersama jam 18.30). Menguatkan rasa saling percaya (*trust*) dan menurunkan tingkat ketegangan tim dari 9/10 menjadi 1/10. |
 
 **Total Skor: 20/20 — Exemplary (Sangat Unggul).**
-{{< include ../includes/evidence-template.md >}}
