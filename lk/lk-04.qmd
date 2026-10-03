@@ -5,7 +5,7 @@ title: "Lembar Kerja Bab 04"
 # Lembar Kerja Tugas: Portofolio Terjemahan Lima Bahasa
 *Kuliah 4: Bahasa yang Menjembatani Makna*
 
-> **Prinsip Utama:**
+> **Prinsip Utama:**  
 > *"Jangan pernah mengubah kebenaran agar mudah diterima, melainkan ubahlah cara membawa kebenaran agar dapat dipahami."*
 
 ---
@@ -18,103 +18,90 @@ Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih rag
 ---
 
 ## **B. Identitas Mahasiswa**
-*   **Nama Lengkap:** ______________________________________
-*   **NIM:** ______________________________________
-*   **Program Studi:** ______________________________________
-*   **Tanggal Pengisian:** ______________________________________
+* **Nama Lengkap:** Keisha Nazla Ananta Putri
+* **NIM:** 18225059
+* **Program Studi:** Sistem dan Teknologi Informasi
+* **Tanggal Pengisian:** 28 September 2026
 
 ---
 
 ## **C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)**
-Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan "sumsum" atau kebenaran inti dari pesan Anda.
 
-1. **Konsep Teknis yang Dipilih:**
-   *(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
-   *Jawab:*
-   
-2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
-   *(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
-   *Jawab:*
-   
-3. **Daftar Jargon Teknis & Artian Sederhananya:**
-   *Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
-   *   **Jargon 1:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 2:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 3:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
+1. **Konsep Teknis yang Dipilih:**  
+   *Asymmetric Encryption* / Enkripsi Kunci Publik (*Public Key Cryptography*)
 
-4. **Kebenaran Inti (*Marrow of the Message*):**
-   *(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
-   *Jawab:*
-   
+2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**  
+   *"Asymmetric encryption is a cryptographic system that uses pairs of keys: public keys, which may be disseminated widely, and private keys, which are known only to the owner. This architecture achieves confidentiality, authenticity, and non-repudiation by applying asymmetric mathematical algorithms such as RSA or Elliptic Curve Cryptography (ECC)."*
+
+3. **Daftar Jargon Teknis & Artian Sederhananya:**  
+   * **Jargon 1:** `Asymmetric Keys` $\rightarrow$ Arti Sederhana: Pasangan dua kunci berbeda (satu untuk mengunci, satu lagi untuk membuka).
+   * **Jargon 2:** `Confidentiality` $\rightarrow$ Arti Sederhana: Keamanan data agar hanya bisa dibaca oleh orang yang berhak.
+   * **Jargon 3:** `Non-repudiation` $\rightarrow$ Arti Sederhana: Bukti digital sah yang membuat pengirim tidak bisa mengelak bahwa dialah yang mengirim pesan tersebut.
+
+4. **Kebenaran Inti (*Marrow of the Message*):**  
+   *Kebenaran Inti:* Sebuah metode mengamankan data rahasia di mana siapa pun bisa mengunci dan mengirimkan pesan kepada kita, tetapi hanya kita satu-satunya yang memegang kunci khusus untuk membuka pesan tersebut.
+
 ---
 
 ## **D. Tahap 2: Matriks Terjemahan Lima Bahasa**
-Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai bagi masing-masing dari lima audiens berikut.
 
 ### **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
-*   **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
-*   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
-*   *Draf Terjemahan Anda:*
-   
-   
+* **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
+* **Strategi:** Gunakan analogi fisik berupa gembok terbuka yang bisa dipakai siapa saja dan kunci rahasia yang hanya dipegang sendiri.
+* *Draf Terjemahan Anda:*  
+  *"Bayangkan kamu punya kotak harta karun dan banyak gembok terbuka yang ditaruh di depan rumahmu. Siapa saja temanmu boleh mengambil satu gembok itu untuk mengunci surat rahasia mereka di dalam kotak lalu mengirimkannya padamu. Tapi tenang aja, kunci untuk membuka gembok itu cuma ada satu di dalam kantongmu! Jadi, meskipun kotak itu dilempar lewat jalanan ramai, tidak ada satu orang pun yang bisa mengintip isi suratnya selain kamu."*
+
 ### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
-*   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
-*   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
-*   *Draf Terjemahan Anda:*
-   
-   
+* **Karakteristik Pendengar:** Setara secara usia, tidak berlatar belakang IT, ingin mengobrol santai tanpa disuapi jargon rumit.
+* **Strategi:** Gunakan gaya santai, bahasa percakapan harian, serta analogi "kotak pos pintar".
+* *Draf Terjemahan Anda:*  
+  *"Gampangnya begini, bro: bayangkan kamu bikin kotak pos khusus di depan kosanmu. Orang luar bebas masukin surat dan langsung gembok kotak pos itu dari luar tanpa perlu bawa kunci. Tapi begitu sudah terkunci, yang bisa buka gembok itu cuma kamu sendiri pakai kunci utama yang selalu kamu kantongi. Jadi walaupun ada orang lain yang lihat surat itu tergeletak, mereka tidak bakal bisa baca isinya."*
+
 ### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
-*   **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
-*   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
-*   *Draf Terjemahan Anda:*
-   
-   
+* **Karakteristik Pendengar:** Menuntut akurasi tinggi, efisiensi, dan standar algoritma industri.
+* **Strategi:** Gunakan istilah teknis presisi, sebutkan algoritma (RSA/ECC), dan fungsionalitas kunci (*Public/Private Key*).
+* *Draf Terjemahan Anda:*  
+  *"Sistem ini mengimplementasikan kriptografi asimetris berbasis algoritma RSA-4096 atau ECC. Pengirim mengenkripsi ciphertext menggunakan Public Key penerima yang terdistribusi terbuka, sementara proses dekripsi hanya dapat dieksekusi secara komputasional menggunakan Private Key penerima yang terpasangkan secara matematis. Ini menjamin kerahasiaan data serta autentikasi integritas melalui digital signature."*
+
 ### **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
-*   **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
-*   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
-*   *Draf Terjemahan Anda:*
-   
-   
+* **Karakteristik Pendengar:** Berorientasi pada hasil, manajemen risiko, kepatuhan regulasi, dan perlindungan aset bisnis.
+* **Strategi:** Tekankan kepatuhan keamanan (*data protection*), mitigasi risiko kebocoran data, dan reputasi perusahaan.
+* *Draf Terjemahan Anda:*  
+  *"Dengan menerapkan Enkripsi Kunci Publik pada infrastruktur aplikasi kita, kita menjamin keamanan data transaksi dan informasi sensitif nasabah secara end-to-end. Hal ini meminimalkan risiko finansial akibat kebocoran data (*data breach*), memastikan kepatuhan terhadap regulasi perlindungan data pribadi, serta menjaga kepercayaan pelanggan tanpa mengorbankan kecepatan operasional bisnis."*
+
 ### **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
-*   **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
-*   **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
-*   *Draf Terjemahan Anda:*
-   
-   
+* **Karakteristik Pendengar:** Masyarakat heterogen yang butuh tahu kemudahan, kenyamanan, dan rasa aman harian mereka.
+* **Strategi:** Hubungkan langsung dengan pengalaman menggunakan aplikasi harian seperti WhatsApp atau Mobile Banking.
+* *Draf Terjemahan Anda:*  
+  *"Teknologi inilah yang bekerja di balik layar setiap kali Anda mengirim pesan di WhatsApp atau melakukan transaksi perbankan di ponsel. Teknologi ini memastikan bahwa seluruh pesan, password, dan info rekening Anda langsung dikunci otomatis sebelum terkirim, sehingga tidak dapat diintip oleh peretas atau pihak mana pun di internet."*
 
 ---
 
 ## **E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)**
-*Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.*
 
-1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
-   *Jawab:*
-   
-2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
-   *Jawab:*
-   
-3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
-   *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
-   *Jawab:*
-   
+1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**  
+   *Jawab:*  
+   Ragam bahasa untuk anak-anak dan masyarakat umum. Sebagai mahasiswa IT, saya sudah terbiasa memikirkan konsep ini dalam bentuk fungsi matematis dan kode. Menanggalkan seluruh jargon tanpa mengikis kebenaran mendasar dari konsep tersebut membutuhkan usaha ekstra untuk menyusun analogi yang pas dan akurat.
+
+2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**  
+   *Jawab:*  
+   Proses ini menyadarkan saya bahwa tanda sejati dari pemahaman mendalam atas suatu ilmu bukanlah seberapa banyak istilah rumit yang bisa kita ucapkan, melainkan seberapa jernih kita bisa menjelaskan esensi ilmu tersebut kepada orang awam tanpa membuat mereka merasa bingung atau terintimidasi.
+
+3. **Catatan Penggunaan AI Kopilot (Jika Ada):**  
+   *Jawab:*  
+   *Prompt:* *"Uji draf penjelasan enkripsi kunci publik ini jika dibaca oleh anak usia 10 tahun. Apakah ada kata yang masih membingungkan?"*  
+   *Umpan Balik AI:* AI menyarankan untuk mengganti istilah "dekripsi" dan "sistem elektronik" dengan istilah yang lebih konkret seperti "buka gembok" dan "kotak harta karun", sehingga analoginya menjadi jauh lebih ramah dan mudah dibayangkan oleh anak-anak.
 
 ---
 
 ## **F. Rubrik Evaluasi Mandiri & Penilaian Portofolio**
+
 Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam Portofolio Komunikasi akhir semester Anda.
 
 | Kriteria | Skor 4 (Sangat Baik) | Skor 3 (Baik) | Skor 2 (Cukup) | Skor 1 (Kurang) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | |
-| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | |
-| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | |
-| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | |
-| **Total Skor (Maksimal 16)** | | | | | **___ / 16** |
-
----
-
-### **G. Contoh Pengisian Singkat (Sebagai Inspirasi)**
-*   **Konsep:** *Database Replication (Replikasi Basis Data)*
-*   **Kebenaran Inti:** Menyalin dan menyimpan data yang sama di beberapa komputer berbeda secara otomatis agar jika satu komputer rusak, data kita tetap aman dan aplikasi tidak mati.
-*   **Terjemahan Ragam Anak-Anak:** *"Bayangkan kamu punya buku gambar kesayangan. Karena takut bukunya hilang atau ketumpahan air, kamu meminta mesin ajaib untuk menyalin gambar yang sama ke buku gambar teman-temanmu secara otomatis. Jadi, kalau buku gambarmu basah, kamu tinggal pinjam buku milik temanmu dan bisa lanjut mewarnai tanpa sedih!"*
-*   **Terjemahan Ragam Manajer:** *"Untuk menjamin kelangsungan operasional bisnis dan meminimalkan risiko downtime akibat kegagalan server tunggal, kita menerapkan replikasi data ke wilayah sekunder. Hal ini memastikan pemulihan bencana (disaster recovery) berjalan instan dengan toleransi kehilangan data mendekati nol, sehingga transaksi pelanggan tidak terganggu."*
+| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | **4** |
+| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | **4** |
+| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | **4** |
+| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | **4** |
+| **Total Skor (Maksimal 16)** | | | | | **16 / 16** |

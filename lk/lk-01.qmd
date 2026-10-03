@@ -44,54 +44,72 @@ Setiap peran menuntut repertoar komunikasi tertentu \[116, 129\]. Sering kali, t
 
 ------------------------------------------------------------------------
 
-## 3. Lembar Kerja Mahasiswa (Template Peta Karakter)
+---
+title: "Lembar Kerja Bab 01"
+---
 
-*Silakan salin bagian ini ke dalam lembar pengerjaan tugas atau dokumen portofolio Anda.*
+# Panduan Aktivitas Kelas: Peta Karakter Komunikasi Pribadi
 
-**Nama Mahasiswa:** \[Nama Anda / Gunakan Samaran untuk Privasi\] \[350\] **Tanggal Pengerjaan:** \[Tanggal\]
+**Mata Kuliah:** Komunikasi Interpersonal dan Publik  
+**Bahan Kajian:** Bab 1 — Komunikasi Dimulai dari Manusia, Bukan dari Pesan  
 
-### Bagian A: Peta 5 Domain Kehidupan \[135\]
+---
 
-Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
+## Lembar Kerja Mahasiswa (Peta Karakter)
+
+**Nama Mahasiswa:** Keisha Nazla Ananta Putri  
+**Tanggal Pengerjaan:** 28 September 2026  
+
+---
+
+### Bagian A: Peta 5 Domain Kehidupan
 
 | Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
-|:-----------------|:-----------------|:-----------------|:-----------------|
-| **1. Diri Sendiri** |  |  |  |
-| **2. Keluarga / Sahabat** |  |  |  |
-| **3. Profesional / Akademik** |  |  |  |
-| **4. Komunitas / Kelompok** |  |  |  |
-| **5. Dunia / Publik** |  |  |  |
+|:---|:---|:---|:---|
+| **1. Diri Sendiri** | *Self-Reflector & Emotional Regulator* | Batin Diri Sendiri (Self-Dialogue) | Menyaring kritik internal destruktif (*self-talk* negatif), mengurai kecemasan saat tertekan, serta membangun kesadaran diri (*self-awareness*) yang jernih. |
+| **2. Keluarga / Sahabat** | Anak Perempuan yang Berjarak & Pendengar Setia | Mama (di rumah) & Sahabat Karib (di Kampus/Kos) | Menjaga relasi hangat dengan Mama via *voice note* harian/video call mingguan, serta menyediakan ruang aman mendengarkan tanpa interupsi bagi sahabat. |
+| **3. Profesional / Akademik** | *Project Team Lead* / Praktikan Lab | Dosen Pengampu, Asisten Laboratorium, & Rekan Tim | Menyampaikan arahan pembagian tugas secara terstruktur, memfasilitasi koordinasi teknis (OOP/Proyek), dan mengomunikasikan progres secara transparan. |
+| **4. Komunitas / Kelompok** | Pengelola Usaha Kos & Anggota Tim Kompetisi | Penghuni Kos (Penyewa) & Rekan Tim Kompetisi Bisnis | Bernegosiasi dan menangani keluhan operasional kos secara diplomatis namun tegas, serta menyelaraskan ide bisnis bersama rekan tim. |
+| **5. Dunia / Publik** | Presenter Pitches & Kontributor Media Sosial | Juri Lomba, Audiens Presentasi, & Pengikut Medsos | Menyajikan gagasan inovatif secara persuasif, terstruktur, dan beretika dalam presentasi publik maupun unggahan konten digital. |
 
-### Bagian B: Analisis Kontras Dua Peran Utama \[136\]
+---
 
-Pilih dua peran dari tabel di atas yang paling kontras atau menantang (misalnya: Peran A = Anggota Tim Proyek, Peran B = Sahabat Pendengar), lalu uraikan perbedaannya:
+### Bagian B: Analisis Kontras Dua Peran Utama
 
-| Unsur Komunikasi | Peran A: \[Tulis Nama Peran A\] | Peran B: \[Tulis Nama Peran B\] |
-|:-----------------------|:-----------------------|:-----------------------|
-| **1. Tujuan Tugas & Relasi** \[128\] |  |  |
-| **2. Repertoar Utama** \[129\] |  |  |
-| **3. Pilihan Bahasa & Nada** \[130\] |  |  |
-| **4. Respons yang Harus Dibaca** \[131\] |  |  |
-| **5. Tindakan yang Diharapkan** \[131\] |  |  |
-| **6. Relasi yang Harus Dirawat** \[131\] |  |  |
+Pilihan Peran:  
+* **Peran A:** *Project Team Lead* (Profesional / Akademik)  
+* **Peran B:** Anak Perempuan / Sahabat Pendengar (Keluarga & Sahabat)  
 
-### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan \[351\]
+| Unsur Komunikasi | Peran A: *Project Team Lead* | Peran B: Anak / Sahabat Pendengar |
+|:---|:---|:---|
+| **1. Tujuan Tugas & Relasi** | Mencapai kesepakatan target (*milestone*), efisiensi pembagian tugas, serta penyelesaian proyek TIK/OOP secara tepat waktu. | Merawat ikatan emosional, menumbuhkan rasa saling percaya, serta memberikan dukungan empati yang memvalidasi perasaan. |
+| **2. Repertoar Utama** | Menyajikan fakta, bernegosiasi, membagi prioritas tugas, melakukan konfirmasi tugas (*follow-up*), dan bertanya secara asertif. | Mendengarkan secara aktif (*active listening*), menahan diri dari menghakimi, merangkum makna emosi, dan menyajikan cerita (*storytelling*). |
+| **3. Pilihan Bahasa & Nada** | Bahasa formal-profesional, lugas, sistematis, menggunakan poin-poin terstruktur, serta nada yang tegas namun tetap santun. | Bahasa kasual-hangat, penuh empati, fleksibel, menggunakan kata-kata afirmatif, dan nada suara yang tenang serta lembut. |
+| **4. Respons yang Harus Dibaca** | Ekspresi kebingungan teknis rekan tim, keengganan berpartisipasi, indikasi resiko *burnout*, serta kejelasan konfirmasi komitmen. | Mikro-ekspresi kesedihan/kelelahan, nada suara yang tertahan (*tone of voice*), dan kebutuhan akan validasi tanpa dihakimi. |
+| **5. Tindakan yang Diharapkan** | Terbaginya beban kerja secara adil, disepakatinya tenggat waktu (*deadline*), dan tereksekusinya tugas tim secara akurat. | Terciptanya rasa aman (*psychological safety*), terurainya beban emosional lawan bicara, serta mencairnya jarak/ketegangan. |
+| **6. Relasi yang Harus Dirawat** | Hubungan kolaboratif profesional yang berbasis keadilan, akuntabilitas, transparansi, dan rasa saling menghargai. | Hubungan kekeluargaan dan persahabatan jangka panjang yang berlandaskan ketulusan, penerimaan penuh, dan kehangatan. |
 
-Jawablah pertanyaan reflektif berikut dengan jujur berdasarkan Template Lampiran B.2 \[351\]:
+---
 
-1.  **Nilai Utama:** Nilai-nilai kemanusiaan apa saja yang paling ingin Anda tampakkan dalam komunikasi Anda sehari-hari? (Contoh: ketulusan, kejujuran, penghargaan, atau keadilan) \[351\]
-    - *Jawaban:*
-2.  **Kekuatan Komunikasi:** Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini? \[351\]
-    - *Jawaban:*
-3.  **Pola Hambatan Otomatis:** Pola atau kebiasaan komunikatif apa yang paling sering menghambat Anda saat berada di bawah tekanan atau situasi tidak nyaman? \[351\]
-    - *Jawaban:*
-4.  **Ketegangan Peran & Kepribadian:** Tuliskan satu situasi spesifik di mana kecenderungan kepribadian otomatis Anda bergesekan dengan tuntutan tanggung jawab peran Anda \[136\] (gunakan pola: *"Saya cenderung \[kepribadian\], tetapi peran saya sebagai \[nama peran\] menuntut saya untuk \[perilaku komunikasi\]"*).
-    - *Jawaban:*
-5.  **Sasaran Pertumbuhan Perilaku Terukur:** Berdasarkan ketegangan di atas, susun satu pernyataan sasaran pertumbuhan perilaku yang spesifik untuk 4-6 minggu ke depan \[109, 351\].
-    - *Aturan perumusan:* Jangan menulis sasaran abstrak (seperti "Saya ingin menjadi komunikator hebat") \[109\]. Tulislah sasaran mikro yang nyata, misalnya: *"Ketika seorang teman sedang bercerita, saya akan menahan diri untuk tidak langsung memotong atau memberi solusi selama 3 menit pertama. Saya akan merangkum maknanya dan memvalidasi perasaannya terlebih dahulu."* \[109\]
-    - *Sasaran Saya:*
-6.  **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini? \[351\]
-    - *Jawaban:*
+### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan
+
+1. **Nilai Utama:**  
+   Nilai-nilai kemanusiaan yang paling ingin saya tampilkan adalah **ketulusan (*authenticity*)**, **penghargaan (*respect*)**, dan **kejujuran asertif (*integrity*)**. Saya ingin hadir sebagai komunikator yang jujur pada fakta tanpa mengabaikan rasa hormat terhadap martabat lawan bicara.
+
+2. **Kekuatan Komunikasi:**  
+   Saya memiliki kecenderungan kepribadian yang **analitis, terstruktur, dan peka terhadap detail**. Kekuatan ini membantu saya menyusun argumen yang logis, memetakan masalah secara sistematis saat presentasi/diskusi, serta cepat menangkap dinamika perasaan lawan bicara.
+
+3. **Pola Hambatan Otomatis:**  
+   Saat berada di bawah tekanan (*stress*) atau situasi konflik, saya memiliki pola otomatis untuk **menarik diri (*avoidance*)** dan menunda konfrontasi. Jika dipaksa merespons cepat dalam keadaan emosi tertekan, saya cenderung menjadi sangat kaku (*over-analytical*) atau menyampaikan poin dengan nada yang terlalu tajam/dingin.
+
+4. **Ketegangan Peran & Kepribadian:**  
+   * Ketegangan yang saya alami: *"Saya cenderung **menghindari konflik dan enggan menegur orang lain secara langsung saat tertekan**, tetapi peran saya sebagai **Project Team Lead** menuntut saya untuk **melakukan konfirmasi tegas dan memberikan umpan balik asertif ketika ada anggota tim yang melanggar kesepakatan tenggat waktu**."*
+
+5. **Sasaran Pertumbuhan Perilaku Terukur:**  
+   * **Sasaran Saya:** *"Ketika ada anggota tim proyek yang terlambat mengumpulkan bagian tugasnya melewati kesepakatan, dalam waktu maksimal **24 jam** saya akan mengirimkan pesan atau mengajak bicara secara langsung menggunakan rumus **I-Message** (menyatakan fakta keterlambatan, dampaknya pada proyek tim, dan menanyakan kendala utama) tanpa menggunakan kata-kata penghakiman atau mendiamkannya (*silent treatment*)."*
+
+6. **Umpan Balik Jujur:**  
+   * **Inisial Mitra:** *Mitra A (Sahabat Karib & Rekan Tim Proyek)* dan *Mama (Keluarga)* untuk memantau apakah cara komunikasi saya saat menghadapi masalah sudah lebih terbuka dan asertif.
 
 ------------------------------------------------------------------------
 

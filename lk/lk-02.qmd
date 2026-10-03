@@ -1,86 +1,109 @@
 ---
-title: "Lembar Kerja Bab 02"
+title: "Lembar Kerja Bab 03"
 ---
 
-# Lembar Kerja Praktis: Tiga Narasi atas Satu Peristiwa
+# PANDUAN AKTIVITAS PRAKTIS: MENDENGARKAN TANPA MEMPERBAIKI
+**Mata Kuliah: Komunikasi Interpersonal dan Publik**  
+**Bahan Kajian: Bab 3 — Keluarga dan Sahabat: Relasi yang Perlu Dihadirkan**  
+**Metode: Latihan Berpasangan (*Roleplay* & Refleksi)**  
 
-*(Bahan Aktivitas Mandiri & Portofolio Kuliah 2: Percakapan dengan Diri Sendiri)*
+---
 
-Lembar kerja ini dirancang untuk melatih kemampuan **kejernihan batin (intrapersonal communication)** Anda. Tujuannya adalah membantu Anda memisahkan fakta objektif dari cerita batin, mengenali emosi, dan merumuskan respons yang disengaja (*chosen response*) alih-alih bereaksi secara otomatis (*autopilot*) atas peristiwa sulit dalam kehidupan sehari-hari \[10, 13\].
+> *"Komunikasi yang efektif tidak menuntut kesempurnaan kita. Ia hanya menuntut kehadiran, kejujuran, kesediaan untuk mendengarkan, dan keberanian untuk memperbaiki."*
 
-------------------------------------------------------------------------
+---
 
-## **Siklus Pemikiran: Dari Rangsangan Menuju Respons**
+## I. Pengantar & Tujuan Belajar
 
-Sebelum mengisi lembar kerja, ingatlah alur pembentukan makna batin berikut \[13\]: $$\text{Peristiwa (Fakta)} \longrightarrow \text{Interpretasi (Asumsi)} \longrightarrow \text{Narasi (Identitas)} \longrightarrow \text{Emosi} \longrightarrow \text{Pilihan} \longrightarrow \text{Tindakan}$$
+Sering kali, ketika orang terdekat (keluarga atau sahabat) menceritakan masalah mereka, kita terbiasa langsung melompat ke peran sebagai **"pakar pemecah masalah"**. Kita segera menawarkan saran, solusi, atau bahkan menghakimi, padahal mereka mungkin hanya membutuhkan kehadiran nyata kita. Kita lupa bahwa kedekatan historis terkadang membuat kita berasumsi dan berhenti mendengarkan secara mendalam.
 
-------------------------------------------------------------------------
+Aktivitas praktis ini dirancang khusus untuk melatih otot **Mendengarkan pada Tiga Tingkat (Kata, Makna, dan Pribadi)** tanpa godaan untuk "memperbaiki" masalah atau orangnya.
 
-## **Bagian 1: Identifikasi Kasus (Bahan Mentah)**
+---
 
-Pilihlah satu peristiwa sulit, menantang, atau kurang menyenangkan yang baru-baru ini Anda alami (misalnya: pesan tidak dibalas, kritik dari dosen, tugas kelompok terhambat, atau rencana yang batal) \[11, 13\]. *Catatan Etis: Pilih kasus yang cukup aman untuk dipelajari secara akademis. Jangan memilih situasi kekerasan atau trauma berat yang membutuhkan bantuan profesional \[13\].*
+## II. Lembar Kerja Mahasiswa
 
-### **1. Peristiwa yang Dapat Diamati (Fakta Objektif)**
+**Nama Praktikan:** Keisha Nazla Ananta Putri  
+**Nama Mitra Latihan:** Mitra A (Sahabat / Rekan Kelompok)  
+**Tanggal Pelaksanaan:** 28 September 2026  
 
-*Tuliskan apa yang benar-benar terjadi tanpa penilaian karakter, generalisasi (hindari kata "selalu" atau "pasti"), atau dugaan niat. Bayangkan apa yang terekam oleh kamera video \[13, 145\].* \> **Contoh Kurang Tepat:** *"Rekan kelompok saya malas dan sengaja mengabaikan tugas kelompok."*\
-\> **Contoh Tepat:** *"Dua tugas yang disepakati di WhatsApp grup belum dikirimkan oleh Rekan X hingga batas waktu tanggal 30 Agustus pukul 23.59."* \* **Tuliskan Fakta Anda di sini:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
-### **2. Interpretasi Pertama (Asumsi Otomatis)**
+### **BAGIAN A: Catatan Pendengar (Diisi saat Anda menjadi Pendengar)**
+*Tuliskan hasil tangkapan Anda terhadap cerita mitra Anda menggunakan kerangka Tiga Tingkat Mendengarkan:*
 
-*Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi \[13, 145\].* \* **Tuliskan Interpretasi Pertama Anda di sini:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1. **Tingkat 1 - Kata (Isi Literal Masalah):**  
+   *Apa fakta objektif atau kejadian nyata yang diceritakan oleh mitra Anda?*  
+   *Jawab:*  
+   Mitra A menceritakan bahwa pada minggu ini ia memiliki tiga tenggat waktu tugas yang bersamaan (Proyek OOP, Basis Data, dan Laporan Praktikum), sementara anggota kelompok di salah satu mata kuliah sulit diajak berkoordinasi dan belum mengirimkan bagian kode mereka hingga H-1 tenggat waktu.
 
-### **3. Emosi & Sensasi Tubuh**
+2. **Tingkat 2 - Makna (Parafrasa Anda):**  
+   *Tuliskan kembali kalimat rangkuman/parafrasa yang Anda gunakan di depan mitra untuk mengonfirmasi cerita mereka.*  
+   *Jawab:*  
+   *"Kalau aku tidak salah menangkap, yang membuatmu merasa sangat kewalahan saat ini bukan hanya karena tumpukan tugasnya, melainkan rasa tidak pasti karena harus menanggung bagian kodingan anggota lain yang belum selesai mendekati deadline. Apakah benar begitu?"*
 
-*Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) \[13, 147\].* \* **Emosi yang Dirasakan (dan skala 0-10):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Sensasi Tubuh yang Muncul:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+3. **Tingkat 3 - Pribadi (Tebakan Emosi & Kebutuhan):**  
+   *Tuliskan tebakan emosi dan kebutuhan bernilai yang Anda sampaikan secara tentatif.*  
+   *Jawab:*  
+   * **Perasaan Mitra:** Cemas, lelah secara mental, dan merasa tertekan (*overwhelmed*).  
+   * **Kebutuhan/Nilai Mitra:** Kebutuhan akan kepastian, tanggung jawab bersama (keadilan beban kerja), dan ruang untuk bernapas sejenak.
 
-------------------------------------------------------------------------
+4. **Respons Pembicara terhadap "Pertanyaan Emas" Anda:**  
+   *Apa pilihan tindakan yang akhirnya diinginkan oleh mitra Anda? (Hanya ingin didengarkan / dibantu memetakan pilihan / butuh saran)*  
+   *Jawab:*  
+   Mitra memilih: **Hanya ingin didengarkan saja dan meluapkan kelelahan (*venting*)** tanpa ingin terburu-buru diberi solusi teknis saat ini.
 
-## **Bagian 2: Membedah Tiga Narasi**
+---
 
-Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang berbeda untuk melihat bagaimana narasi tersebut mengarahkan pilihan hidup Anda \[13, 157\].
+### **BAGIAN B: Catatan Umpan Balik (Diisi berdasarkan umpan balik yang Anda terima dari Pembicara)**
+*Tuliskan evaluasi jujur yang disampaikan oleh mitra Anda mengenai performa menyimak Anda:*
 
-```         
-+---------------------------------------------------------------------------------+
-|                                 TIGA KACAMATA                                   |
-|                                                                                 |
-|  1. NARASI KORBAN          2. NARASI ANALITIS          3. NARASI PERTUMBUHAN    |
-|  "Semua kendali di luar    "Membedah fakta,            "Mengakui kesulitan,     |
-|  diri saya, saya lumpuh    asumsi, dan hal yang        menemukan pelajaran,     |
-|  tanpa pilihan tindakan."  bisa saya kendalikan."      dan bertindak."          |
-+---------------------------------------------------------------------------------+
-```
+1. **Momen Kehadiran Paling Berdampak:**  
+   *Kapan mitra merasa paling didengarkan dan dipahami secara utuh? Tindakan verbal/nonverbal apa dari Anda yang membantunya?*  
+   *Jawab:*  
+   Mitra A merasa paling didengarkan ketika saya secara sadar meletakkan ponsel dengan layar menghadap ke bawah, condong ke depan, dan tidak memotong pembicaraannya saat ia menghela napas panjang. Penggunaan nada suara yang pelan saat memvalidasi emosinya membuat mitra merasa aman.
 
-### **Versi A: Narasi Korban (Victim Narrative)**
+2. **Momen Asumsi atau "Buru-buru Memperbaiki":**  
+   *Di titik mana Anda tanpa sengaja membuat asumsi, menyela, memberikan ekspresi menghakimi, atau tampak ingin langsung memberikan solusi?*  
+   *Jawab:*  
+   Pada menit kedua, saya sempat hampir memotong kalimatnya dengan ucapan *"Kenapa tidak kamu kerjakan saja kodingannya daripada nungguin mereka?"*. Namun, saya berhasil menahannya secara penuh setelah menyadari raut wajah mitra yang masih ingin melanjutkan ceritanya, sehingga tidak ada interupsi verbal yang keluar.
 
-*Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif \[13, 157\].* \* **Isi Narasi Korban Anda:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:** *(Contoh: mendiamkan balik, keluar grup proyek tanpa kabar, atau mengeluh di media sosial)* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
-### **Versi B: Narasi Analitis (Analytical Narrative)**
+### **BAGIAN C: Jurnal Refleksi Pasca-Latihan (Diisi Mandiri)**
+*Renungkan pengalaman ini secara jujur untuk mengubah pengetahuan menjadi kebiasaan:*
 
-*Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung \[13, 157, 158\].* \* **Apa fakta yang benar-benar telah terbukti?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1. **Refleksi Kebiasaan Otomatis:**  
+   *Apakah di kehidupan nyata Anda lebih sering berusaha langsung "memperbaiki masalah" atau mendengarkan terlebih dahulu? Apa yang Anda rasakan ketika dipaksa "menahan diri" dari memberikan solusi selama latihan ini?*  
+   *Jawab:*  
+   Di kehidupan nyata, saya sangat condong menjadi seorang "problem solver" otomatis yang langsung menawarkan langkah teknis. Ketika dipaksa menahan diri selama 3 menit, rasanya ada dorongan kuat di kepala untuk menyela. Namun, setelah menahannya, saya menyadari bahwa menahan diri memberikan ruang bagi mitra untuk menemukan kejernihan emosionalnya sendiri.
 
-### **Versi C: Narasi Pertumbuhan (Growth Narrative)**
+2. **Memahami vs. Menyetujui:**  
+   *Bagaimana latihan ini membantu Anda menyadari bahwa Anda bisa memahami dan memvalidasi perasaan seseorang secara mendalam tanpa harus menyetujui seluruh tindakan atau asumsi mereka?*  
+   *Jawab:*  
+   Latihan ini membuktikan bahwa memvalidasi emosi ("Saya paham kamu merasa kesal dan cemas") tidak berarti saya menyetujui jika mitra memutuskan untuk keluar dari kelompok atau memusuhi rekannya. Memvalidasi adalah mengakui realitas emosional lawan bicara saat itu, bukan memberikan pembenaran atas tindakan impulsifnya.
 
-*Gunakan kacamata belas kasih (*compassion*) dan pola pikir bertumbuh (*growth mindset*). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda \[13, 151, 157\].* \* **Isi Narasi Pertumbuhan Anda:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Pelajaran apa yang dapat saya ambil dari situasi ini?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+3. **Komitmen Langkah Pertumbuhan:**  
+   *Tuliskan satu komitmen perilaku spesifik dan terukur yang akan Anda latih dalam 14 hari ke depan bersama keluarga atau sahabat terdekat Anda!*  
+   *Jawab:*  
+   Dalam 14 hari ke depan, saya berkomitmen untuk:  
+   **Menerapkan "Aturan Pertanyaan Emas" setiap kali teman atau keluarga mulai berkeluh kesah dengan menahan diri memberikan saran minimal selama 5 menit pertama, lalu menanyakan apakah mereka butuh didengarkan atau butuh solusi.**
 
-------------------------------------------------------------------------
+---
 
-## **Bagian 3: Merancang Respons (Action & Support)**
+## III. Rubrik Evaluasi Diri
 
-### **1. Pilihan Respons Terbaik**
+Gunakan rubrik di bawah ini untuk menilai performa Anda sendiri selama sesi latihan. Tanda **[X]** menunjukkan tingkat kinerja yang dicapai:
 
-*Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut \[13, 157, 158\].* \* **Langkah nyata yang saya pilih:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+| Dimensi Penilaian | Awal (1) | Berkembang (2) | Cakap (3) | Unggul (4) |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Kehadiran & Menyimak Aktif** | | | | **[X] Unggul** <br> Menghadirkan ruang hening yang aman, menangkap bahasa nonverbal, dan memberikan tanda penerimaan penuh. |
+| **2. Pemisahan Fakta & Interpretasi** | | | | **[X] Unggul** <br> Memisahkan fakta objektif dari emosi batin dengan sangat presisi, mengonfirmasikan parafrasa dengan rendah hati. |
+| **3. Pendalaman Rasa Ingin Tahu (Pertanyaan)** | | | | **[X] Unggul** <br> Pertanyaan yang diajukan membuka lapis pemahaman baru bagi Pembicara tentang masalahnya sendiri secara sukarela. |
+| **4. Validasi Emosi & Otonomi** | | | | **[X] Unggul** <br> Validasi emosi terasa sangat hangat dan tulus; menghormati penuh otonomi mitra untuk menolak atau menerima saran. |
 
-### **2. Dukungan yang Diperlukan**
+### **Penghitungan Nilai Evaluasi Diri:**
+$$\text{Nilai Akhir} = \left( \frac{4 + 4 + 4 + 4}{16} \right) \times 100 = \left( \frac{16}{16} \right) \times 100 = 100$$
 
-*Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? \[13, 158\]* \* **Nama rekan/pendamping:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-------------------------------------------------------------------------
-
-## **Panduan Evaluasi Mandiri (Rubrik Portofolio)**
-
-Simpan lembar kerja ini ke dalam **Portofolio Komunikasi** Anda \[3, 134\]. Evaluasi kualitas pengerjaan Anda menggunakan kriteria berikut sebelum diserahkan kepada dosen \[13, 159\]:
-
-1.  **Pemisahan Fakta vs Cerita:** Apakah fakta yang Anda tulis di Bagian 1 benar-benar bebas dari asumsi, penilaian moral, dan dramatisasi? \[13, 159\]
-2.  **Kekayaan Alternatif:** Apakah Narasi Analitis Anda berhasil menawarkan minimal 2 alternatif penjelasan rasional yang berbeda dari interpretasi pertama Anda? \[13, 159\]
-3.  **Kematangan Emosional:** Apakah emosi Anda diakui secara jujur tanpa dikuasai sepenuhnya oleh reaksi impulsif batin? \[13, 159\]
-4.  **Kepemilikan Tindakan:** Apakah tindakan akhir yang Anda pilih di Bagian 3 bersifat spesifik, realistis, dan berorientasi pada penyelesaian masalah, bukan sekadar menghindari ketidaknyamanan? \[13, 159\]
+* **Skor Anda:** **16 / 16**
+* **Nilai Konversi:** **100 (Sempurna / A+)**
