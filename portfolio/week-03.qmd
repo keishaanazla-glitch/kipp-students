@@ -30,13 +30,14 @@ Nama Mahasiswa: **Keisha Nazla Ananta Putri** (NIM: 18225059). [Kembali ke Indek
 
 **State Awal Percakapan:** Aqila meremas ujung bajunya, intonasi memelan, dan pandangan merunduk saat menjelaskan syarat ruangan steril.
 
-> **Keisha:** *(Menurunkan intonasi suara agar rileks, tersenyum)* “Qil, santai aja. Aku tahu kamu ada *assessment* penting yang syaratnya kamar harus steril. Aku keluar sebentar ya, sekalian mau cari makan malam buat kita berdua.”  
+> **Keisha:** *(Menurunkan intonasi suara agar rileks, melonggarkan postur tubuh)* “Qil, santai aja. Aku tahu kamu ada *assessment* penting yang syaratnya kamar harus steril. Aku keluar sebentar ya, sekalian mau cari makan malam buat kita berdua.”  
 > **Aqila:** “Duh Kei, maaf banget ya... Kamu kan menginap di sini buat bantu pengerjaan lomba kita, tapi aku malah bikin kamu harus keluar malam-malam begini.”  
 > **Keisha:** “Jadi kamu merasa tidak enak karena jadwal *assessment*-mu bentrok sama waktu kerja lomba kita?” *(Active Paraphrasing)*  
 > **Aqila:** *(Menarik napas panjang)* “Iya betul, aku merasa bersalah banget jadi menghambat pengerjaan proposal kita.”  
 > **Keisha:** “Aku sama sekali tidak merasa terganggu, Qil. Akademik kamu tetap prioritas utama. Selama kamu *assessment*, aku bisa sekalian rehat dan cari makan. Oh iya, pas aku balik nanti, aku beliin Martabak kesukaanmu ya biar kita bisa makan bareng begitu *assessment*-mu selesai.”  
 > **Aqila:** *(Otot bahunya mulai rileks)* “Wah, makasih banyak ya Kei! Nanti begitu *assessment*-ku selesai jam 20.00, aku langsung *text* kamu biar kamu bisa masuk lagi dan kita lanjut finalisasi proposal sambil makan martabak.”  
-> **Keisha:** “Sip, kesepakatan ya! *Lihat muka aku, tenang dan santai banget kan?* *Focus on your assessment first*, sampai ketemu jam 8 malam.” *(Verbal Check-in & Care Signal)*
+> **Keisha:** “Sip, kesepakatan ya! *Lihat muka aku, tenang dan santai banget kan?* *Focus on your assessment first*, sampai ketemu jam 8 malam.” *(Verbal Check-in)*
+> **Aqila:** *(Tersenyum dan menghela napas lega)* “Iya Kei, ngeliat kamu senyum santai gitu aku jadi merasa jauh lebih lega sekarang. Makasih ya.” *(Real-time Feedback Loop)*
 
 ---
 
@@ -57,7 +58,7 @@ Nama Mahasiswa: **Keisha Nazla Ananta Putri** (NIM: 18225059). [Kembali ke Indek
 | **Person & character** | Menganalisis karakter Aqila yang sensitif dan mudah merasa bersalah (*guilt*) saat kepentingannya mengganggu orang lain, serta Keisha yang berusaha empatik tanpa defensif. Framing bergeser dari "pengusiran" menjadi "jeda logistik". |
 | **Objective & state** | Mengubah *state* awal cemas dan bersalah (*anxiety* 8/10, *stress* 6/10) menjadi tenang, nyaman, dan saling percaya (*anxiety* <2/10) terbukti via screenshot WA dan kepastian jadwal jam 20.00. |
 | **Repertoire & language** | Menggunakan *Active Paraphrasing* (*"Jadi kamu merasa tidak enak..."*), penataan *Boundary*, serta *Care Signal* melalui makanan kesukaan. Terdapat *verbal check-in* eksplisit di akhir percakapan untuk meyakinkan target. |
-| **Response & adaptation** | Terbukti dari deteksi sinyal lemah (meremas baju, pandangan merunduk): Keisha secara sadar menurunkan *pitch* suara dan tersenyum. Keisha juga memverifikasi adaptasinya secara verbal (*"Lihat muka aku..."*) yang mana langsung diakui efeknya oleh Aqila di chat pukul 20.02 WIB. |
+| **Response & adaptation** | Terbukti dari deteksi sinyal lemah (meremas baju, pandangan merunduk): Keisha secara sadar menurunkan *pitch* suara dan tersenyum. Keisha memverifikasi adaptasinya secara lisan (*"Lihat muka aku..."*), **dan Aqila langsung memberikan umpan balik verbal real-time (*"Iya Kei, ngeliat kamu senyum santai gitu aku jadi merasa jauh lebih lega..."*)** yang menegaskan adaptasi mikro tersebut bukan sekadar asumsi pelapor. |
 | **Agreement/action** | Menyepakati jeda waktu (keluar kamar hingga pukul 20.00 WIB) dan tindakan nyata membelikan makan malam bersama. |
 | **Relationship outcome** | Rasa canggung hilang sepenuhnya, *psychological safety* terjaga, terbukti dari percakapan WhatsApp yang cair setelahnya. |
 
@@ -80,7 +81,7 @@ Nyatakan Tidak menggunakan AI atau jelaskan:
 
 ## Feedback dan tindak lanjut
 
-* **Feedback yang diterima:** Aqila merespons pasca-ujian via WA: *"Waktu kamu bilang 'lihat muka aku, santai kan', itu ngebantu banget. Responmu bikin aku lega banget dan bisa fokus ujian tanpa kepikiran rasa bersalah."*
+* **Feedback yang diterima:** Target memberikan konfirmasi verbal *real-time* ("...ngeliat kamu senyum santai gitu aku jadi merasa jauh lebih lega..."). Aqila juga merespons pasca-ujian via WA: *"Waktu kamu bilang 'lihat muka aku, santai kan', itu ngebantu banget. Responmu bikin aku lega banget dan bisa fokus ujian tanpa kepikiran rasa bersalah."*
 * **Adaptation/replay:** Keisha memastikan ruang fisik diberikan tanpa memperlihatkan raut muka kesal atau terburu-buru, dan melakukan verifikasi lisan secara langsung.
 * **Next practice:** Melakukan sinkronisasi silang jadwal kalender akademik atau ujian sebelum memutuskan menginap untuk kerja kelompok, agar *clash* jadwal bisa diantisipasi lebih awal.
 
@@ -93,7 +94,7 @@ Nyatakan Tidak menggunakan AI atau jelaskan:
 | **Person & Character** | **4** | Memetakan kebutuhan emosional Aqila (guilt) secara tajam tanpa defensif. |
 | **Objective & State** | **4** | Mengubah state anxiety 8/10 menjadi <2/10 melalui validasi emosi dan kesepakatan waktu. |
 | **Repertoire, Language & AI** | **4** | Menggunakan paraphrasing alami. Melampirkan kutipan output saran AI yang ditolak beserta rationale tajam berbasis konteks relasi kultural. |
-| **Response & Adaptation** | **4** | Mendeteksi sinyal non-verbal, merespons dengan adaptasi mikro (pitch suara, senyum), dan tervalidasi via *verbal check-in*. |
+| **Response & Adaptation** | **4** | Mendeteksi sinyal non-verbal, merespons dengan adaptasi mikro (pitch suara, senyum), dan tervalidasi via *real-time feedback loop* dari target. |
 | **Agreement, Action & Relationship** | **4** | Kesepakatan waktu dipatuhi, *care signal* (martabak) tereksekusi, dan trust antarsahabat justru meningkat. |
 
 **Total:** **20 / 20**
