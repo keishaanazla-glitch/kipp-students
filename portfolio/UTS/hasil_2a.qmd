@@ -11,9 +11,9 @@ execute:
   eval: false
 ---
 
-**::: {.callout-note title="Catatan penggunaan laporan"}
+::: {.callout-note title="Catatan penggunaan laporan"}
 Laporan ini mengikuti struktur empat bagian A–D pada template paket KIPP versi 2.0. Isi percakapan pada bagian C dibedakan dari analisis dan interpretasi pada bagian D. Pernyataan yang belum didukung transkrip atau bukti pelaksanaan ditandai sebagai belum diketahui, simulasi, rencana, atau batas bukti; jangan membacanya sebagai hasil yang sudah terjadi. Skor yang dicantumkan merupakan usulan evaluasi dan tetap memerlukan moderasi dosen.
-**:::**
+:::
 
 # A) Identitas
 
