@@ -1,6 +1,6 @@
 ---
 title: "Makalah UTS II-2100 Komunikasi Interpersonal dan Publik"
-subtitle: "MBTI, Pola Komunikasi, dan Pengembangan PASK"
+subtitle: "MBTI, Komunikasi Efektif, SWOT Subjektif, ASK, dan TAIDA"
 author: "Keisha Nazla Ananta Putri"
 date: "14 Oktober 2026"
 lang: id
@@ -29,7 +29,7 @@ Komunikasi interpersonal tidak hanya bergantung pada isi pesan, tetapi juga pada
 
 Myers-Briggs Type Indicator (MBTI) merupakan salah satu kerangka yang digunakan untuk memahami preferensi kepribadian. Kerangka ini membagi preferensi ke dalam empat dimensi yang menghasilkan 16 kombinasi tipe. MBTI dapat menjadi bahan refleksi untuk memahami perbedaan gaya komunikasi, tetapi tidak seharusnya digunakan untuk memberi label mutlak atau menyimpulkan kemampuan seseorang hanya dari empat huruf.
 
-Makalah ini membahas kategori personalitas MBTI dan kaitannya dengan komunikasi efektif, strategi berkomunikasi dengan profil tertentu, cara membaca petunjuk profil melalui percakapan, serta cara mendorong seseorang agar bertindak lebih tepat melalui kerangka SWOT Like dan pengembangan PASK (Persepsi, Attitude, Skill, dan Knowledge). Pembahasan ini menempatkan MBTI sebagai alat bantu memahami preferensi, sedangkan penilaian perilaku tetap harus didasarkan pada bukti, konteks, dan respons nyata.
+Makalah ini membahas kategori personalitas MBTI dan kaitannya dengan komunikasi efektif, strategi berkomunikasi sesuai preferensi yang telah diklarifikasi, cara membaca petunjuk percakapan tanpa menganggapnya sebagai diagnosis, serta cara merancang stimulus edukatif melalui SWOT subjektif, ASK (Attitude, Knowledge, dan Skill), dan TAIDA. Persepsi digunakan untuk memahami bagaimana seseorang menafsirkan situasi dan menilai peluang, ancaman, serta kemampuannya. MBTI ditempatkan sebagai lensa tambahan untuk adaptasi komunikasi, bukan sebagai tujuan utama asesmen KIPP.
 
 # 1. Kategori Personalitas MBTI dan Pengaruhnya terhadap Pola Komunikasi Efektif
 
@@ -140,15 +140,15 @@ Petunjuk tersebut harus dipahami sebagai pola yang mungkin, bukan bukti pasti. K
 
 Dengan langkah ini, pendeteksian pola percakapan menjadi proses belajar yang rendah risiko dan dapat dikoreksi.
 
-# 4. Stimulasi Tindakan Berdasarkan SWOT Like dan Pengembangan PASK
+# 4. Stimulasi Tindakan Berdasarkan SWOT Subjektif dan Edukasi ASK melalui TAIDA
 
 ## 4.1 Memahami SWOT Like sebagai kerangka kerja
 
-Dalam konteks makalah ini, istilah **SWOT Like** dipakai sebagai kerangka untuk melihat kecenderungan seseorang dalam menilai situasi sebagai peluang atau ancaman serta mengenali kekuatan dan area yang perlu dikembangkan. Kerangka ini dapat membantu komunikator merancang stimulus atau pengalaman belajar yang relevan. Namun, SWOT Like tidak boleh dianggap sebagai diagnosis psikologis atau label permanen.
+Dalam dokumen konsep KIPP 2026 versi 2.0, kerangka yang digunakan adalah **SWOT subjektif**: bagaimana komunikan menilai situasi sebagai peluang atau ancaman dan menilai apakah dirinya mampu menghadapinya. Penilaian tersebut perlu digali dan dikonfirmasi, bukan diasumsikan sebagai gambaran objektif keadaan. Karena itu, komunikator perlu mencari alasan dan kebutuhan di balik jawaban permukaan.
 
 Seseorang dapat bereaksi berbeda terhadap stimulus yang sama. Kritik, misalnya, dapat dipersepsikan sebagai ancaman oleh seseorang yang merasa tidak aman, sebagai informasi yang perlu dianalisis oleh orang lain, atau sebagai kesempatan untuk memperbaiki hasil oleh orang yang telah memiliki keterampilan refleksi. Respons itu juga dipengaruhi hubungan, pengalaman, kepercayaan, dan tingkat tekanan.
 
-Empat pola tindakan—refleks, reaktif, responsif, dan apresiatif—dapat digunakan sebagai deskripsi praktis tentang cara seseorang merespons situasi. Dalam makalah ini, istilah tersebut digunakan secara operasional, bukan sebagai klasifikasi klinis.
+Mengikuti konsep KIPP, empat pola respons dijelaskan sebagai rute pemrosesan stimulus–respons. Refleks–instingtif mengikuti Perceive–Perform; reaktif mengikuti Perceive–Recall–Perform; responsif mengikuti Perceive–Recall–Plan–Perform; sedangkan apresiatif–edukatif melibatkan siklus respons yang disertai pembaruan status internal. Pola tersebut merupakan model operasional untuk membaca respons dalam kasus, bukan label permanen bagi seseorang.
 
 | Pola tindakan | Gambaran operasional | Contoh dalam kerja kelompok | Arah pengembangan |
 |---|---|---|---|
@@ -159,20 +159,19 @@ Empat pola tindakan—refleks, reaktif, responsif, dan apresiatif—dapat diguna
 
 Keempat pola ini tidak harus dibaca sebagai urutan nilai manusia dari buruk ke baik. Respons refleks kadang berguna dalam keadaan darurat, sedangkan respons apresiatif tetap perlu disertai evaluasi kritis. Sasaran edukasi adalah memperluas pilihan respons agar seseorang dapat bertindak sesuai kebutuhan situasi, bukan memaksakan satu pola untuk semua keadaan.
 
-## 4.2 PASK: Persepsi, Attitude, Skill, dan Knowledge
+## 4.2 Persepsi, SWOT subjektif, dan ASK
 
-PASK dapat dipakai sebagai empat aspek yang perlu diperhatikan ketika seseorang belajar mengubah tindakan.
+Konsep resmi menggunakan **ASK** sebagai isi pembelajaran yang dapat diperbarui melalui komunikasi:
 
-- **Persepsi (P):** bagaimana seseorang melihat, menafsirkan, dan memberi makna pada situasi. Persepsi memengaruhi apakah suatu masukan dipahami sebagai serangan, tugas, risiko, atau peluang.
-- **Attitude (A):** sikap atau kesiapan seseorang untuk mendengarkan, mencoba, bertanggung jawab, dan mempertimbangkan sudut pandang lain.
-- **Skill (S):** keterampilan yang dapat ditunjukkan, seperti bertanya, menyimak, mengelola konflik, menyampaikan gagasan, mengatur waktu, dan memeriksa informasi.
-- **Knowledge (K):** pengetahuan dan pemahaman tentang masalah, prosedur, prinsip, serta alasan di balik suatu tindakan.
+- **Attitude (A):** nilai, sikap, kepercayaan, dan kemauan yang memengaruhi kesediaan seseorang mempertimbangkan tindakan.
+- **Knowledge (K):** pemahaman tentang situasi, pilihan, konsekuensi, dan informasi yang relevan.
+- **Skill (S):** kemampuan menjalankan tindakan, termasuk keterampilan komunikasi, pengelolaan tugas, atau penggunaan solusi.
 
-Keempat aspek saling memengaruhi. Pengetahuan yang baik belum tentu menghasilkan tindakan tepat jika seseorang belum bersedia mendengar atau belum memiliki keterampilan untuk menerapkannya. Sebaliknya, niat baik juga tidak cukup jika seseorang belum memahami masalah. Edukasi karena itu perlu memadukan pemaknaan, sikap, latihan, dan pengetahuan.
+Persepsi tetap penting, tetapi bukan huruf keempat dalam ASK. Persepsi membantu menjelaskan bagaimana seseorang membentuk penilaian SWOT subjektif: apakah situasi dipandang sebagai peluang atau ancaman dan apakah ia merasa mampu menghadapinya. Penolakan atau penundaan dapat berkaitan dengan satu atau beberapa unsur ASK. Menambah penjelasan belum tentu membantu jika masalah sebenarnya adalah keterampilan, waktu, kepercayaan, atau kapasitas.
 
 ## 4.3 Menentukan stimulasi yang sesuai
 
-Stimulasi yang efektif dimulai dengan mengidentifikasi kebutuhan aktual, bukan menganggap semua orang dengan tipe MBTI yang sama membutuhkan intervensi seragam. Berikut langkah yang dapat digunakan.
+Stimulasi yang efektif dimulai dengan mengidentifikasi kebutuhan aktual, bukan menganggap semua orang dengan tipe MBTI yang sama membutuhkan intervensi seragam. TAIDA menjadi platform strategi untuk mengarahkan edukasi ASK: Target, Attention, Interest, Desire, dan Action. Pada setiap tahap, komunikator mengamati respons, merumuskan dugaan, mengonfirmasi kebutuhan, memilih stimulus, menjalankan pesan, lalu mengevaluasi hasilnya.
 
 1. **Tetapkan perilaku sasaran.** Nyatakan tindakan yang ingin terlihat, misalnya menyampaikan keberatan tanpa menyerang, memeriksa data sebelum menyimpulkan, atau memberi kabar sebelum tenggat.
 2. **Cari hambatan utama.** Tanyakan apakah hambatan berasal dari persepsi yang keliru, sikap defensif, kurang keterampilan, kurang pengetahuan, atau gabungan beberapa aspek.
@@ -181,18 +180,32 @@ Stimulasi yang efektif dimulai dengan mengidentifikasi kebutuhan aktual, bukan m
 5. **Berikan umpan balik berbasis bukti.** Sebutkan perilaku yang terlihat, dampaknya, dan alternatif yang dapat dicoba. Hindari komentar global seperti “kamu memang tidak komunikatif”.
 6. **Evaluasi dan sesuaikan.** Periksa apakah perilaku sasaran muncul dan apakah pendekatan perlu diubah. Jangan menyimpulkan perubahan jangka panjang dari satu keberhasilan.
 
-## 4.4 Matriks pengembangan PASK
+## 4.4 TAIDA sebagai urutan strategi komunikasi
+
+TAIDA digunakan untuk menyusun perjalanan komunikasi dari penetapan sasaran sampai tindakan. Urutannya dapat disesuaikan ketika muncul informasi baru; komunikator dapat kembali menggali kebutuhan jika keberatan belum terjawab.
+
+| Tahap | Pertanyaan komunikator | Bukti atau hasil yang diperiksa |
+|---|---|---|
+| **Target** | Siapa sasaran, apa situasi awalnya, dan tindakan apa yang dituju? | Tujuan konkret, batas situasi, dan dugaan awal tentang kebutuhan ASK |
+| **Attention** | Mengapa percakapan ini relevan dan cukup aman untuk ditanggapi? | Sasaran mulai memberi perhatian atau menjelaskan konteks |
+| **Interest** | Bagaimana topik berhubungan dengan kebutuhan, nilai, atau masalah sasaran? | Sasaran bertanya, berbagi informasi, atau menunjukkan minat yang relevan |
+| **Desire** | Apakah manfaat dirasa penting dan risikonya dapat diterima? | Sasaran dapat menimbang pilihan dan menyampaikan keberatan secara spesifik |
+| **Action** | Apa langkah berikutnya yang realistis, kapan dilakukan, dan dukungan apa yang diperlukan? | Kesepakatan tindakan, waktu, tanggung jawab, dan indikator keberhasilan |
+
+Tahap TAIDA bukan teknik untuk memaksa persetujuan. Jika sasaran tidak setuju, komunikator perlu memahami alasannya dan menilai apakah usulan memang layak. Keberhasilan dapat berupa keputusan untuk mencoba lingkup kecil, meminta informasi tambahan, memperbaiki usulan, atau menolak dengan alasan yang jelas.
+
+## 4.4 Matriks diagnosis dan pengembangan ASK
 
 | Aspek | Pertanyaan untuk menemukan kebutuhan | Bentuk edukasi atau stimulasi | Indikator yang dapat diamati |
 |---|---|---|---|
-| Persepsi | “Apa yang kamu pahami dari situasi ini? Informasi apa yang masih belum pasti?” | Menyajikan beberapa sudut pandang, membedakan fakta dan asumsi, serta meminta orang menjelaskan interpretasinya | Orang dapat menyebutkan fakta, asumsi, dan informasi yang masih perlu dikonfirmasi |
-| Attitude | “Apa yang membuat kamu sulit menerima masukan atau mencoba cara lain?” | Percakapan yang tidak menghakimi, contoh dari fasilitator, refleksi dampak tindakan, dan pengakuan atas kemajuan | Orang bersedia mendengar, mengajukan klarifikasi, atau mempertimbangkan alternatif tanpa langsung menolak |
-| Skill | “Bagian mana yang sudah bisa kamu lakukan dan bagian mana yang masih sulit?” | Role-play, latihan percakapan, simulasi konflik, checklist, latihan presentasi, dan umpan balik spesifik | Orang mampu menunjukkan keterampilan dalam simulasi atau tugas nyata dengan bantuan yang makin sesuai |
-| Knowledge | “Apa yang kamu ketahui tentang masalah, prosedur, dan standar hasilnya?” | Penjelasan ringkas, contoh dan bukan contoh, demonstrasi, bacaan, serta latihan penerapan | Orang dapat menjelaskan prinsip dan menggunakannya untuk menyelesaikan kasus yang relevan |
+| Attitude | “Apa yang membuat kamu ragu atau sulit menerima pilihan ini?” | Mendengarkan tanpa menghakimi, mengakui kekhawatiran yang relevan, dan menghubungkan pilihan dengan nilai atau prioritas orang tersebut | Orang bersedia menjelaskan keberatan, mempertimbangkan alternatif, atau menyatakan batasnya secara terbuka |
+| Knowledge | “Informasi apa yang sudah kamu punya dan apa yang masih belum jelas?” | Penjelasan sesuai kebutuhan, contoh, bukti, batas solusi, dan klarifikasi asumsi | Orang dapat menjelaskan pilihan serta manfaat dan risikonya dengan lebih akurat |
+| Skill | “Bagian mana yang kamu rasa sulit dilakukan?” | Demonstrasi, simulasi, latihan bertahap, panduan, pendampingan, dan umpan balik | Orang dapat mencoba langkah yang disepakati dan mengenali kapan perlu meminta bantuan |
+| Persepsi / SWOT subjektif | “Kamu melihat ini sebagai peluang atau ancaman? Apa yang membuatmu merasa mampu atau belum mampu?” | Memeriksa fakta dan asumsi, menggali pengalaman sebelumnya, serta membahas dukungan atau batasan yang nyata | Alasan di balik penilaian menjadi lebih jelas dan dapat dikonfirmasi, bukan sekadar ditebak |
 
 Matriks tersebut menghindari asumsi bahwa semua hambatan bersumber dari sikap. Jika seseorang belum tahu cara melakukan suatu tugas, teguran tentang motivasi tidak akan menyelesaikan masalah pengetahuan atau keterampilan. Jika seseorang sudah mengetahui prosedur tetapi takut disalahkan, dukungan psikologis dan lingkungan yang aman untuk bertanya mungkin lebih relevan.
 
-## 4.5 Menyesuaikan edukasi dengan preferensi komunikasi
+## 4.5 Menyesuaikan edukasi dengan preferensi komunikasi dan tahapan TAIDA
 
 Preferensi MBTI dapat dipakai sebagai salah satu pertimbangan dalam menyampaikan edukasi, tetapi bukan sebagai penentu tunggal.
 
@@ -226,7 +239,7 @@ Indikator keberhasilan yang masuk akal bukan sekadar anggota mengatakan “oke�
 
 ## 4.7 Mengukur pertumbuhan PASK
 
-Pertumbuhan PASK perlu dinilai melalui perubahan yang dapat diamati, bukan hanya kesan bahwa seseorang terlihat lebih positif. Evaluasi dapat dilakukan sebelum latihan, saat simulasi, dan setelah penerapan pada situasi nyata.
+Pertumbuhan ASK dan perubahan penilaian perlu dinilai melalui perubahan yang dapat diamati, bukan hanya kesan bahwa seseorang terlihat lebih positif. Evaluasi dapat dilakukan sebelum latihan, saat simulasi, dan setelah penerapan pada situasi nyata.
 
 | Aspek | Indikator awal | Indikator kemajuan |
 |---|---|---|
@@ -265,4 +278,6 @@ The Myers-Briggs Company. (n.d.). *MBTI Basics*. https://www.myersbriggs.org/my-
 
 Wikipedia. (n.d.). *Myers–Briggs Type Indicator*. https://id.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator
 
-**Catatan ruang lingkup:** Bagian SWOT Like dan PASK dalam makalah ini dijelaskan sebagai kerangka operasional untuk kebutuhan pembahasan tugas berdasarkan istilah pada instruksi. Definisi yang lebih spesifik dari dosen atau dokumen konsep UTS perlu diprioritaskan apabila tersedia.
+Tim pengembangan asesmen KIPP. (2026). *Konsep dan Strategi UTS KIPP 2026*, versi 2.0. Dokumen pembelajaran internal yang diberikan untuk persiapan UTS.
+
+**Catatan ruang lingkup:** Bagian SWOT subjektif, ASK, dan TAIDA dalam makalah ini dijelaskan sebagai kerangka operasional untuk kebutuhan pembahasan tugas berdasarkan istilah pada instruksi. Definisi yang lebih spesifik dari dosen atau dokumen konsep UTS perlu diprioritaskan apabila tersedia.
