@@ -343,4 +343,4 @@ Nilai sesi hanya dihitung jika keenam skor sah tersedia. **BT** berarti belum da
 
 Rubrik makalah tidak ditetapkan di bagian ini. Gunakan nilai dari dosen atau rubrik resmi bila tersedia; jangan mengarang skor.
 
-{{< include "../../includes/uts-penilaian.md" >}}
+
