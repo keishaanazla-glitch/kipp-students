@@ -180,7 +180,7 @@ Makasih sudah mau bekerja sama, Keisha. Aku merasa lebih nyaman membicarakan kes
 
 **AI016 — Pertanyaan evaluasi**
 
-Okeee, Keisha! 💗 Refleksimu untuk Sesi 2b sudah tercatat. Sekarang kita masuk ke **Tahap D — Konfirmasi akhir** sebelum aku menyusun laporan `hasil_2b_18225059.qmd`.
+Okeee, Keisha! 💗 Refleksimu untuk Sesi 2b sudah tercatat. Sekarang kita masuk ke **Tahap D — Konfirmasi akhir** sebelum aku menyusun laporan `hasil_2b.qmd`.
 
 ## 1. Ringkasan profil Elsa setelah simulasi
 
