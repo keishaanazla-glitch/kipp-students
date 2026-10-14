@@ -1,51 +1,135 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
+status: "Dalam pengerjaan"
 self_score: "—"
 assessor_score: "—"
-description: "Makalah pra-UTS dan lima laporan kasus individual."
+description: "Indeks makalah pra-UTS dan lima laporan kasus individual, disertai pemetaan evidence, refleksi lintas sesi, dan pemeriksaan kelengkapan."
 categories: [Assessment, UTS]
 ---
 
 ::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan setiap ZIP sesuai NIM, lalu cocokkan nama target, versi paket, dan transkrip dengan `PENUGASAN.md` masing-masing. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini adalah indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan. Jangan menyalin naskah ilustratif dari contoh sebagai evidence pribadi.
 :::
 
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Keisha Nazla Ananta Putri |
+| NIM | `18225059` |
+| Kelas | K01 |
+| Periode/tanggal pelaksanaan | Sesi 1, 2a, 2b, 3a, dan 3b: gunakan tanggal yang tercatat di masing-masing laporan; tanggal laporan saat ini 11 Oktober 2026 dan perlu dicocokkan dengan riwayat aktual |
+| Versi bank/paket aktif | Seluruh ZIP terbaru: versi bank 2.0 dan paket individual 2.0 |
+| Modalitas | Teks; interaksi simulasi melalui AI Chat Box |
+| Jenis kasus | Sesi 1: refleksi pengalaman nyata dengan pembanding fiktif; sesi 2a, 2b, 3a, dan 3b: skenario fiktif |
+| Status pengumpulan | Makalah dan lima laporan telah diunggah ke portal UTS berdasarkan konfirmasi mahasiswa |
+| Aturan evidence | Bedakan transkrip aktual, interpretasi, rencana tindak lanjut, dan hasil pelaksanaan. Bagian yang tidak tersedia harus ditandai parsial, bukan direka. |
 
 ## Makalah dan lima laporan
 
-| Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
-|---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+Urutan pengerjaan laporan UTS adalah **1, 2a, 2b, 3a, 3b**. Setiap sesi memakai target terpisah: 2a Fajar (K2-06), 2b Elsa (K2-05), 3a Fajar (K3-06), dan 3b Elsa (K3-05). Jangan mewarisi status atau kepercayaan target dari sesi lain.
 
-{{< include "../includes/uts-penilaian.md" >}}
+| Tahap | Berkas pengumpulan | Target sesuai paket | Status | Evidence yang tersedia dan bagian yang masih kurang |
+|---|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Ada berkas di folder `portfolio/UTS`; perlu pemeriksaan isi final | Pastikan empat pertanyaan dijawab, argumen didukung referensi yang dapat ditelusuri, batas penggunaan MBTI dijelaskan, dan perbedaan PASK dengan ASK dalam laporan sesi tidak rancu. |
+| 1 | [hasil_1_18225059.qmd](UTS/hasil_1_18225059.qmd) | Diri sendiri; pembanding Dimas (K1-04) | Laporan tersedia; transkrip sesi parsial sesuai catatan laporan | Evidence refleksi dari pengalaman kompetisi business case: presentasi grand final terasa kaku, jawaban spontan saat Q&A sulit, dan rasa takut gagal mendorong sikap pasif. Kekuatan awal: komunikasi persuasif, analytical thinking, dan strategic thinking. Rencana: memperdalam pengetahuan, berlatih berbicara dengan orang di luar lingkaran dekat, memperbaiki gestur, dan mengembangkan kosakata profesional. Pembanding dari ZIP terbaru adalah Dimas (K1-04); transkrip parsial dan bagian yang hilang tidak direka. |
+| 2a | [hasil_2a_18225059.qmd](UTS/hasil_2a_18225059.qmd) | Fajar (K2-06) | Laporan tersedia; cocok dengan target paket terbaru | Kasus fiktif tentang pembagian kerja kelompok dengan tenggat 48 jam. Respons menekankan validasi rasa terbebani, klarifikasi kebutuhan, pembagian kerja yang konkret, penyerahan data yang sudah dibersihkan lebih awal, dan pengurangan rapat yang tidak perlu. Batas evidence: kesepakatan kerja adalah simulasi dan belum membuktikan tugas nyata selesai. |
+| 2b | [hasil_2b_18225059.qmd](UTS/hasil_2b_18225059.qmd) | Elsa (K2-05) | Laporan tersedia; cocok dengan target paket terbaru | Kasus fiktif pembagian kerja kelompok; fokus pada kepedulian, beban tambahan yang tidak terlihat, akurasi data, dan batas tanggung jawab. Transkrip memiliki batas dokumentasi yang dijelaskan dalam laporan. |
+| 3a | [hasil_3a_18225059.qmd](UTS/hasil_3a_18225059.qmd) | Fajar (K3-06) | Laporan tersedia; cocok dengan target paket terbaru | Kasus penawaran solusi TI/AI; fokus pada efisiensi pesan berulang, risiko beban tambahan, klaim manfaat yang belum diuji, dan uji ulang. Belum ada demo teknis atau hasil usaha nyata. |
+| 3b | [hasil_3b_18225059.qmd](UTS/hasil_3b_18225059.qmd) | Elsa (K3-05) | Laporan tersedia; unggahan portal dikonfirmasi mahasiswa | Simulasi penawaran solusi TI/AI untuk mengurangi pertanyaan berulang dan risiko pesanan terlewat. Elsa khawatir terhadap beban staf, perubahan stok manual, pelatihan, dan hilangnya sentuhan personal. Respons yang membangun kepercayaan: mengakui estimasi waktu belajar belum diuji dan mengusulkan uji terbatas dengan data fiktif. Uji ulang berfokus pada stok belum diperbarui, pesan ambigu, dan permintaan berbicara dengan staf. Simulasi teknis belum dilakukan; estimasi waktu belajar dan target kuantitatif bukan hasil terukur. |
+
+## Makalah pra-UTS: pemeriksaan isi
+
+Makalah pra-UTS perlu menjawab empat pertanyaan kajian yang ditentukan dalam instruksi UTS. Gunakan daftar ini sebagai pemeriksaan, bukan pengganti isi makalah.
+
+| Pertanyaan kajian | Hal yang perlu terlihat dalam jawaban |
+|---|---|
+| Kategori MBTI dan pengaruhnya terhadap komunikasi | Penjelasan preferensi MBTI dan dampaknya terhadap cara berkomunikasi, tanpa memperlakukan tipe sebagai diagnosis atau penentu kemampuan. |
+| Strategi berkomunikasi dengan profil tertentu | Penyesuaian pertanyaan, media, tempo, pilihan kata, dan pemeriksaan pemahaman berdasarkan kebutuhan yang telah dikonfirmasi. |
+| Mengenali preferensi melalui percakapan | Pengamatan pola lintas konteks, pengajuan hipotesis secara hati-hati, dan klarifikasi; percakapan singkat tidak cukup untuk memastikan tipe. |
+| Stimulus, SWOT-like, serta pendidikan PASK | Hubungan situasi, penafsiran, respons, dan adaptasi; pembahasan kekuatan, keterbatasan, peluang, ancaman, serta bukti perilaku untuk menilai perkembangan. |
+
+## Kompetensi target dan evidence lintas sesi
+
+Kompetensi yang dinilai adalah kemampuan mengintegrasikan pengenalan orang (*person recognition*), pengenalan keadaan (*state recognition*), repertoire, bahasa, respons, dan adaptasi. Analisis sebaiknya menunjukkan rantai **keadaan awal → stimulus → respons target → interpretasi → adaptasi komunikator → evidence berikutnya**.
+
+| Kompetensi | Evidence yang sudah dapat dipetakan | Batas evidence saat ini |
+|---|---|---|
+| Pengenalan orang | Sesi 1 mengidentifikasi kekuatan dan hambatan diri; sesi 2a mengangkat kebutuhan Fajar terkait beban dan kejelasan kerja; sesi 3b mengidentifikasi perhatian Elsa pada kenyamanan staf dan pelanggan. | Identitas target untuk seluruh sesi telah dicocokkan dengan ZIP terbaru. Dugaan awal tetap dipisahkan dari profil simulator yang dibuka setelah simulasi. |
+| Pengenalan keadaan | Sesi 1 mengaitkan tekanan grand final dengan kecenderungan pasif; sesi 2a menekankan tenggat dan ketidakadilan beban; sesi 3b menanggapi kekhawatiran tentang gangguan operasional dan pelatihan. | Ini terutama berasal dari refleksi dan simulasi; belum membuktikan perubahan perilaku di luar sesi. |
+| Repertoire | Validasi, pertanyaan klarifikasi, pembagian kerja, opsi bertahap, uji terbatas, dan jalur kembali ke proses manual. | Catat alasan pemilihan strategi pada setiap laporan, bukan sekadar menyebut daftar teknik. |
+| Bahasa | Upaya memilih kata yang lebih persuasif/profesional; penggunaan bahasa yang mengakui kekhawatiran dan menjelaskan pilihan konkret. | Hindari janji berlebihan atau klaim teknis tanpa bukti, termasuk angka target yang belum disepakati bersama. |
+| Respons | Pada kasus Fajar, rencana diubah agar sebagian data dikirim lebih awal; pada kasus Elsa, solusi dibatasi menjadi simulasi dengan data fiktif dan skenario kegagalan. | Kesepakatan dalam simulasi bukan bukti tindakan telah dilakukan atau hasilnya telah tercapai. |
+| Adaptasi | Strategi menjadi lebih spesifik setelah target menyampaikan keberatan; uji ulang Elsa dirancang untuk memeriksa skenario kegagalan, bukan hanya skenario sukses. | Sesi 2b dan 3a kini memiliki laporan terpisah; simpulan lintas sesi tetap dibatasi oleh sifat simulasi dan transkrip yang tersedia. |
+
+## Refleksi lintas sesi
+
+### 1. Perubahan pemahaman tentang komunikasi
+
+Pada Sesi 1, fokus pengembangan berasal dari pengalaman sendiri: persiapan yang kuat belum tentu cukup ketika situasi menuntut jawaban spontan. Rasa takut memberikan jawaban yang salah dapat membuat saya memilih diam meskipun sebenarnya memiliki gagasan. Karena itu, perkembangan komunikasi tidak hanya berarti berbicara lebih banyak, tetapi juga berani mengambil giliran, menyampaikan pemikiran secara terstruktur, dan memeriksa apakah pesan sudah dipahami.
+
+Pada Sesi 2a, persoalan komunikasi terlihat dari kebutuhan untuk membuat kesepakatan kerja yang adil dan dapat dijalankan. Mengakui bahwa seseorang terbebani perlu diikuti pembagian tugas, keluaran, waktu, dan dependensi yang jelas. Perubahan rencana pengiriman data lebih awal menunjukkan bahwa mendengarkan keberatan seharusnya memengaruhi tindakan konkret, bukan berhenti pada validasi verbal.
+
+Pada Sesi 3b, penawaran solusi teknologi menuntut perhatian terhadap risiko yang dialami target. Elsa tidak sekadar menolak teknologi; ia melindungi kenyamanan staf dan hubungan dengan pelanggan. Mengakui bahwa estimasi waktu belajar belum diuji dan menawarkan simulasi data fiktif lebih dapat dipercaya daripada memberi jaminan tanpa bukti. Uji ulang juga perlu mencakup kondisi gagal, jalur pengalihan ke staf, dan pilihan untuk tidak melanjutkan.
+
+### 2. Hal yang sudah berjalan baik
+
+- Mengakui kekhawatiran lawan bicara sebelum menawarkan solusi.
+- Mengubah strategi ketika muncul informasi baru, bukan memaksakan rencana pertama.
+- Memecah perubahan besar menjadi langkah yang lebih kecil dan dapat diperiksa.
+- Menghubungkan kepedulian dengan tindakan yang konkret, misalnya pembagian tugas atau rancangan uji coba terbatas.
+- Membedakan klaim, perkiraan, komitmen, dan hasil yang benar-benar telah diamati.
+
+### 3. Hal yang masih perlu diperbaiki
+
+- Mengembangkan kemampuan menjawab spontan tanpa bergantung sepenuhnya pada persiapan panjang.
+- Tidak menyebut target angka atau menjanjikan dukungan yang luas sebelum memastikan kapasitas dan kriteria keberhasilan bersama.
+- Memastikan transkrip laporan memuat ujaran aktual, bukan parafrasa yang membuatnya seolah-olah merupakan kutipan persis.
+- Memisahkan respons yang terlihat dalam simulasi dari keterampilan atau perubahan yang sudah terbukti dalam kehidupan nyata.
+- Memeriksa kesesuaian tanggal dan transkrip setiap sesi serta menyimpan bukti/status pengumpulan portal sebagai dokumentasi.
+
+### 4. Rencana tindak lanjut
+
+| Tindakan | Indikator pemeriksaan | Bukti yang perlu disimpan |
+|---|---|---|
+| Memeriksa kelima laporan dan metadata aktual | Target, versi paket, tujuan, transkrip, evaluasi, uji ulang, dan refleksi cocok dengan ZIP | `PENUGASAN.md`, laporan final, dan transkrip aktual |
+| Memperbaiki transkrip Sesi 1 dan 3b | Setiap ujaran dapat ditelusuri ke percakapan; bagian yang hilang ditandai parsial | Perbandingan laporan dengan percakapan sumber |
+| Melatih respons spontan | Dapat menjawab pertanyaan singkat dengan struktur: inti jawaban, alasan/bukti, batas ketidakpastian, dan langkah berikutnya | Catatan latihan dan umpan balik yang benar-benar diperoleh |
+| Menguji kualitas komunikasi | Memeriksa apakah pesan dipahami, apakah ada pertanyaan lanjutan, dan apakah kesepakatan memiliki tindakan serta tenggat | Catatan evaluasi setelah percakapan nyata, bila dilakukan |
+| Mendokumentasikan pengumpulan | Nama berkas sesuai ZIP dan status portal tersimpan sebagai dokumentasi | Bukti unggah atau status dari portal, bila diperlukan |
 
 ## Rekap nilai komponen
 
-| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
-|---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+Nilai di bawah ini belum diisi karena skor self-assessment dan nilai resmi dosen belum diverifikasi. Usulan AI, jika dibuat kemudian, harus disertai alasan dan evidence serta tidak dianggap sebagai nilai resmi.
 
-**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
+|---|---:|---:|---:|---:|---|
+| Makalah | 10% | — | — | — | Perlu pemeriksaan final; belum ada nilai resmi |
+| Sesi 1 | 18% | — | — | — | Laporan dikerjakan; perlu verifikasi transkrip dan metadata |
+| Sesi 2a | 18% | — | — | — | Sesi dikerjakan; perlu verifikasi berkas final dan metadata |
+| Sesi 2b | 18% | — | — | — | Evidence final belum terverifikasi |
+| Sesi 3a | 18% | — | — | — | Evidence final belum terverifikasi |
+| Sesi 3b | 18% | — | — | — | Laporan dibuat; transkrip perlu dicocokkan dan unggah belum terverifikasi |
+
+**Nilai akhir UTS resmi:** belum dihitung. Setelah seluruh nilai komponen resmi tersedia, perhitungan berbobot adalah:
+
+`Nilai akhir = 0,10 × nilai makalah + 0,18 × (nilai Sesi 1 + nilai Sesi 2a + nilai Sesi 2b + nilai Sesi 3a + nilai Sesi 3b)`
+
+Jangan mengisi `assessor_score` dengan skor total /20 atau dengan perkiraan AI.
+
+## Checklist sebelum pengumpulan
+
+- [ ] Makalah menjawab empat pertanyaan dan mencantumkan referensi yang dapat ditelusuri.
+- [ ] Semua lima ZIP dijalankan sesuai urutan **1, 2a, 2b, 3a, 3b**.
+- [ ] Nama, NIM sebagai teks, kelas, tanggal aktual, target, modalitas, dan versi paket cocok dengan `PENUGASAN.md`.
+- [ ] Setiap laporan memiliki empat bagian A–D sesuai template.
+- [ ] Transkrip mencakup percakapan aktual; bagian yang tidak tersedia ditandai parsial.
+- [ ] Dugaan awal, informasi profil, ujaran peserta, dan interpretasi dipisahkan dengan jelas.
+- [ ] Evaluasi memuat tujuan, SWOT/ASK, stimulus–respons–adaptasi, efek relasional, uji ulang, enam dimensi, refleksi, dan tindak lanjut.
+- [ ] Rencana tidak ditulis sebagai pelaksanaan; simulasi tidak ditulis sebagai hasil implementasi nyata.
+- [ ] Skor memiliki alasan dan bukti; nilai resmi hanya diisi berdasarkan hasil dosen.
+- [ ] Semua berkas disimpan di `portfolio/UTS` dengan nama yang ditetapkan ZIP masing-masing.
+- [ ] Status unggah portal dicatat hanya setelah benar-benar diunggah dan bukti tersedia.
+
+[Instruksi UTS](../lk/lk-UTS/index.qmd) · [Contoh jawaban Minggu 8](../examples/week-08.qmd) · [Makalah pra-UTS](UTS/paper.qmd)
