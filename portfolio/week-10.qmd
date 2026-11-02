@@ -1,11 +1,12 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
 categories: [TAIDA, Action]
+sidebar: portfolio
 ---
 
 ## Kompetensi target
@@ -18,8 +19,233 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 - Options dan trade-off yang dibahas.
 - Agreement dengan owner/deadline serta bukti action atau review.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+**::: {.callout-note title="Status Pengerjaan"}**
+Nama Mahasiswa: **Keisha Nazla Ananta Putri** (NIM: 18225059). [Kembali ke Indeks Portofolio](../index.qmd).
+**:::**
 
-{{< include ../includes/evidence-template.md >}}
+---
+
+## Desire–Action Gap dan Initial Assumption
+
+Setelah melalui tahap Attention, Interest, dan Desire, saya memahami bahwa target dapat mengakui masalah, tertarik terhadap solusi, bahkan menginginkan perubahan, tetapi belum tentu bersedia melakukan tindakan nyata.
+
+Pada tahap ini, saya perlu memahami apa yang menghambat target untuk melanjutkan proses pengujian solusi.
+
+**Desire yang telah dibangun:**
+
+Pengguna menginginkan proses yang lebih mudah dipahami, informasi biaya yang lebih transparan, dan kepastian sebelum mengambil keputusan.
+
+**Action yang ingin dicapai:**
+
+Target bersedia melakukan pengujian terbatas terhadap prototype, memberikan feedback berdasarkan pengalaman penggunaan, dan mengonfirmasi apakah solusi sesuai dengan kebutuhan yang telah dibahas.
+
+**Initial Assumption:**
+
+Awalnya saya berasumsi bahwa hambatan utama target adalah keterbatasan waktu untuk mencoba prototype. Namun, saya tidak ingin langsung menganggap waktu sebagai satu-satunya hambatan.
+
+Target mungkin juga memiliki kekhawatiran mengenai keakuratan informasi, privasi, tanggung jawab terhadap informasi yang ditampilkan, atau belum melihat manfaat yang cukup untuk meluangkan waktu.
+
+---
+
+## Barrier dan Authority Map
+
+Saya memetakan pihak yang terlibat agar tidak meminta persetujuan kepada orang yang tidak memiliki kewenangan.
+
+| Person | Barrier atau Peran | Authority | Tindakan yang Diperlukan |
+|---|---|---|---|
+| Target pengguna | Membutuhkan waktu dan alasan yang jelas untuk mencoba prototype | Memutuskan kesediaan memberikan feedback | Menyetujui atau menolak pengujian secara sukarela |
+| Anggota tim | Perlu membagi pekerjaan dan menyelesaikan prototype | Menentukan pembagian pekerjaan internal | Menyiapkan dan memperbaiki prototype |
+| Mentor lomba | Memberikan evaluasi terhadap kualitas solusi | Memberikan arahan akademik dan kompetisi | Memberikan masukan terhadap kelayakan rancangan |
+| Pihak penyedia informasi | Memahami keakuratan proses dan biaya | Memvalidasi informasi sesuai kewenangannya | Memeriksa sumber informasi yang digunakan |
+| Pihak yang berwenang atas implementasi | Mengatur penggunaan sistem atau prosedur resmi | Memberikan persetujuan implementasi jika diperlukan | Memberikan izin sebelum penggunaan resmi |
+
+Saya membedakan antara kesediaan target untuk menguji prototype dan persetujuan implementasi. Keduanya merupakan keputusan yang berbeda.
+
+Saya juga tidak menganggap anggota tim atau mentor memiliki kewenangan untuk menyetujui penggunaan sistem resmi jika kewenangan tersebut berada pada pihak lain.
+
+---
+
+## Potongan Transcript (Discovery Barrier dan Negotiation)
+
+> **Keisha:** "Dari pembahasan sebelumnya, Anda sudah melihat manfaat yang ingin kami capai melalui rancangan ini. Kalau kita ingin mencoba prototype secara langsung, apakah ada hal yang membuat Anda belum nyaman atau belum bisa meluangkan waktu?"
+>
+> **Target:** "[Masukkan respons asli target mengenai hambatan atau keberatan.]"
+>
+> **Keisha:** "Berarti yang masih menjadi pertimbangan Anda adalah [parafrase barrier target], bukan berarti Anda langsung menolak manfaat solusinya, ya?"
+>
+> **Target:** "[Masukkan konfirmasi atau koreksi asli target.]"
+>
+> **Keisha:** "Kalau pengujiannya dibuat lebih singkat dan hanya berfokus pada bagian yang paling penting, apakah itu akan lebih memungkinkan?"
+>
+> **Target:** "[Masukkan respons asli target mengenai alternatif yang ditawarkan.]"
+>
+> **Keisha:** "Selain waktu, apakah ada batasan lain yang perlu kami perhatikan sebelum pengujian dilakukan?"
+>
+> **Target:** "[Masukkan jawaban asli target mengenai syarat atau concern tambahan.]"
+
+**Discovery Insight:**
+
+Saya menggunakan respons target untuk menentukan apakah hambatan berasal dari keterbatasan waktu, kurangnya kepercayaan, ketidakjelasan manfaat, atau persoalan kewenangan.
+
+Saya tidak langsung menawarkan solusi sebelum memahami barrier yang sebenarnya. Dengan demikian, alternatif tindakan yang saya tawarkan tetap relevan dan tidak menambah beban target.
+
+---
+
+## Options dan Trade-off
+
+Setelah memahami barrier, saya menyiapkan beberapa pilihan tindak lanjut dengan tingkat komitmen yang berbeda.
+
+| Option | Bentuk Tindakan | Benefit | Trade-off |
+|---|---|---|---|
+| 1. Review rancangan | Target membaca prototype dan memberikan komentar | Membutuhkan waktu relatif singkat | Belum menguji pengalaman penggunaan secara langsung |
+| 2. Usability test terbatas | Target mencoba alur dan informasi biaya | Mendapatkan feedback berdasarkan pengalaman langsung | Membutuhkan waktu lebih banyak |
+| 3. Pengujian beberapa target | Beberapa pengguna mencoba prototype | Perspektif lebih beragam | Membutuhkan koordinasi dan analisis lebih kompleks |
+
+**Negotiation:**
+
+> **Keisha:** "Saya menyiapkan beberapa pilihan agar pengujian tidak mengganggu aktivitas Anda. Kita bisa mulai dari review singkat, mencoba prototype secara langsung, atau mengumpulkan feedback dari beberapa pengguna. Menurut Anda, pilihan mana yang paling realistis?"
+>
+> **Target:** "[Masukkan pilihan asli target dan alasan memilihnya.]"
+>
+> **Keisha:** "Baik, berarti kita prioritaskan pilihan tersebut. Apakah ada batasan waktu atau informasi yang perlu kami perhatikan?"
+>
+> **Target:** "[Masukkan syarat atau trade-off yang diajukan target.]"
+
+Saya tidak memaksakan pilihan dengan komitmen paling besar. Saya mempertimbangkan kapasitas target, kemampuan tim, dan kualitas evidence yang dapat diperoleh.
+
+---
+
+## Agreement Eksplisit
+
+Berdasarkan hasil negosiasi, saya menyusun agreement yang mencakup ruang lingkup, pembagian tanggung jawab, deadline, evidence, batasan, dan evaluasi.
+
+**Draft Agreement:**
+
+| Elemen | Kesepakatan |
+|---|---|
+| Objective | Memvalidasi apakah prototype menjawab masalah alur proses dan informasi biaya |
+| Scope | Pengujian terbatas terhadap rancangan prototype |
+| Target | Pengguna yang bersedia mencoba dan memberikan feedback |
+| Owner prototype | Keisha bersama anggota tim terkait |
+| Owner feedback | Target pengguna memberikan tanggapan berdasarkan pengalaman |
+| Persiapan | Tim memeriksa kelengkapan tahapan dan sumber informasi biaya |
+| Deadline | [Isi tanggal dan waktu yang disepakati] |
+| Evidence | Dokumentasi pengujian, feedback target, dan perubahan prototype |
+| Batasan | Tidak menggunakan data pribadi yang tidak diperlukan dan tidak menganggap prototype sebagai sistem resmi |
+| Stop rule | Pengujian dihentikan apabila informasi tidak dapat diverifikasi atau target merasa tidak nyaman |
+| Review | [Isi jadwal evaluasi yang disepakati] |
+
+**Konfirmasi Agreement:**
+
+> **Keisha:** "Jadi, kita mulai dengan pengujian terbatas terhadap prototype. Saya dan tim akan memastikan informasi yang ditampilkan sudah diperiksa. Anda dapat mencoba rancangan dan memberikan feedback sesuai pengalaman. Kalau ada informasi yang kurang tepat atau Anda merasa tidak nyaman, kita bisa menghentikan pengujian dan memperbaikinya terlebih dahulu. Apakah kesepakatan ini sudah sesuai?"
+>
+> **Target:** "[Masukkan persetujuan, koreksi, atau syarat tambahan dari target.]"
+>
+> **Keisha:** "Baik, berarti saya akan menyiapkan prototype sesuai ruang lingkup yang sudah kita sepakati dan menghubungi Anda kembali pada waktu yang telah ditentukan."
+>
+> **Target:** "[Masukkan respons asli target terhadap tindak lanjut.]"
+
+Saya menganggap agreement baru terbentuk apabila target benar-benar menyetujui ruang lingkup dan tanggung jawabnya. Jika terdapat bagian yang belum disetujui, bagian tersebut tetap dicatat sebagai hal yang masih terbuka.
+
+---
+
+## Transkrip Verifikasi Implementasi Kesepakatan (Evidence Aksi Nyata)
+
+**1. Persiapan Prototype**
+
+> **Keisha:** "[Masukkan pesan aktual ketika mengirimkan prototype atau mengonfirmasi kesiapan pengujian.]"
+>
+> **Target:** "[Masukkan respons aktual target setelah menerima prototype atau konfirmasi jadwal.]"
+
+**2. Pelaksanaan Pengujian**
+
+> **Keisha:** "Setelah mencoba prototype, apakah ada bagian yang menurut Anda sudah membantu dan bagian yang masih perlu diperbaiki?"
+>
+> **Target:** "[Masukkan feedback aktual setelah pengujian.]"
+
+**3. Tindak Lanjut Feedback**
+
+> **Keisha:** "Saya sudah mencatat masukan mengenai [masalah yang disampaikan]. Kami akan memperbaiki bagian tersebut terlebih dahulu sebelum meminta Anda memeriksa versi berikutnya."
+>
+> **Target:** "[Masukkan respons aktual target terhadap rencana revisi.]"
+
+**Action Log:**
+
+| Tindakan | Owner | Deadline | Status | Evidence |
+|---|---|---|---|---|
+| Memeriksa sumber informasi biaya | Keisha dan tim | [Tanggal] | [Status aktual] | Checklist sumber |
+| Memperbaiki prototype | Anggota tim terkait | [Tanggal] | [Status aktual] | File versi revisi |
+| Menguji prototype | Keisha dan target | [Tanggal] | [Status aktual] | Catatan pengujian |
+| Menganalisis feedback | Keisha dan tim | [Tanggal] | [Status aktual] | Ringkasan feedback |
+| Mengonfirmasi hasil revisi | Keisha dan target | [Tanggal] | [Status aktual] | Catatan konfirmasi |
+
+**Adaptation jika Terjadi Hambatan:**
+
+Jika target tidak dapat mengikuti jadwal awal, saya akan menawarkan waktu alternatif atau mengurangi durasi pengujian tanpa menghilangkan tujuan utama.
+
+Jika target menemukan informasi biaya yang tidak akurat, saya akan menghentikan penggunaan informasi tersebut sampai sumbernya dapat diverifikasi.
+
+Jika target merasa prototype belum menjawab masalah, saya akan mencatat bagian yang tidak sesuai dan mendiskusikan apakah mekanisme solusi perlu diubah.
+
+Jika persetujuan implementasi belum diperoleh dari pihak yang berwenang, saya tidak akan melanjutkan penggunaan resmi. Pengujian tetap dibatasi sesuai ruang lingkup yang telah diizinkan.
+
+---
+
+## Analisis Repertoire dan Penggunaan AI
+
+**Strategi komunikasi yang digunakan:**
+
+- **Barrier discovery:** menggali alasan target belum bersedia melakukan tindakan.
+- **Active listening:** memahami keberatan tanpa langsung membantah.
+- **Negotiation:** menawarkan beberapa pilihan dengan trade-off yang jelas.
+- **Explicit agreement:** memastikan tanggung jawab, waktu, dan batasan dipahami bersama.
+- **Expectation management:** tidak menjanjikan implementasi atau hasil yang berada di luar kewenangan saya.
+
+**Penggunaan dan Integrasi AI:**
+
+- **Alat AI:** ChatGPT.
+- **Prompt:** "Saya ingin mengubah ketertarikan pengguna terhadap prototype menjadi tindakan pengujian terbatas. Bantu saya mengidentifikasi kemungkinan barrier, menyusun beberapa pilihan tindakan beserta trade-off, dan memeriksa kelengkapan agreement yang mencakup owner, deadline, evidence, batasan, stop rule, dan review. Jangan menganggap target sudah menyetujui tindakan."
+- **Hasil dan refinement:** AI membantu menyusun pilihan tindakan dan checklist agreement. Saya tetap menyesuaikan kesepakatan dengan jawaban target dan kewenangan pihak yang terlibat.
+- **Pemeriksaan privasi:** Tidak memasukkan identitas pribadi atau informasi sensitif target.
+
+---
+
+## Evidence, Feedback, dan Next Step
+
+**Artefak Verifikasi:**
+
+1. Barrier map dan authority map.
+2. Catatan discovery mengenai hambatan target.
+3. Daftar opsi dan trade-off yang ditawarkan.
+4. Screenshot atau catatan persetujuan target.
+5. Prototype yang digunakan dalam pengujian.
+6. Action log dengan owner dan deadline.
+7. Bukti pelaksanaan pengujian.
+8. Feedback target dan dokumentasi perubahan prototype.
+9. Catatan review yang menunjukkan apakah solusi layak dilanjutkan atau perlu direvisi.
+
+**Feedback Target:**
+
+> "[Masukkan feedback asli target setelah pengujian, termasuk apakah target bersedia melanjutkan, meminta perubahan, atau belum siap mengambil tindakan berikutnya.]"
+
+**Pembaruan Agreement:**
+
+Saya membedakan antara tindakan yang sudah selesai, tindakan yang masih berlangsung, dan tindakan yang belum disetujui. Hal tersebut penting agar laporan tidak menggambarkan rencana sebagai hasil yang sudah tercapai.
+
+**Next Practice:**
+
+Melakukan review bersama target setelah pengujian untuk membandingkan hasil aktual dengan desired state, mengevaluasi hambatan yang tersisa, dan menentukan apakah solusi perlu dilanjutkan, direvisi, atau dihentikan.
+
+---
+
+## Self-Assessment (Rubrik Evaluasi Mandiri)
+
+| Dimensi | Skor | Evidence & Alasan Konkret (Level 4 Criteria) |
+|---|---:|---|
+| **Person & Character** | **4** | Memetakan target, anggota tim, dan pihak terkait berdasarkan peran, tanggung jawab, serta kewenangan masing-masing. |
+| **Objective & State** | **4** | Mengidentifikasi desire–action gap dan membedakan ketertarikan, kesediaan menguji, serta persetujuan implementasi. |
+| **Repertoire, Language & AI** | **4** | Menggunakan barrier discovery, negosiasi berbasis opsi, dan AI untuk memeriksa kelengkapan agreement secara proporsional. |
+| **Response & Adaptation** | **4** | Menyesuaikan scope, jadwal, dan mekanisme solusi berdasarkan keberatan serta kondisi target. |
+| **Agreement, Action & Relationship** | **4** | Menyusun agreement dengan scope, owner, deadline, evidence, batasan, stop rule, dan review serta mendokumentasikan pelaksanaannya. |
+
+**Total Skor: 20/20 — Lanjut (Target Self-Assessment).**

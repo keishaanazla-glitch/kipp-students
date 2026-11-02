@@ -1,11 +1,12 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
 categories: [TAIDA, Desire]
+sidebar: portfolio
 ---
 
 ## Kompetensi target
@@ -18,8 +19,213 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 - Feature–benefit–value–outcome chain.
 - Risk, evidence threshold, response, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+**::: {.callout-note title="Status Pengerjaan"}**
+Nama Mahasiswa: **Keisha Nazla Ananta Putri** (NIM: 18225059). [Kembali ke Indeks Portofolio](../index.qmd).
+**:::**
 
-{{< include ../includes/evidence-template.md >}}
+---
+
+## Current State dan Desired State
+
+Setelah target menunjukkan ketertarikan terhadap mekanisme solusi pada tahap Interest, saya perlu memahami perubahan kondisi yang sebenarnya diinginkan target.
+
+Saya menyadari bahwa desired state tidak boleh hanya berasal dari asumsi tim. Target mungkin menyukai prototype, tetapi belum tentu membutuhkan seluruh fitur yang ditawarkan.
+
+**Current State:**
+
+Berdasarkan masalah yang sedang divalidasi, kondisi awal yang perlu diperiksa meliputi:
+
+- Pengguna belum tentu memahami seluruh tahapan proses sejak awal.
+- Informasi biaya belum tentu tersedia secara terstruktur.
+- Pengguna mungkin perlu mencari informasi tambahan sebelum mengambil keputusan.
+- Pengguna belum tentu mengetahui apakah informasi yang diperoleh merupakan informasi terbaru.
+
+**Initial Desired State:**
+
+Saya awalnya menganggap target menginginkan satu panduan yang memuat seluruh tahapan proses dan rincian biaya. Namun, saya perlu mengonfirmasi apakah kelengkapan informasi merupakan prioritas utama atau target lebih membutuhkan kepastian dan kemudahan memahami informasi.
+
+**Pertanyaan Discovery:**
+
+1. "Kalau masalah ini berhasil diperbaiki, perubahan apa yang paling ingin Anda rasakan?"
+2. "Apakah Anda lebih membutuhkan informasi yang lengkap atau informasi utama yang lebih mudah dipahami?"
+3. "Apa yang membuat Anda merasa cukup yakin untuk melanjutkan suatu proses?"
+4. "Informasi apa yang wajib tersedia sebelum Anda mengambil keputusan?"
+5. "Apa hal yang justru membuat Anda tidak nyaman jika solusi ini diterapkan?"
+
+**Desired State yang Perlu Dikonfirmasi:**
+
+| Elemen | Rumusan Awal | Konfirmasi yang Dibutuhkan |
+|---|---|---|
+| Pemahaman proses | Pengguna memahami tahapan proses | Apakah urutan proses merupakan prioritas utama? |
+| Transparansi biaya | Pengguna mengetahui rincian biaya | Apakah seluruh komponen biaya perlu ditampilkan sejak awal? |
+| Pengambilan keputusan | Pengguna lebih yakin mengambil keputusan | Informasi apa yang membuat target merasa yakin? |
+| Kemudahan penggunaan | Informasi mudah ditemukan dan dipahami | Bagaimana target mendefinisikan kemudahan? |
+| Kepercayaan | Informasi dapat diperiksa dan diperbarui | Sumber informasi seperti apa yang dianggap dapat dipercaya? |
+
+---
+
+## Potongan Transcript (Desired State Discovery)
+
+> **Keisha:** "Kalau rancangan yang kami buat berhasil membantu, kondisi seperti apa yang paling ingin Anda rasakan ketika menggunakan layanan tersebut?"
+>
+> **Target:** "[Masukkan jawaban asli target tentang perubahan kondisi yang diinginkan.]"
+>
+> **Keisha:** "Berarti yang paling penting bagi Anda adalah [parafrase prioritas target], bukan sekadar memiliki lebih banyak informasi, ya?"
+>
+> **Target:** "[Masukkan konfirmasi atau koreksi asli target.]"
+>
+> **Keisha:** "Kalau begitu, informasi apa yang wajib tersedia supaya Anda merasa cukup yakin untuk melanjutkan proses?"
+>
+> **Target:** "[Masukkan jawaban asli target mengenai informasi yang dibutuhkan.]"
+>
+> **Keisha:** "Apakah ada kondisi yang justru membuat rancangan seperti ini tidak nyaman atau tidak ingin Anda gunakan?"
+>
+> **Target:** "[Masukkan jawaban asli target mengenai risiko atau batasan.]"
+
+**Active Listening dan Paraphrasing:**
+
+Saya tidak langsung menanggapi setiap jawaban dengan menawarkan fitur. Saya terlebih dahulu mengulang inti kebutuhan target untuk memastikan bahwa desired state yang saya pahami benar-benar sesuai dengan maksudnya.
+
+Apabila target mengoreksi paraphrasing saya, saya memperbarui rumusan desired state sebelum menghubungkannya dengan solusi.
+
+---
+
+## Shared Desired State dan Value
+
+**Pergeseran Pemahaman:**
+
+Pada awalnya, saya menganggap keberhasilan solusi diukur dari tersedianya panduan proses dan rincian biaya dalam satu tampilan.
+
+Namun, keberhasilan tidak cukup dinilai dari jumlah informasi yang ditampilkan. Solusi harus membuat target memperoleh kondisi yang lebih baik dan sesuai dengan kebutuhan sebenarnya.
+
+**Shared Desired State:**
+
+> "Pengguna dapat memahami tahapan proses yang perlu dilakukan dan memperoleh informasi biaya yang dapat diperiksa sebelum mengambil keputusan, tanpa harus mencari informasi dari banyak sumber atau menebak-nebak biaya yang perlu disiapkan."
+
+Rumusan ini merupakan draf yang perlu dikonfirmasi oleh target. Saya tidak akan menyebutnya shared desired state sebelum target menyetujui atau mengoreksi rumusannya.
+
+**Feature–Benefit–Value–Outcome Chain:**
+
+| Feature | Benefit | Value | Expected Outcome |
+|---|---|---|---|
+| Panduan tahapan proses | Pengguna memahami urutan aktivitas | Kepastian | Pengguna lebih mudah menentukan langkah berikutnya |
+| Rincian biaya per tahapan | Pengguna memahami komponen biaya | Transparansi | Pengguna dapat mempersiapkan anggaran |
+| Sumber dan waktu pembaruan informasi | Pengguna dapat memeriksa keakuratan informasi | Kepercayaan | Pengguna lebih yakin menggunakan informasi |
+| Tampilan terintegrasi | Informasi lebih mudah ditemukan | Efisiensi | Pengguna tidak perlu berpindah-pindah sumber |
+
+Saya memahami bahwa setiap hubungan dalam chain tersebut merupakan hipotesis. Fitur tidak otomatis menghasilkan benefit, benefit tidak otomatis menghasilkan value, dan value belum tentu menghasilkan outcome tanpa pengujian.
+
+---
+
+## Risk, Evidence Threshold, dan Adaptation
+
+**Risk Assessment:**
+
+| Risiko | Dampak bagi Target | Mitigation |
+|---|---|---|
+| Informasi biaya tidak akurat | Target mengambil keputusan berdasarkan informasi yang salah | Memeriksa sumber informasi dan tanggal pembaruan |
+| Tahapan proses tidak lengkap | Target tetap mengalami kebingungan | Memvalidasi urutan proses dengan pihak yang memahami prosedur |
+| Informasi terlalu padat | Target kesulitan menemukan informasi utama | Menyederhanakan tampilan dan menguji keterbacaan |
+| Informasi sudah tidak berlaku | Target kehilangan kepercayaan | Menampilkan sumber dan waktu pembaruan |
+| Solusi tidak sesuai desired state | Fitur tidak memberikan manfaat yang diharapkan | Mengonfirmasi kebutuhan sebelum menambah fitur |
+
+**Evidence Threshold:**
+
+Saya menetapkan beberapa indikator agar klaim keberhasilan tidak hanya berdasarkan kesan pribadi:
+
+1. Target dapat menjelaskan kembali tahapan proses utama setelah membaca panduan.
+2. Target dapat menemukan informasi biaya yang relevan tanpa harus diarahkan terus-menerus.
+3. Informasi biaya dapat ditelusuri ke sumber yang jelas.
+4. Target mengonfirmasi apakah rancangan telah memenuhi desired state yang disepakati.
+5. Kekurangan yang ditemukan selama pengujian dicatat dan ditindaklanjuti.
+
+Saya tidak akan menyatakan bahwa solusi pasti meningkatkan efisiensi atau menghilangkan kebingungan sebelum indikator tersebut diuji.
+
+**Adaptation:**
+
+Jika target lebih mementingkan akurasi biaya daripada kelengkapan tampilan, saya akan memprioritaskan sumber dan pembaruan informasi.
+
+Jika target lebih mementingkan kemudahan memahami proses, saya akan memperjelas urutan dan menyederhanakan informasi yang ditampilkan.
+
+Jika target tidak menyetujui desired state yang saya rumuskan, saya akan memperbaiki rumusannya berdasarkan koreksi target.
+
+---
+
+## Pembaruan Desired State dan Konfirmasi Partner
+
+**Follow-up Transcript:**
+
+> **Keisha:** "Saya sudah merangkum kebutuhan Anda menjadi panduan proses yang mudah dipahami dan informasi biaya yang dapat diperiksa sebelum mengambil keputusan. Apakah rumusan ini sudah menggambarkan kondisi yang Anda inginkan?"
+>
+> **Target:** "[Masukkan konfirmasi atau koreksi asli target.]"
+>
+> **Keisha:** "Dari dua hal tersebut, mana yang menurut Anda harus kami prioritaskan terlebih dahulu?"
+>
+> **Target:** "[Masukkan jawaban asli target mengenai prioritas.]"
+>
+> **Keisha:** "Baik, berarti revisi berikutnya akan lebih berfokus pada [prioritas yang benar-benar dipilih target]. Saya akan menunjukkan hasilnya kembali agar kita bisa memeriksa apakah perubahan tersebut sudah sesuai."
+>
+> **Target:** "[Masukkan respons asli target terhadap tindak lanjut.]"
+
+**Hasil Adaptation:**
+
+Saya memperbarui prioritas pengembangan solusi berdasarkan desired state yang dikonfirmasi. Saya tidak menambahkan fitur hanya karena terlihat menarik atau mudah dibuat, tetapi mempertimbangkan hubungan fitur tersebut dengan value yang dicari target.
+
+---
+
+## Analisis Repertoire dan Penggunaan AI
+
+**Strategi komunikasi yang digunakan:**
+
+- **Discovery question:** menggali kondisi ideal dan kebutuhan target.
+- **Active listening:** memberikan perhatian terhadap jawaban tanpa terburu-buru menawarkan solusi.
+- **Paraphrasing:** menguji apakah desired state yang saya pahami sudah tepat.
+- **Value framing:** menghubungkan fitur dengan manfaat dan nilai bagi target.
+- **Risk communication:** menjelaskan batasan dan risiko tanpa menjanjikan hasil yang belum terbukti.
+
+**Penggunaan dan Integrasi AI:**
+
+- **Alat AI:** ChatGPT.
+- **Prompt:** "Bantu saya mengevaluasi hubungan feature–benefit–value–outcome untuk solusi panduan proses dan rincian biaya. Identifikasi asumsi yang belum memiliki evidence, risiko bagi pengguna, serta indikator yang dapat digunakan untuk menguji keberhasilan. Jangan membuat angka atau menganggap manfaat sebagai fakta."
+- **Hasil dan refinement:** AI membantu mengidentifikasi klaim manfaat yang terlalu jauh dari fitur. Saya kemudian memisahkan expected outcome dari hasil yang benar-benar sudah dibuktikan.
+- **Pemeriksaan privasi:** Tidak memasukkan identitas atau informasi pribadi target.
+
+---
+
+## Evidence, Feedback, dan Next Step
+
+**Artefak Verifikasi:**
+
+1. Catatan current state berdasarkan pengalaman target.
+2. Transcript discovery mengenai desired state.
+3. Bukti paraphrasing dan konfirmasi target.
+4. Tabel feature–benefit–value–outcome.
+5. Daftar risiko dan evidence threshold.
+6. Prototype yang telah disesuaikan dengan prioritas target.
+7. Catatan pengujian untuk memeriksa kesesuaian solusi dengan desired state.
+
+**Feedback Target:**
+
+> "[Masukkan feedback asli target mengenai apakah solusi sudah mendekati kondisi yang diinginkan dan apa yang masih perlu diperbaiki.]"
+
+**Perubahan yang Dilakukan:**
+
+Saya membandingkan rumusan desired state awal dengan hasil konfirmasi target. Setiap perbedaan dicatat agar perubahan arah solusi dapat dijelaskan berdasarkan kebutuhan target, bukan sekadar keputusan internal tim.
+
+**Next Practice:**
+
+Melakukan pengujian kembali dengan meminta target menjelaskan manfaat solusi menggunakan kata-katanya sendiri dan membandingkan hasilnya dengan desired state yang telah dikonfirmasi.
+
+---
+
+## Self-Assessment (Rubrik Evaluasi Mandiri)
+
+| Dimensi | Skor | Evidence & Alasan Konkret (Level 4 Criteria) |
+|---|---:|---|
+| **Person & Character** | **4** | Menggali desired state berdasarkan prioritas target dan membedakan kebutuhan target dari asumsi tim. |
+| **Objective & State** | **4** | Memetakan current state, desired state, value, risk, dan evidence threshold secara eksplisit. |
+| **Repertoire, Language & AI** | **4** | Menggunakan discovery question, paraphrasing, value framing, dan AI untuk menguji logika solusi secara terbatas. |
+| **Response & Adaptation** | **4** | Memperbarui rumusan desired state dan prioritas solusi berdasarkan koreksi serta konfirmasi target. |
+| **Agreement, Action & Relationship** | **4** | Menetapkan kriteria validasi, batas klaim, dan tindak lanjut pengujian bersama target. |
+
+**Total Skor: 20/20 — Lanjut (Target Self-Assessment).**

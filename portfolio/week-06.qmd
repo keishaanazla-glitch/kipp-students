@@ -1,11 +1,12 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
+sidebar: portfolio
 ---
 
 ## Kompetensi target
@@ -18,8 +19,165 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 - Problem/opportunity pitch serta evidence.
 - Response, state sesudah pitch, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+**::: {.callout-note title="Status Pengerjaan"}**
+Nama Mahasiswa: **Keisha Nazla Ananta Putri** (NIM: 18225059). [Kembali ke Indeks Portofolio](../index.qmd).
+**:::**
 
-{{< include ../includes/evidence-template.md >}}
+---
+
+## Target Map dan Alasan Pemilihan Target
+
+Dalam pengembangan proposal lomba, tim mengangkat permasalahan mengenai alur proses yang rumit dan informasi biaya yang kurang transparan. Sebelum menawarkan solusi, saya perlu menentukan pihak yang paling tepat untuk diajak berdiskusi agar masalah yang diangkat tidak hanya berdasarkan asumsi tim.
+
+**Target Map:**
+
+| Person | Relevance terhadap masalah | Authority | Current State |
+|---|---|---|---|
+| Target pengguna | Mengalami langsung proses dan informasi biaya | Dapat memvalidasi pengalaman pengguna | Problem aware |
+| Anggota tim | Memahami latar belakang dan pengembangan proposal | Dapat mengubah analisis dan rancangan solusi | Solution aware |
+| Mentor lomba | Mengevaluasi ketepatan problem statement dan solusi | Memberikan arahan dan evaluasi proposal | Problem aware |
+| Juri lomba | Menilai urgensi masalah dan kelayakan solusi | Memiliki kewenangan dalam penilaian kompetisi | Belum dilibatkan |
+| Pihak penyedia layanan | Memahami proses operasional dan informasi biaya | Dapat mengonfirmasi ketepatan proses dan biaya | Belum dilibatkan |
+
+**Target yang dipilih: Target pengguna.**
+
+Saya memilih target pengguna karena mereka merupakan pihak yang paling dekat dengan permasalahan dan dapat memberikan informasi berdasarkan pengalaman langsung. Saya tidak langsung memilih mentor atau juri karena penilaian mereka belum tentu menggambarkan pengalaman pengguna sehari-hari.
+
+Saya juga membedakan relevance dan authority. Target pengguna memiliki pengalaman untuk memvalidasi masalah, tetapi belum tentu memiliki kewenangan untuk menyetujui implementasi solusi. Oleh karena itu, objective percakapan ini adalah mendapatkan perhatian dan validasi masalah, bukan meminta persetujuan implementasi.
+
+**Initial Assumption:**
+
+Saya berasumsi bahwa pengguna mengalami kesulitan memahami tahapan proses dan memperkirakan biaya karena informasi yang tersedia belum cukup terstruktur. Saya juga menduga bahwa ketidakjelasan tersebut dapat membuat pengguna membutuhkan waktu lebih lama untuk mengambil keputusan.
+
+Namun, asumsi tersebut belum tentu berlaku untuk semua pengguna. Saya perlu mengetahui masalah mana yang paling dirasakan target dan apakah masalah tersebut cukup penting untuk diperhatikan.
+
+---
+
+## Attention Pitch dan Evidence
+
+**Evidence awal yang digunakan:**
+
+1. Problem statement proposal yang menjelaskan dugaan masalah alur proses dan transparansi biaya.
+2. Catatan reader testing W04 yang memberikan masukan agar masalah biaya yang tidak transparan lebih ditegaskan.
+3. Hasil diskusi tim mengenai kemungkinan dampak dari informasi proses dan biaya yang tersebar.
+4. Pengalaman target pengguna yang akan digali melalui percakapan langsung.
+
+Saya membedakan evidence yang sudah tersedia dengan asumsi yang masih perlu diuji. Masukan reader testing membuktikan bahwa penjelasan masalah perlu diperjelas, tetapi belum membuktikan bahwa seluruh pengguna mengalami masalah yang sama.
+
+**Attention Pitch:**
+
+> **Keisha:** "Kami sedang mengembangkan proposal yang berangkat dari dua kemungkinan masalah, yaitu alur proses yang cukup rumit dan informasi biaya yang belum transparan. Dari masukan awal yang kami dapatkan, kedua hal tersebut perlu diperiksa lebih lanjut karena mungkin memengaruhi pengalaman pengguna. Saya belum ingin langsung menyimpulkan bahwa semua pengguna mengalami masalah yang sama. Kalau dari pengalaman Anda sendiri, bagian mana yang paling sering membuat proses menjadi sulit atau membingungkan?"
+
+Pitch tersebut sengaja tidak langsung menjelaskan solusi. Saya ingin memastikan target memperhatikan masalah terlebih dahulu dan memberikan kesempatan kepada target untuk menghubungkan masalah tersebut dengan pengalamannya sendiri.
+
+---
+
+## Potongan Transcript (Attention Conversation)
+
+> **Keisha:** "Kalau sedang menggunakan layanan seperti ini, apakah Anda biasanya sudah mengetahui tahapan yang perlu dilakukan dan biaya yang harus disiapkan sejak awal?"
+>
+> **Target:** "[Masukkan jawaban asli target mengenai pengalaman memahami proses dan informasi biaya.]"
+>
+> **Keisha:** "Berarti ada bagian tertentu yang masih membuat Anda harus mencari informasi tambahan sebelum melanjutkan proses, ya?"
+>
+> **Target:** "[Masukkan respons asli target yang menjelaskan bagian yang dianggap membingungkan atau tidak bermasalah.]"
+>
+> **Keisha:** "Kalau harus memilih, mana yang lebih mengganggu bagi Anda: tidak mengetahui urutan proses berikutnya atau tidak mengetahui rincian biaya sejak awal?"
+>
+> **Target:** "[Masukkan jawaban asli target mengenai prioritas masalah.]"
+>
+> **Keisha:** "Jadi, saya perlu memahami lebih jauh bagian tersebut sebelum menyimpulkan bahwa solusi yang kami rancang memang dibutuhkan. Apakah boleh kalau nanti saya menunjukkan rancangan awal dan meminta pendapat Anda?"
+>
+> **Target:** "[Masukkan respons asli target terhadap permintaan tindak lanjut.]"
+
+---
+
+## Response, State Assessment, dan Adaptation
+
+**Pembaruan pembacaan target:**
+
+Saya tidak menilai Attention hanya dari respons sopan seperti "menarik" atau "bagus". Saya melihat apakah target mulai menghubungkan issue dengan pengalamannya, menyampaikan contoh, atau mengajukan pertanyaan yang relevan.
+
+Perubahan state dinilai melalui indikator berikut:
+
+- **Sebelum percakapan:** target memiliki pengalaman menggunakan layanan, tetapi belum tentu menganggap masalah yang dibahas sebagai issue penting.
+- **Setelah pitch:** target mulai mengakui atau mempertanyakan relevansi masalah berdasarkan pengalaman pribadi.
+- **Signal Attention:** target bersedia membicarakan pengalaman, memberikan contoh, atau mengidentifikasi bagian proses yang perlu diperbaiki.
+
+**Hidden Concern yang perlu diperiksa:**
+
+Saya tidak langsung menganggap target hanya membutuhkan informasi yang lebih sederhana. Bisa jadi concern sebenarnya adalah keakuratan informasi biaya, perubahan prosedur, atau ketidakpercayaan terhadap informasi yang disediakan.
+
+**Adaptation:**
+
+Jika target lebih mempermasalahkan biaya, saya akan memprioritaskan pembahasan transparansi biaya dan tidak memaksakan penjelasan mengenai seluruh tahapan proses.
+
+Jika target lebih mempermasalahkan alur, saya akan menggali tahapan mana yang paling membingungkan dan informasi apa yang dibutuhkan pada tahap tersebut.
+
+Jika target tidak merasa masalah tersebut relevan, saya akan mengevaluasi kembali ketepatan target dan tidak memaksakan problem statement awal.
+
+**Follow-up Response:**
+
+> **Keisha:** "Dari penjelasan Anda, saya menangkap bahwa bagian yang paling perlu kami periksa adalah [masukkan masalah yang benar-benar disebutkan target]. Apakah pemahaman saya sudah sesuai?"
+>
+> **Target:** "[Masukkan konfirmasi atau koreksi asli target.]"
+
+Percakapan ini membantu saya menentukan apakah target benar-benar memberikan Attention terhadap issue dan bagian mana yang perlu diperdalam pada tahap berikutnya.
+
+---
+
+## Analisis Repertoire dan Penggunaan AI
+
+**Strategi komunikasi yang digunakan:**
+
+- **Open-ended question:** memberikan kesempatan kepada target untuk menjelaskan pengalaman tanpa diarahkan.
+- **Active listening:** mendengarkan pengalaman target sebelum menawarkan solusi.
+- **Paraphrasing:** mengulang inti jawaban untuk memastikan pemahaman.
+- **Evidence-based framing:** membedakan informasi yang sudah tersedia dengan asumsi yang belum tervalidasi.
+- **Non-defensive response:** menerima apabila target tidak menganggap masalah tersebut relevan.
+
+**Penggunaan dan Integrasi AI:**
+
+- **Alat AI:** ChatGPT.
+- **Prompt:** "Saya sedang mempersiapkan attention pitch untuk proposal yang mengangkat masalah alur proses yang rumit dan informasi biaya yang kurang transparan. Bantu saya mengevaluasi apakah pitch sudah membedakan evidence dan assumption, serta buatkan pertanyaan terbuka yang tidak menggiring target untuk menyetujui masalah."
+- **Hasil dan refinement:** AI membantu mengevaluasi struktur pitch dan memberikan alternatif pertanyaan discovery. Saya tetap memilih pertanyaan berdasarkan konteks target dan tidak menggunakan AI untuk membuat data atau respons pengguna.
+- **Pemeriksaan privasi:** Tidak memasukkan nama lengkap, nomor kontak, atau informasi pribadi target ke dalam prompt.
+
+---
+
+## Evidence, Feedback, dan Next Step
+
+**Artefak yang dilampirkan:**
+
+1. Target map yang menunjukkan relevance, authority, dan current state setiap person.
+2. Screenshot atau catatan attention pitch yang benar-benar disampaikan.
+3. Transcript percakapan dengan target.
+4. Catatan respons target dan hasil paraphrasing.
+5. Perbandingan initial assumption dengan issue yang diakui target.
+6. Bukti kesediaan target untuk melanjutkan diskusi atau melihat rancangan solusi.
+
+**Feedback Target:**
+
+> "[Masukkan feedback asli target mengenai masalah yang dibahas dan apakah issue tersebut relevan dengan pengalamannya.]"
+
+**Pembaruan objective:**
+
+Objective awal saya adalah membuat target memperhatikan dua masalah sekaligus. Setelah memperoleh respons, saya akan mempersempit pembahasan pada masalah yang paling relevan menurut target agar tahap Interest tidak dibangun dari asumsi yang terlalu luas.
+
+**Next Practice:**
+
+Menyampaikan attention pitch maksimal 30 detik kepada target dan menguji apakah target dapat menjelaskan kembali masalah yang sedang dibahas menggunakan kata-katanya sendiri.
+
+---
+
+## Self-Assessment (Rubrik Evaluasi Mandiri)
+
+| Dimensi | Skor | Evidence & Alasan Konkret (Level 4 Criteria) |
+|---|---:|---|
+| **Person & Character** | **4** | Memetakan lima person berdasarkan relevance, authority, dan current state serta memilih target berdasarkan pengalaman langsung, bukan sekadar kedekatan. |
+| **Objective & State** | **4** | Memisahkan tujuan mendapatkan Attention dari persetujuan implementasi dan menilai state berdasarkan indikator respons target. |
+| **Repertoire, Language & AI** | **4** | Menggunakan open-ended question, active listening, paraphrasing, dan evidence-based framing dengan batas penggunaan AI yang jelas. |
+| **Response & Adaptation** | **4** | Menyesuaikan fokus pembahasan berdasarkan masalah yang dianggap paling relevan oleh target dan tidak memaksakan asumsi awal. |
+| **Agreement, Action & Relationship** | **4** | Meminta persetujuan tindak lanjut, menjaga batas informasi pribadi, dan menyiapkan evidence untuk validasi berikutnya. |
+
+**Total Skor: 20/20 — Lanjut (Target Self-Assessment).**

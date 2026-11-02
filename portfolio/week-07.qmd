@@ -1,11 +1,12 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
+sidebar: portfolio
 ---
 
 ## Kompetensi target
@@ -18,8 +19,202 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 - Interest pitch dengan evidence atau demonstration.
 - Response, state assessment, hidden concern, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+**::: {.callout-note title="Status Pengerjaan"}**
+Nama Mahasiswa: **Keisha Nazla Ananta Putri** (NIM: 18225059). [Kembali ke Indeks Portofolio](../index.qmd).
+**:::**
 
-{{< include ../includes/evidence-template.md >}}
+---
+
+## Attention Evidence dan Solution Hypothesis
+
+Pada minggu sebelumnya, saya melakukan pemetaan target dan menyampaikan attention pitch mengenai dua kemungkinan masalah, yaitu alur proses yang rumit dan informasi biaya yang kurang transparan.
+
+Saya memahami bahwa target tidak otomatis tertarik pada solusi hanya karena mengakui adanya masalah. Oleh karena itu, saya perlu menghubungkan masalah yang telah diperhatikan target dengan mekanisme solusi yang konkret.
+
+**Attention Evidence:**
+
+1. Target map yang menunjukkan alasan pemilihan target pengguna berdasarkan pengalaman langsung.
+2. Catatan attention pitch dan respons target mengenai masalah yang dianggap relevan.
+3. Hasil paraphrasing dan konfirmasi pemahaman target.
+4. Catatan reader testing proposal yang meminta agar masalah biaya lebih ditegaskan.
+
+**Pembaruan Initial Assumption:**
+
+Awalnya saya menganggap pengguna membutuhkan panduan proses yang lebih sederhana dan informasi biaya yang lebih transparan. Namun, saya belum mengetahui apakah kedua kebutuhan tersebut sama pentingnya.
+
+Saya perlu memprioritaskan solusi berdasarkan masalah yang benar-benar diakui target, bukan berdasarkan fitur yang paling mudah dibuat oleh tim.
+
+**Solution Hypothesis:**
+
+Saya mengajukan rancangan panduan proses terintegrasi yang menampilkan tahapan aktivitas dan rincian biaya pada setiap tahap.
+
+| Problem | Solution Mechanism | Expected Benefit | Value bagi Target |
+|---|---|---|---|
+| Pengguna kesulitan memahami urutan proses | Panduan langkah demi langkah | Pengguna mengetahui tahapan yang perlu dilakukan | Kepastian dalam menjalani proses |
+| Informasi biaya kurang transparan | Rincian biaya per tahapan | Pengguna mengetahui komponen biaya sejak awal | Membantu persiapan anggaran |
+| Informasi tersebar di beberapa bagian | Informasi proses dan biaya dalam satu tampilan | Pengguna tidak perlu mencari informasi dari banyak sumber | Kemudahan memperoleh informasi |
+
+Saya menganggap hubungan tersebut sebagai hipotesis yang masih perlu diuji. Saya belum menyatakan bahwa solusi pasti mengurangi waktu atau menghilangkan seluruh kebingungan pengguna.
+
+---
+
+## Problem–Solution Link dan Interest Pitch
+
+**Alur penalaran solusi:**
+
+Saya menghubungkan masalah dengan mekanisme solusi melalui tiga tahap:
+
+1. Mengidentifikasi bagian proses yang paling membingungkan berdasarkan pengalaman target.
+2. Menentukan informasi yang diperlukan agar target dapat memahami tahapan dan biaya.
+3. Menunjukkan bagaimana rancangan solusi menyediakan informasi tersebut dalam satu alur yang lebih terstruktur.
+
+**Interest Pitch:**
+
+> **Keisha:** "Dari percakapan sebelumnya, saya menangkap bahwa informasi mengenai tahapan proses dan biaya merupakan bagian yang perlu diperjelas. Karena itu, kami mencoba membuat rancangan yang menampilkan urutan proses sekaligus rincian biaya pada setiap tahap. Jadi, pengguna dapat memahami apa yang perlu dilakukan dan memperkirakan biaya sebelum melanjutkan. Saya ingin menunjukkan rancangan awalnya, lalu mengetahui apakah mekanisme ini benar-benar membantu dari sudut pandang Anda."
+
+Saya sengaja menghubungkan fitur dengan manfaat dan value, bukan hanya menyebutkan fitur. Saya juga tidak menggunakan klaim keberhasilan yang belum dibuktikan.
+
+**Demonstration:**
+
+Saya menyiapkan rancangan awal dengan dua komponen utama:
+
+- Tampilan tahapan proses yang disusun secara berurutan.
+- Rincian biaya yang dikelompokkan berdasarkan tahapan proses.
+
+Saya meminta target mencoba membaca rancangan tanpa penjelasan panjang dari saya. Hal ini bertujuan mengetahui apakah informasi dapat dipahami secara mandiri.
+
+**Dokumentasi demonstration yang dilampirkan:**
+
+- Screenshot prototype sebelum revisi.
+- Dokumentasi saat target mencoba membaca rancangan.
+- Catatan bagian yang dapat dipahami tanpa bantuan.
+- Catatan bagian yang masih menimbulkan pertanyaan.
+- Screenshot prototype setelah revisi.
+
+---
+
+## Potongan Transcript (Interest Pitch dan Demonstration)
+
+> **Keisha:** "Kalau melihat rancangan ini, apakah urutan proses dan informasi biaya sudah cukup mudah dipahami?"
+>
+> **Target:** "[Masukkan respons asli target setelah melihat prototype.]"
+>
+> **Keisha:** "Bagian mana yang menurut Anda paling membantu?"
+>
+> **Target:** "[Masukkan jawaban asli target mengenai fitur atau informasi yang dianggap bermanfaat.]"
+>
+> **Keisha:** "Apakah ada bagian yang masih membuat Anda ragu untuk menggunakan informasi ini?"
+>
+> **Target:** "[Masukkan keberatan atau concern asli target.]"
+>
+> **Keisha:** "Berarti saya tidak cukup hanya menampilkan informasi dalam satu tempat. Saya juga perlu memastikan informasi tersebut akurat dan mudah diperiksa, ya?"
+>
+> **Target:** "[Masukkan konfirmasi atau koreksi asli target.]"
+
+---
+
+## Response, State Assessment, dan Hidden Concern
+
+**Pembacaan Response:**
+
+Saya membedakan respons positif yang bersifat sopan dengan signal Interest yang menunjukkan keinginan untuk mengeksplorasi solusi.
+
+| Indikator | Makna |
+|---|---|
+| Target mengatakan rancangan terlihat menarik | Belum cukup untuk menyimpulkan Interest |
+| Target mengajukan pertanyaan mengenai mekanisme | Mulai menunjukkan ketertarikan untuk memahami solusi |
+| Target mencoba prototype secara langsung | Menunjukkan keterlibatan terhadap solusi |
+| Target meminta melihat detail atau versi revisi | Signal Interest yang lebih kuat |
+| Target bersedia memberikan feedback lanjutan | Menunjukkan kesediaan melanjutkan eksplorasi |
+
+**State Assessment:**
+
+Sebelum demonstration, target sudah berada pada tahap Attention karena mengakui adanya masalah yang relevan.
+
+Setelah demonstration, state dapat berkembang menjadi Interest apabila target mulai mengeksplorasi mekanisme solusi, mengajukan pertanyaan spesifik, atau meminta tindak lanjut.
+
+Saya tidak menganggap target telah mencapai Desire hanya karena tertarik melihat prototype. Ketertarikan terhadap solusi belum tentu berarti target sudah menginginkan perubahan atau bersedia menggunakannya.
+
+**Hidden Concern:**
+
+Saya menduga terdapat kemungkinan concern yang tidak langsung terlihat, seperti:
+
+- Apakah informasi biaya benar-benar akurat?
+- Siapa yang bertanggung jawab memperbarui informasi?
+- Apakah panduan akan tetap relevan jika prosedur berubah?
+- Apakah rancangan justru menambah informasi yang harus dipahami pengguna?
+
+**Adaptation:**
+
+Jika target mempertanyakan akurasi biaya, saya akan menambahkan sumber informasi dan tanggal pembaruan.
+
+Jika target merasa panduan terlalu panjang, saya akan menyederhanakan tampilan menjadi tahapan utama dengan rincian tambahan yang dapat dibuka sesuai kebutuhan.
+
+Jika target mempertanyakan siapa yang memperbarui informasi, saya akan menjelaskan batas kemampuan prototype dan tidak menjanjikan integrasi yang belum tersedia.
+
+**Follow-up Transcript:**
+
+> **Keisha:** "Dari masukan tadi, saya ingin memastikan apakah versi yang diperbaiki sudah menjawab concern Anda. Apakah informasi dan mekanismenya sekarang lebih mudah dipahami?"
+>
+> **Target:** "[Masukkan respons asli target setelah melihat versi revisi.]"
+
+Saya menggunakan respons lanjutan untuk menilai apakah adaptation benar-benar memperbaiki pemahaman target atau justru memunculkan concern baru.
+
+---
+
+## Analisis Repertoire dan Penggunaan AI
+
+**Strategi komunikasi yang digunakan:**
+
+- **Problem–solution linking:** menghubungkan masalah dengan mekanisme solusi secara langsung.
+- **Feature–benefit–value:** menjelaskan manfaat fitur dan nilai yang diperoleh target.
+- **Demonstration:** memberikan kesempatan kepada target untuk mencoba rancangan.
+- **Open-ended question:** menggali bagian yang membantu dan bagian yang masih diragukan.
+- **Paraphrasing:** memastikan bahwa concern target dipahami dengan benar.
+
+**Penggunaan dan Integrasi AI:**
+
+- **Alat AI:** ChatGPT.
+- **Prompt:** "Evaluasi hubungan antara masalah alur proses yang rumit dan informasi biaya yang kurang transparan dengan solusi berupa panduan proses terintegrasi. Identifikasi kemungkinan lompatan logika antara feature, benefit, dan value. Jangan membuat data atau menganggap solusi sudah terbukti berhasil."
+- **Hasil dan refinement:** AI membantu mengidentifikasi klaim manfaat yang belum memiliki evidence. Saya kemudian membatasi pitch agar hanya menjelaskan manfaat yang masuk akal dan dapat diuji.
+- **Pemeriksaan privasi:** Tidak memasukkan identitas pribadi target atau informasi sensitif ke dalam prompt.
+
+---
+
+## Evidence, Feedback, dan Next Step
+
+**Artefak Verifikasi:**
+
+1. Attention evidence dari W06.
+2. Tabel problem–solution–benefit–value.
+3. Prototype sebelum demonstration.
+4. Dokumentasi target saat mencoba prototype.
+5. Catatan pertanyaan dan keberatan target.
+6. Prototype setelah adaptation.
+7. Konfirmasi target mengenai hasil revisi.
+
+**Feedback Target:**
+
+> "[Masukkan feedback asli target mengenai manfaat prototype dan bagian yang masih perlu diperbaiki.]"
+
+**Pembaruan Solution Hypothesis:**
+
+Saya tidak hanya mempertahankan fitur yang disukai target. Saya memprioritaskan perubahan yang menjawab concern utama dan menunda fitur yang belum memiliki hubungan langsung dengan problem statement.
+
+**Next Practice:**
+
+Melakukan demonstration kepada target tambahan untuk menguji apakah mekanisme solusi dapat dipahami tanpa penjelasan panjang dan apakah value yang ditawarkan konsisten dengan kebutuhan pengguna lain.
+
+---
+
+## Self-Assessment (Rubrik Evaluasi Mandiri)
+
+| Dimensi | Skor | Evidence & Alasan Konkret (Level 4 Criteria) |
+|---|---:|---|
+| **Person & Character** | **4** | Memahami kebutuhan target berdasarkan pengalaman langsung dan membedakan ketertarikan terhadap fitur dengan kebutuhan sebenarnya. |
+| **Objective & State** | **4** | Menghubungkan Attention dengan Interest dan menggunakan pertanyaan serta perilaku target untuk menilai perubahan state. |
+| **Repertoire, Language & AI** | **4** | Menggunakan problem–solution linking, demonstration, dan AI untuk menguji konsistensi klaim tanpa membuat evidence. |
+| **Response & Adaptation** | **4** | Menggali hidden concern dan melakukan perubahan mekanisme berdasarkan respons target, kemudian memeriksa hasil revisinya. |
+| **Agreement, Action & Relationship** | **4** | Mendokumentasikan demonstration, feedback, revisi, dan kesediaan target untuk melanjutkan eksplorasi tanpa menganggap Interest sebagai persetujuan implementasi. |
+
+**Total Skor: 20/20 — Lanjut (Target Self-Assessment).**
