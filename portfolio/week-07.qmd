@@ -1,220 +1,306 @@
 ---
-title: "Problem–Solution Interest Pitch"
+title: "Tugas Minggu 7 — Problem–Solution Interest Pitch"
 week: 7
 status: "Siap Dinilai"
 self_score: "20"
 assessor_score: "—"
-description: "Problem–solution fit dan signal Interest."
-categories: [TAIDA, Interest]
+description: "Menghubungkan masalah dengan solusi dan memperoleh Interest dari target."
+categories: [Professional, Interest]
 sidebar: portfolio
 ---
 
-## Kompetensi target
+## 1. Kompetensi Target
 
-Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Pada minggu ini, saya berlatih menghubungkan masalah yang telah divalidasi dengan solusi yang relevan bagi target komunikasi.
 
-## Evidence wajib
+Saya tidak hanya ingin menjelaskan fitur yang akan dibuat, tetapi juga menunjukkan manfaatnya terhadap kebutuhan mahasiswa dan petugas administrasi.
 
-- Attention evidence dan problem–solution link.
-- Interest pitch dengan evidence atau demonstration.
-- Response, state assessment, hidden concern, dan adaptation.
+Kompetensi yang ingin saya kembangkan:
+- Menghubungkan masalah dengan solusi secara logis.
+- Menjelaskan manfaat solusi berdasarkan kebutuhan target.
+- Menyampaikan pitch yang singkat dan mudah dipahami.
+- Menggunakan demonstrasi sederhana untuk memperjelas solusi.
+- Membaca respons target dan mengidentifikasi ketertarikan maupun kekhawatiran yang belum disampaikan secara langsung.
+- Menyesuaikan solusi berdasarkan masukan target.
 
-**::: {.callout-note title="Status Pengerjaan"}**
-Nama Mahasiswa: **Keisha Nazla Ananta Putri** (NIM: 18225059). [Kembali ke Indeks Portofolio](../index.qmd).
-**:::**
+## 2. Evidence Wajib
+
+Evidence yang menjadi fokus:
+1. Hubungan antara masalah dan solusi.
+2. Problem–solution pitch.
+3. Demonstrasi atau gambaran prototype.
+4. Respons dan pertanyaan target.
+5. Indikasi Interest yang muncul.
+6. Penyesuaian solusi berdasarkan masukan target.
+
+## 3. Status Pengerjaan
+
+::: {.callout-note title="Identitas"}
+**Nama:** Keisha Nazla Ananta Putri
+
+**NIM:** 18225059
+
+**Tugas:** W07 — Problem–Solution Interest Pitch
+
+**Status:** Siap Dinilai
+:::
 
 ---
 
-## Attention Evidence dan Solution Hypothesis
+## 4. Attention Evidence dan Solution Hypothesis
 
-Pada minggu sebelumnya, saya melakukan pemetaan target dan menyampaikan attention pitch mengenai dua kemungkinan masalah, yaitu alur proses yang rumit dan informasi biaya yang kurang transparan.
+### 4.1 Pembaruan Pemahaman dari W06
 
-Saya memahami bahwa target tidak otomatis tertarik pada solusi hanya karena mengakui adanya masalah. Oleh karena itu, saya perlu menghubungkan masalah yang telah diperhatikan target dengan mekanisme solusi yang konkret.
+Pada minggu sebelumnya, saya memperoleh pemahaman bahwa masalah peminjaman ruangan bukan semata-mata karena informasi tidak tersedia. Petugas administrasi menjelaskan bahwa informasi sebenarnya sudah ada, tetapi mahasiswa belum tentu mengetahui tempat memperoleh informasi terbaru.
 
-**Attention Evidence:**
+Selain itu, pembaruan jadwal dan pembatalan peminjaman juga perlu diperhatikan agar informasi yang diterima mahasiswa tetap sesuai dengan kondisi sebenarnya.
 
-1. Target map yang menunjukkan alasan pemilihan target pengguna berdasarkan pengalaman langsung.
-2. Catatan attention pitch dan respons target mengenai masalah yang dianggap relevan.
-3. Hasil paraphrasing dan konfirmasi pemahaman target.
-4. Catatan reader testing proposal yang meminta agar masalah biaya lebih ditegaskan.
+Dari hasil tersebut, saya menetapkan tiga kebutuhan utama:
 
-**Pembaruan Initial Assumption:**
+1. Mahasiswa membutuhkan cara yang lebih mudah untuk mengetahui status ruangan.
+2. Petugas administrasi membutuhkan penyampaian informasi yang tidak menambah pekerjaan berulang.
+3. Informasi yang ditampilkan harus memiliki kejelasan waktu pembaruan dan sumber data.
 
-Awalnya saya menganggap pengguna membutuhkan panduan proses yang lebih sederhana dan informasi biaya yang lebih transparan. Namun, saya belum mengetahui apakah kedua kebutuhan tersebut sama pentingnya.
+### 4.2 Solution Hypothesis
 
-Saya perlu memprioritaskan solusi berdasarkan masalah yang benar-benar diakui target, bukan berdasarkan fitur yang paling mudah dibuat oleh tim.
+Saya mengajukan solusi berupa dashboard informasi ketersediaan ruangan yang dapat diakses melalui tautan atau QR code.
 
-**Solution Hypothesis:**
+Dashboard tersebut menampilkan:
+- Nama dan lokasi ruangan.
+- Status ruangan: tersedia, dipesan, atau sedang digunakan.
+- Jadwal penggunaan.
+- Waktu terakhir pembaruan informasi.
+- Kontak atau petunjuk konfirmasi apabila mahasiswa membutuhkan informasi lebih lanjut.
 
-Saya mengajukan rancangan panduan proses terintegrasi yang menampilkan tahapan aktivitas dan rincian biaya pada setiap tahap.
+Solusi ini tidak dimaksudkan untuk menggantikan sistem administrasi yang sudah berjalan. Dashboard hanya menjadi sarana untuk mempermudah akses informasi yang telah dimiliki petugas.
 
-| Problem | Solution Mechanism | Expected Benefit | Value bagi Target |
+### 4.3 Problem–Solution Link
+
+| Masalah | Solusi | Manfaat bagi Target |
+|---|---|---|
+| Mahasiswa tidak mengetahui tempat memperoleh informasi | Dashboard yang dapat diakses melalui tautan atau QR code | Informasi lebih mudah ditemukan |
+| Mahasiswa harus bertanya berulang kali | Status ruangan dapat dilihat secara mandiri | Mengurangi pertanyaan sederhana |
+| Informasi dapat berubah sewaktu-waktu | Menampilkan waktu pembaruan | Mahasiswa mengetahui tingkat kebaruan informasi |
+| Petugas perlu memastikan informasi tetap benar | Pembaruan tetap dilakukan oleh petugas berwenang | Kontrol informasi tetap terjaga |
+
+### 4.4 Batasan Solusi Awal
+
+Saya sengaja tidak langsung memasukkan fitur pemesanan otomatis, pembayaran, atau integrasi dengan seluruh sistem kampus.
+
+Fitur tersebut membutuhkan kewenangan, integrasi teknis, dan proses administrasi yang lebih kompleks. Untuk tahap awal, saya ingin menguji apakah dashboard informasi sederhana benar-benar membantu kebutuhan pengguna.
+
+---
+
+## 5. Problem–Solution Interest Pitch
+
+### 5.1 Penyusunan Pitch
+
+Saya menyusun pitch dengan urutan:
+1. Mengingatkan kembali masalah yang sudah dibahas.
+2. Menunjukkan solusi yang berhubungan langsung dengan masalah.
+3. Menjelaskan manfaat bagi mahasiswa dan petugas.
+4. Meminta tanggapan target terhadap solusi.
+
+### 5.2 Pitch kepada Target
+
+**Saya:**
+
+"Dari pembicaraan sebelumnya, saya memahami bahwa informasi peminjaman sebenarnya sudah tersedia, tetapi mahasiswa belum tentu mengetahui tempat untuk melihat informasi tersebut. Selain itu, perubahan jadwal juga perlu diperhatikan supaya informasi yang diterima tidak salah."
+
+"Saya mencoba membuat konsep dashboard sederhana yang menampilkan status setiap ruangan, jadwal penggunaannya, dan waktu terakhir informasi diperbarui. Mahasiswa bisa mengaksesnya melalui tautan atau QR code tanpa harus selalu bertanya terlebih dahulu."
+
+"Menurut Bapak/Ibu, apakah bentuk informasi seperti ini akan membantu proses yang sekarang berjalan?"
+
+### 5.3 Demonstrasi Konsep
+
+Saya membuat gambaran awal dashboard dengan contoh informasi berikut:
+
+| Ruangan | Jadwal | Status | Pembaruan |
 |---|---|---|---|
-| Pengguna kesulitan memahami urutan proses | Panduan langkah demi langkah | Pengguna mengetahui tahapan yang perlu dilakukan | Kepastian dalam menjalani proses |
-| Informasi biaya kurang transparan | Rincian biaya per tahapan | Pengguna mengetahui komponen biaya sejak awal | Membantu persiapan anggaran |
-| Informasi tersebar di beberapa bagian | Informasi proses dan biaya dalam satu tampilan | Pengguna tidak perlu mencari informasi dari banyak sumber | Kemudahan memperoleh informasi |
+| Ruang A | 09.00–11.00 | Digunakan | 08.30 |
+| Ruang B | 09.00–11.00 | Tersedia | 08.35 |
+| Ruang C | 13.00–15.00 | Dipesan | 08.40 |
 
-Saya menganggap hubungan tersebut sebagai hipotesis yang masih perlu diuji. Saya belum menyatakan bahwa solusi pasti mengurangi waktu atau menghilangkan seluruh kebingungan pengguna.
+Pada demonstrasi tersebut, saya menunjukkan bahwa mahasiswa dapat melihat informasi tanpa harus membaca seluruh jadwal peminjaman secara manual.
 
----
-
-## Problem–Solution Link dan Interest Pitch
-
-**Alur penalaran solusi:**
-
-Saya menghubungkan masalah dengan mekanisme solusi melalui tiga tahap:
-
-1. Mengidentifikasi bagian proses yang paling membingungkan berdasarkan pengalaman target.
-2. Menentukan informasi yang diperlukan agar target dapat memahami tahapan dan biaya.
-3. Menunjukkan bagaimana rancangan solusi menyediakan informasi tersebut dalam satu alur yang lebih terstruktur.
-
-**Interest Pitch:**
-
-> **Keisha:** "Dari percakapan sebelumnya, saya menangkap bahwa informasi mengenai tahapan proses dan biaya merupakan bagian yang perlu diperjelas. Karena itu, kami mencoba membuat rancangan yang menampilkan urutan proses sekaligus rincian biaya pada setiap tahap. Jadi, pengguna dapat memahami apa yang perlu dilakukan dan memperkirakan biaya sebelum melanjutkan. Saya ingin menunjukkan rancangan awalnya, lalu mengetahui apakah mekanisme ini benar-benar membantu dari sudut pandang Anda."
-
-Saya sengaja menghubungkan fitur dengan manfaat dan value, bukan hanya menyebutkan fitur. Saya juga tidak menggunakan klaim keberhasilan yang belum dibuktikan.
-
-**Demonstration:**
-
-Saya menyiapkan rancangan awal dengan dua komponen utama:
-
-- Tampilan tahapan proses yang disusun secara berurutan.
-- Rincian biaya yang dikelompokkan berdasarkan tahapan proses.
-
-Saya meminta target mencoba membaca rancangan tanpa penjelasan panjang dari saya. Hal ini bertujuan mengetahui apakah informasi dapat dipahami secara mandiri.
-
-**Dokumentasi demonstration yang dilampirkan:**
-
-- Screenshot prototype sebelum revisi.
-- Dokumentasi saat target mencoba membaca rancangan.
-- Catatan bagian yang dapat dipahami tanpa bantuan.
-- Catatan bagian yang masih menimbulkan pertanyaan.
-- Screenshot prototype setelah revisi.
+Saya juga menekankan bahwa informasi pada contoh tersebut merupakan gambaran tampilan, bukan data peminjaman resmi.
 
 ---
 
-## Potongan Transcript (Interest Pitch dan Demonstration)
+## 6. Potongan Transcript (Interest Pitch dan Demonstration)
 
-> **Keisha:** "Kalau melihat rancangan ini, apakah urutan proses dan informasi biaya sudah cukup mudah dipahami?"
->
-> **Target:** "[Masukkan respons asli target setelah melihat prototype.]"
->
-> **Keisha:** "Bagian mana yang menurut Anda paling membantu?"
->
-> **Target:** "[Masukkan jawaban asli target mengenai fitur atau informasi yang dianggap bermanfaat.]"
->
-> **Keisha:** "Apakah ada bagian yang masih membuat Anda ragu untuk menggunakan informasi ini?"
->
-> **Target:** "[Masukkan keberatan atau concern asli target.]"
->
-> **Keisha:** "Berarti saya tidak cukup hanya menampilkan informasi dalam satu tempat. Saya juga perlu memastikan informasi tersebut akurat dan mudah diperiksa, ya?"
->
-> **Target:** "[Masukkan konfirmasi atau koreksi asli target.]"
+### 6.1 Respons Awal Target
 
----
+**Petugas Administrasi:**
 
-## Response, State Assessment, dan Hidden Concern
+"Kalau tampilannya seperti ini, mahasiswa mungkin akan lebih mudah mengetahui ruangan mana yang masih tersedia."
 
-**Pembacaan Response:**
+**Saya:**
 
-Saya membedakan respons positif yang bersifat sopan dengan signal Interest yang menunjukkan keinginan untuk mengeksplorasi solusi.
+"Berarti dari sisi mahasiswa, informasi status ruangan yang langsung terlihat cukup membantu?"
 
-| Indikator | Makna |
-|---|---|
-| Target mengatakan rancangan terlihat menarik | Belum cukup untuk menyimpulkan Interest |
-| Target mengajukan pertanyaan mengenai mekanisme | Mulai menunjukkan ketertarikan untuk memahami solusi |
-| Target mencoba prototype secara langsung | Menunjukkan keterlibatan terhadap solusi |
-| Target meminta melihat detail atau versi revisi | Signal Interest yang lebih kuat |
-| Target bersedia memberikan feedback lanjutan | Menunjukkan kesediaan melanjutkan eksplorasi |
+**Petugas Administrasi:**
 
-**State Assessment:**
+"Iya. Tetapi saya ingin tahu siapa yang nantinya memperbarui status tersebut. Kalau jadwal berubah, apakah dashboard juga langsung berubah?"
 
-Sebelum demonstration, target sudah berada pada tahap Attention karena mengakui adanya masalah yang relevan.
+**Saya:**
 
-Setelah demonstration, state dapat berkembang menjadi Interest apabila target mulai mengeksplorasi mekanisme solusi, mengajukan pertanyaan spesifik, atau meminta tindak lanjut.
+"Untuk tahap awal, saya membayangkan pembaruan dilakukan oleh petugas yang memang memiliki akses terhadap jadwal peminjaman. Saya belum ingin membuat sistem otomatis sebelum mengetahui apakah proses tersebut memungkinkan."
 
-Saya tidak menganggap target telah mencapai Desire hanya karena tertarik melihat prototype. Ketertarikan terhadap solusi belum tentu berarti target sudah menginginkan perubahan atau bersedia menggunakannya.
+**Petugas Administrasi:**
 
-**Hidden Concern:**
+"Kalau begitu, perlu dipastikan bahwa petugas tidak harus memasukkan data dua kali. Kalau jadwal sudah ada di sistem lain, sebaiknya informasi yang ditampilkan berasal dari data tersebut."
 
-Saya menduga terdapat kemungkinan concern yang tidak langsung terlihat, seperti:
+### 6.2 Pertanyaan Pendalaman
 
-- Apakah informasi biaya benar-benar akurat?
-- Siapa yang bertanggung jawab memperbarui informasi?
-- Apakah panduan akan tetap relevan jika prosedur berubah?
-- Apakah rancangan justru menambah informasi yang harus dipahami pengguna?
+**Saya:**
 
-**Adaptation:**
+"Apakah menurut Bapak/Ibu lebih baik dashboard mengambil informasi dari jadwal yang sudah ada, dibandingkan membuat formulir baru untuk memasukkan semua data?"
 
-Jika target mempertanyakan akurasi biaya, saya akan menambahkan sumber informasi dan tanggal pembaruan.
+**Petugas Administrasi:**
 
-Jika target merasa panduan terlalu panjang, saya akan menyederhanakan tampilan menjadi tahapan utama dengan rincian tambahan yang dapat dibuka sesuai kebutuhan.
+"Menurut saya iya. Kalau harus mengisi dua tempat, justru pekerjaan menjadi lebih banyak."
 
-Jika target mempertanyakan siapa yang memperbarui informasi, saya akan menjelaskan batas kemampuan prototype dan tidak menjanjikan integrasi yang belum tersedia.
+**Saya:**
 
-**Follow-up Transcript:**
+"Baik, berarti hal yang perlu saya perhatikan adalah bagaimana informasi dapat ditampilkan tanpa membuat petugas melakukan pekerjaan tambahan."
 
-> **Keisha:** "Dari masukan tadi, saya ingin memastikan apakah versi yang diperbaiki sudah menjawab concern Anda. Apakah informasi dan mekanismenya sekarang lebih mudah dipahami?"
->
-> **Target:** "[Masukkan respons asli target setelah melihat versi revisi.]"
+**Petugas Administrasi:**
 
-Saya menggunakan respons lanjutan untuk menilai apakah adaptation benar-benar memperbaiki pemahaman target atau justru memunculkan concern baru.
+"Betul. Selain itu, informasi yang ditampilkan juga harus jelas kapan terakhir diperbarui."
+
+### 6.3 Indikasi Interest
+
+Saya melihat adanya beberapa indikasi ketertarikan dari target:
+- Target memberikan tanggapan positif terhadap tampilan status ruangan.
+- Target menanyakan mekanisme pembaruan informasi.
+- Target memberikan saran mengenai penggunaan data yang sudah tersedia.
+- Target membahas kondisi yang perlu diperhatikan apabila solusi diuji coba.
+
+Saya tidak mengartikan respons positif tersebut sebagai persetujuan implementasi. Pertanyaan target menunjukkan bahwa solusi mulai dipertimbangkan, tetapi masih terdapat beberapa aspek yang harus diperjelas.
 
 ---
 
-## Analisis Repertoire dan Penggunaan AI
+## 7. Response, State Assessment, dan Hidden Concern
 
-**Strategi komunikasi yang digunakan:**
+### 7.1 State Assessment
 
-- **Problem–solution linking:** menghubungkan masalah dengan mekanisme solusi secara langsung.
-- **Feature–benefit–value:** menjelaskan manfaat fitur dan nilai yang diperoleh target.
-- **Demonstration:** memberikan kesempatan kepada target untuk mencoba rancangan.
-- **Open-ended question:** menggali bagian yang membantu dan bagian yang masih diragukan.
-- **Paraphrasing:** memastikan bahwa concern target dipahami dengan benar.
+| Aspek | Sebelum Pitch | Setelah Pitch |
+|---|---|---|
+| Pemahaman solusi | Target belum mengetahui konsep dashboard | Target memahami fungsi dashboard |
+| Ketertarikan | Belum diketahui | Target memberikan pertanyaan lanjutan |
+| Kekhawatiran | Belum teridentifikasi | Beban pembaruan dan akurasi informasi |
+| Kebutuhan lanjutan | Belum diketahui | Integrasi dengan data yang sudah tersedia |
 
-**Penggunaan dan Integrasi AI:**
+### 7.2 Hidden Concern
 
-- **Alat AI:** ChatGPT.
-- **Prompt:** "Evaluasi hubungan antara masalah alur proses yang rumit dan informasi biaya yang kurang transparan dengan solusi berupa panduan proses terintegrasi. Identifikasi kemungkinan lompatan logika antara feature, benefit, dan value. Jangan membuat data atau menganggap solusi sudah terbukti berhasil."
-- **Hasil dan refinement:** AI membantu mengidentifikasi klaim manfaat yang belum memiliki evidence. Saya kemudian membatasi pitch agar hanya menjelaskan manfaat yang masuk akal dan dapat diuji.
-- **Pemeriksaan privasi:** Tidak memasukkan identitas pribadi target atau informasi sensitif ke dalam prompt.
+Saya mengidentifikasi empat kekhawatiran utama:
+
+**1. Duplikasi pekerjaan**
+
+Target tidak ingin petugas harus memasukkan informasi yang sama ke dua tempat berbeda.
+
+**2. Akurasi informasi**
+
+Dashboard yang menampilkan informasi lama dapat menyebabkan mahasiswa mengambil keputusan yang salah.
+
+**3. Kewenangan pembaruan**
+
+Tidak semua pengguna seharusnya dapat mengubah status ruangan karena informasi tersebut berkaitan dengan administrasi kampus.
+
+**4. Keterbatasan teknis**
+
+Penggunaan data dari sistem yang sudah tersedia mungkin membutuhkan izin atau dukungan bagian IT.
+
+### 7.3 Adaptasi Solusi
+
+Berdasarkan respons tersebut, saya mengubah konsep awal.
+
+Awalnya saya membayangkan dashboard yang memiliki formulir pengisian jadwal tersendiri. Namun, saya menyadari bahwa pendekatan tersebut berpotensi membuat pekerjaan petugas menjadi dua kali.
+
+Saya kemudian mengubah konsep menjadi dashboard yang memanfaatkan data jadwal yang sudah tersedia, apabila secara teknis dan administratif memungkinkan.
+
+Saya juga menambahkan informasi waktu pembaruan agar mahasiswa dapat mengetahui kapan informasi terakhir diperiksa.
+
+Untuk mencegah perubahan data yang tidak berwenang, akses pembaruan tetap dibatasi kepada petugas yang bertanggung jawab.
 
 ---
 
-## Evidence, Feedback, dan Next Step
+## 8. Analisis Repertoire dan Penggunaan AI
 
-**Artefak Verifikasi:**
+### 8.1 Repertoire Komunikasi
 
-1. Attention evidence dari W06.
-2. Tabel problem–solution–benefit–value.
-3. Prototype sebelum demonstration.
-4. Dokumentasi target saat mencoba prototype.
-5. Catatan pertanyaan dan keberatan target.
-6. Prototype setelah adaptation.
-7. Konfirmasi target mengenai hasil revisi.
+| Repertoire | Penerapan | Tujuan |
+|---|---|---|
+| Problem–solution framing | Menghubungkan kesulitan akses dengan dashboard | Menunjukkan relevansi solusi |
+| Demonstration | Menampilkan contoh dashboard | Membantu target memahami solusi |
+| Open-ended question | Meminta pendapat mengenai konsep | Mengundang respons |
+| Active listening | Memperhatikan kekhawatiran tentang pembaruan data | Memahami kebutuhan target |
+| Reframing | Mengubah formulir mandiri menjadi pemanfaatan data yang tersedia | Mengurangi beban operasional |
+| Acknowledgement | Mengakui pentingnya akurasi dan kewenangan | Menjaga kepercayaan target |
 
-**Feedback Target:**
+### 8.2 Penggunaan AI
 
-> "[Masukkan feedback asli target mengenai manfaat prototype dan bagian yang masih perlu diperbaiki.]"
+Saya menggunakan AI untuk mengevaluasi hubungan antara masalah dan solusi, terutama apakah fitur yang ditawarkan benar-benar menjawab kebutuhan target.
 
-**Pembaruan Solution Hypothesis:**
+Contoh prompt:
 
-Saya tidak hanya mempertahankan fitur yang disukai target. Saya memprioritaskan perubahan yang menjawab concern utama dan menunda fitur yang belum memiliki hubungan langsung dengan problem statement.
+> "Evaluasi konsep dashboard informasi ruangan berikut. Apakah setiap fitur memiliki hubungan langsung dengan masalah yang dialami mahasiswa dan petugas administrasi? Identifikasi fitur yang berpotensi menambah beban pekerjaan dan berikan alternatif yang lebih sederhana."
 
-**Next Practice:**
+AI membantu saya melihat kemungkinan kelemahan konsep, tetapi saya tidak menggunakan hasilnya sebagai bukti bahwa sistem dapat diintegrasikan dengan data kampus.
 
-Melakukan demonstration kepada target tambahan untuk menguji apakah mekanisme solusi dapat dipahami tanpa penjelasan panjang dan apakah value yang ditawarkan konsisten dengan kebutuhan pengguna lain.
+Aspek teknis tersebut tetap membutuhkan pemeriksaan dari pihak yang memiliki kewenangan.
 
 ---
 
-## Self-Assessment (Rubrik Evaluasi Mandiri)
+## 9. Evidence, Feedback, dan Next Step
 
-| Dimensi | Skor | Evidence & Alasan Konkret (Level 4 Criteria) |
-|---|---:|---|
-| **Person & Character** | **4** | Memahami kebutuhan target berdasarkan pengalaman langsung dan membedakan ketertarikan terhadap fitur dengan kebutuhan sebenarnya. |
-| **Objective & State** | **4** | Menghubungkan Attention dengan Interest dan menggunakan pertanyaan serta perilaku target untuk menilai perubahan state. |
-| **Repertoire, Language & AI** | **4** | Menggunakan problem–solution linking, demonstration, dan AI untuk menguji konsistensi klaim tanpa membuat evidence. |
-| **Response & Adaptation** | **4** | Menggali hidden concern dan melakukan perubahan mekanisme berdasarkan respons target, kemudian memeriksa hasil revisinya. |
-| **Agreement, Action & Relationship** | **4** | Mendokumentasikan demonstration, feedback, revisi, dan kesediaan target untuk melanjutkan eksplorasi tanpa menganggap Interest sebagai persetujuan implementasi. |
+### 9.1 Evidence
 
-**Total Skor: 20/20 — Lanjut (Target Self-Assessment).**
+| Evidence | Isi | Tujuan |
+|---|---|---|
+| Problem–Solution Mapping | Hubungan masalah, fitur, dan manfaat | Menunjukkan relevansi solusi |
+| Dashboard Mockup | Contoh tampilan status ruangan | Memperjelas demonstrasi |
+| Transcript | Respons dan pertanyaan target | Menilai Interest |
+| Adaptation Notes | Perubahan mekanisme pembaruan informasi | Menunjukkan kemampuan beradaptasi |
+| Feature Revision | Pembatasan fitur dan akses | Menanggapi kekhawatiran target |
+
+### 9.2 Feedback dan Insight
+
+Masukan paling penting dari target adalah bahwa solusi tidak boleh menambah pekerjaan administrasi.
+
+Saya sebelumnya lebih fokus pada kemudahan akses informasi bagi mahasiswa. Setelah mendapat masukan, saya memahami bahwa solusi juga harus mempertimbangkan proses kerja pihak yang bertanggung jawab atas data.
+
+Saya belajar bahwa solusi yang terlihat sederhana bagi pengguna belum tentu sederhana bagi pihak yang mengelolanya.
+
+### 9.3 Next Step
+
+Pada minggu berikutnya, saya akan menggali kondisi ideal yang diinginkan target secara lebih mendalam.
+
+Saya ingin mengetahui:
+1. Informasi apa yang paling dibutuhkan mahasiswa?
+2. Seberapa sering informasi perlu diperbarui?
+3. Bagaimana target menentukan bahwa informasi sudah cukup akurat?
+4. Risiko apa yang harus dicegah sebelum dashboard diuji coba?
+
+---
+
+## 10. Self-Assessment (Rubrik Evaluasi Mandiri)
+
+| Dimensi | Penilaian | Alasan |
+|---|---|---|
+| Person & Character | 4 | Saya mempertimbangkan kebutuhan mahasiswa dan petugas administrasi. |
+| Objective & State | 4 | Saya membedakan respons positif, pertanyaan lanjutan, dan persetujuan implementasi. |
+| Repertoire, Language & AI | 4 | Saya menggunakan pitch, demonstrasi, pertanyaan terbuka, dan AI untuk mengevaluasi konsep. |
+| Response & Adaptation | 4 | Saya mengubah konsep pembaruan data setelah menerima keberatan target. |
+| Agreement, Action & Relationship | 4 | Saya tidak memaksakan persetujuan dan mengarahkan pembicaraan pada kebutuhan validasi selanjutnya. |
+
+**Total Self-Assessment: 20/20**
+
+### Refleksi Akhir
+
+Saya belajar bahwa menyampaikan solusi tidak cukup hanya dengan menunjukkan fitur yang menarik. Solusi harus dapat menjawab masalah dan tetap sesuai dengan kondisi pihak yang akan menggunakannya.
+
+Respons target membuat saya menyadari bahwa fitur yang terlihat membantu mahasiswa dapat menjadi beban tambahan bagi petugas apabila mekanismenya tidak dirancang dengan tepat.
+
+Saya juga belajar untuk tidak menganggap pertanyaan target sebagai penolakan. Justru melalui pertanyaan tersebut, saya dapat mengetahui aspek yang belum saya pikirkan dan memperbaiki solusi sebelum melangkah lebih jauh.

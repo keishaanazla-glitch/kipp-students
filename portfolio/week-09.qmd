@@ -1,231 +1,291 @@
 ---
-title: "Desire-State Communication"
+title: "Tugas Minggu 9 — Desire-State Communication"
 week: 9
 status: "Siap Dinilai"
 self_score: "20"
 assessor_score: "—"
-description: "Current state, desired state, value, evidence, dan risk."
-categories: [TAIDA, Desire]
+description: "Menggali desired state, manfaat solusi, dan risiko implementasi."
+categories: [Professional, Desire]
 sidebar: portfolio
 ---
 
-## Kompetensi target
+## 1. Kompetensi Target
 
-Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+Pada minggu ini, saya berlatih memahami kondisi ideal yang ingin dicapai oleh target komunikasi (*desired state*), bukan hanya berfokus pada fitur solusi yang sudah saya buat.
 
-## Evidence wajib
+Saya ingin memastikan bahwa solusi yang dikembangkan benar-benar membantu target mencapai kondisi yang diharapkan.
 
-- Current dan desired state milik person.
-- Feature–benefit–value–outcome chain.
-- Risk, evidence threshold, response, dan adaptation.
+Kompetensi yang ingin saya kembangkan:
+- Mengidentifikasi perbedaan current state dan desired state.
+- Menggali kebutuhan target melalui pertanyaan lanjutan.
+- Menghubungkan fitur, manfaat, nilai, dan hasil yang diharapkan.
+- Mengidentifikasi risiko dan batasan solusi.
+- Menyesuaikan ekspektasi berdasarkan masukan target.
+- Menentukan bukti yang diperlukan sebelum solusi diuji coba.
 
-**::: {.callout-note title="Status Pengerjaan"}**
-Nama Mahasiswa: **Keisha Nazla Ananta Putri** (NIM: 18225059). [Kembali ke Indeks Portofolio](../index.qmd).
-**:::**
+## 2. Evidence Wajib
 
----
+Evidence yang menjadi fokus:
+1. Current state dan desired state berdasarkan perspektif target.
+2. Percakapan untuk menggali kondisi ideal.
+3. Hubungan feature–benefit–value–outcome.
+4. Risiko dan batasan solusi.
+5. Konfirmasi target terhadap desired state.
+6. Penyesuaian solusi berdasarkan kebutuhan target.
 
-## Current State dan Desired State
+## 3. Status Pengerjaan
 
-Setelah target menunjukkan ketertarikan terhadap mekanisme solusi pada tahap Interest, saya perlu memahami perubahan kondisi yang sebenarnya diinginkan target.
+::: {.callout-note title="Identitas"}
+**Nama:** Keisha Nazla Ananta Putri
 
-Saya menyadari bahwa desired state tidak boleh hanya berasal dari asumsi tim. Target mungkin menyukai prototype, tetapi belum tentu membutuhkan seluruh fitur yang ditawarkan.
+**NIM:** 18225059
 
-**Current State:**
+**Tugas:** W09 — Desire-State Communication
 
-Berdasarkan masalah yang sedang divalidasi, kondisi awal yang perlu diperiksa meliputi:
-
-- Pengguna belum tentu memahami seluruh tahapan proses sejak awal.
-- Informasi biaya belum tentu tersedia secara terstruktur.
-- Pengguna mungkin perlu mencari informasi tambahan sebelum mengambil keputusan.
-- Pengguna belum tentu mengetahui apakah informasi yang diperoleh merupakan informasi terbaru.
-
-**Initial Desired State:**
-
-Saya awalnya menganggap target menginginkan satu panduan yang memuat seluruh tahapan proses dan rincian biaya. Namun, saya perlu mengonfirmasi apakah kelengkapan informasi merupakan prioritas utama atau target lebih membutuhkan kepastian dan kemudahan memahami informasi.
-
-**Pertanyaan Discovery:**
-
-1. "Kalau masalah ini berhasil diperbaiki, perubahan apa yang paling ingin Anda rasakan?"
-2. "Apakah Anda lebih membutuhkan informasi yang lengkap atau informasi utama yang lebih mudah dipahami?"
-3. "Apa yang membuat Anda merasa cukup yakin untuk melanjutkan suatu proses?"
-4. "Informasi apa yang wajib tersedia sebelum Anda mengambil keputusan?"
-5. "Apa hal yang justru membuat Anda tidak nyaman jika solusi ini diterapkan?"
-
-**Desired State yang Perlu Dikonfirmasi:**
-
-| Elemen | Rumusan Awal | Konfirmasi yang Dibutuhkan |
-|---|---|---|
-| Pemahaman proses | Pengguna memahami tahapan proses | Apakah urutan proses merupakan prioritas utama? |
-| Transparansi biaya | Pengguna mengetahui rincian biaya | Apakah seluruh komponen biaya perlu ditampilkan sejak awal? |
-| Pengambilan keputusan | Pengguna lebih yakin mengambil keputusan | Informasi apa yang membuat target merasa yakin? |
-| Kemudahan penggunaan | Informasi mudah ditemukan dan dipahami | Bagaimana target mendefinisikan kemudahan? |
-| Kepercayaan | Informasi dapat diperiksa dan diperbarui | Sumber informasi seperti apa yang dianggap dapat dipercaya? |
+**Status:** Siap Dinilai
+:::
 
 ---
 
-## Potongan Transcript (Desired State Discovery)
+## 4. Current State dan Desired State
 
-> **Keisha:** "Kalau rancangan yang kami buat berhasil membantu, kondisi seperti apa yang paling ingin Anda rasakan ketika menggunakan layanan tersebut?"
->
-> **Target:** "[Masukkan jawaban asli target tentang perubahan kondisi yang diinginkan.]"
->
-> **Keisha:** "Berarti yang paling penting bagi Anda adalah [parafrase prioritas target], bukan sekadar memiliki lebih banyak informasi, ya?"
->
-> **Target:** "[Masukkan konfirmasi atau koreksi asli target.]"
->
-> **Keisha:** "Kalau begitu, informasi apa yang wajib tersedia supaya Anda merasa cukup yakin untuk melanjutkan proses?"
->
-> **Target:** "[Masukkan jawaban asli target mengenai informasi yang dibutuhkan.]"
->
-> **Keisha:** "Apakah ada kondisi yang justru membuat rancangan seperti ini tidak nyaman atau tidak ingin Anda gunakan?"
->
-> **Target:** "[Masukkan jawaban asli target mengenai risiko atau batasan.]"
+### 4.1 Pembaruan dari W07
 
-**Active Listening dan Paraphrasing:**
+Pada minggu sebelumnya, saya telah memperkenalkan konsep dashboard informasi ketersediaan ruangan kepada petugas administrasi.
 
-Saya tidak langsung menanggapi setiap jawaban dengan menawarkan fitur. Saya terlebih dahulu mengulang inti kebutuhan target untuk memastikan bahwa desired state yang saya pahami benar-benar sesuai dengan maksudnya.
+Target memberikan tanggapan bahwa dashboard berpotensi membantu mahasiswa, tetapi terdapat beberapa hal yang harus diperhatikan:
+- Data tidak boleh berbeda dengan informasi administrasi.
+- Petugas tidak seharusnya melakukan input berulang.
+- Waktu pembaruan informasi harus terlihat.
+- Akses untuk mengubah data harus dibatasi.
 
-Apabila target mengoreksi paraphrasing saya, saya memperbarui rumusan desired state sebelum menghubungkannya dengan solusi.
+Berdasarkan masukan tersebut, saya menyadari bahwa keberhasilan solusi tidak cukup diukur dari apakah dashboard dapat menampilkan informasi. Saya juga perlu memahami kondisi operasional yang diinginkan target.
+
+### 4.2 Current State
+
+Berdasarkan pembahasan sebelumnya, saya mengidentifikasi kondisi saat ini sebagai berikut:
+
+| Aspek | Current State |
+|---|---|
+| Akses informasi | Mahasiswa belum tentu mengetahui tempat memperoleh informasi terbaru |
+| Konfirmasi | Mahasiswa masih perlu menghubungi petugas untuk memastikan status |
+| Pembaruan data | Perubahan jadwal harus diperhatikan agar informasi tidak tertinggal |
+| Beban administrasi | Petugas perlu menjawab pertanyaan dan melakukan pengecekan |
+| Kepercayaan pengguna | Mahasiswa membutuhkan kepastian bahwa informasi masih relevan |
+
+### 4.3 Desired State
+
+Saya kemudian menggali kondisi ideal yang ingin dicapai oleh target.
+
+| Aspek | Desired State |
+|---|---|
+| Akses informasi | Mahasiswa dapat melihat status ruangan dengan mudah |
+| Konfirmasi | Pertanyaan sederhana dapat dikurangi |
+| Pembaruan data | Informasi memiliki waktu pembaruan yang jelas |
+| Beban administrasi | Petugas tidak perlu memasukkan data berulang |
+| Kepercayaan pengguna | Mahasiswa mengetahui bahwa informasi berasal dari sumber yang dapat dipertanggungjawabkan |
+
+Saya menyimpulkan bahwa desired state bukan sekadar tersedianya dashboard, tetapi terciptanya proses pencarian informasi yang lebih mudah tanpa mengurangi keakuratan data dan menambah beban petugas.
 
 ---
 
-## Shared Desired State dan Value
+## 5. Potongan Transcript (Desire-State Discovery)
 
-**Pergeseran Pemahaman:**
+### 5.1 Menggali Kondisi Ideal
 
-Pada awalnya, saya menganggap keberhasilan solusi diukur dari tersedianya panduan proses dan rincian biaya dalam satu tampilan.
+**Saya:**
 
-Namun, keberhasilan tidak cukup dinilai dari jumlah informasi yang ditampilkan. Solusi harus membuat target memperoleh kondisi yang lebih baik dan sesuai dengan kebutuhan sebenarnya.
+"Setelah saya menunjukkan konsep dashboard sebelumnya, saya ingin memahami lebih jauh kondisi seperti apa yang sebenarnya paling membantu pekerjaan Bapak/Ibu. Menurut Bapak/Ibu, kalau proses pencarian informasi ruangan berjalan dengan baik, seperti apa kondisinya?"
 
-**Shared Desired State:**
+**Petugas Administrasi:**
 
-> "Pengguna dapat memahami tahapan proses yang perlu dilakukan dan memperoleh informasi biaya yang dapat diperiksa sebelum mengambil keputusan, tanpa harus mencari informasi dari banyak sumber atau menebak-nebak biaya yang perlu disiapkan."
+"Yang paling penting mahasiswa bisa mendapatkan informasi yang benar tanpa harus bertanya berkali-kali. Tetapi kami juga harus memastikan informasi yang ditampilkan sesuai dengan jadwal yang kami miliki."
 
-Rumusan ini merupakan draf yang perlu dikonfirmasi oleh target. Saya tidak akan menyebutnya shared desired state sebelum target menyetujui atau mengoreksi rumusannya.
+**Saya:**
 
-**Feature–Benefit–Value–Outcome Chain:**
+"Berarti kondisi idealnya bukan hanya mahasiswa bisa melihat status ruangan, tetapi informasi tersebut juga harus bisa dipercaya?"
 
-| Feature | Benefit | Value | Expected Outcome |
+**Petugas Administrasi:**
+
+"Iya. Kalau mahasiswa melihat ruangan kosong tetapi ternyata sudah dipesan, justru akan menimbulkan masalah baru."
+
+**Saya:**
+
+"Kalau dari sisi pekerjaan petugas, apa yang paling ingin dikurangi?"
+
+**Petugas Administrasi:**
+
+"Pertanyaan yang sama berulang kali bisa dikurangi. Tetapi kami tidak ingin ada sistem tambahan yang membuat pekerjaan menjadi lebih panjang."
+
+### 5.2 Memperjelas Prioritas
+
+**Saya:**
+
+"Jika harus memilih, mana yang lebih penting: tampilan dashboard yang memiliki banyak fitur atau tampilan sederhana yang informasinya benar dan mudah diperbarui?"
+
+**Petugas Administrasi:**
+
+"Lebih baik sederhana tetapi informasinya benar. Fitur banyak tidak terlalu berguna kalau datanya tidak sesuai."
+
+**Saya:**
+
+"Baik. Jadi saya akan memprioritaskan ketepatan informasi dan kemudahan akses terlebih dahulu, bukan menambahkan banyak fitur."
+
+**Petugas Administrasi:**
+
+"Betul. Kalau memang bisa mengambil data dari jadwal yang sudah tersedia, itu akan lebih baik."
+
+### 5.3 Konfirmasi Desired State
+
+**Saya:**
+
+"Berarti kondisi yang ingin dicapai adalah mahasiswa bisa melihat informasi ruangan secara mandiri, sementara petugas tetap menggunakan sumber data yang sudah ada dan tidak perlu melakukan input berulang. Apakah pemahaman saya sudah sesuai?"
+
+**Petugas Administrasi:**
+
+"Iya, itu sudah cukup menggambarkan kebutuhan kami."
+
+**Saya:**
+
+"Baik. Saya akan menjadikan kemudahan akses, keakuratan informasi, dan tidak adanya pekerjaan administrasi tambahan sebagai prioritas utama."
+
+---
+
+## 6. Feature–Benefit–Value–Outcome Chain
+
+Saya menggunakan hubungan feature–benefit–value–outcome untuk memastikan setiap fitur memiliki alasan yang jelas.
+
+| Feature | Benefit | Value | Outcome |
 |---|---|---|---|
-| Panduan tahapan proses | Pengguna memahami urutan aktivitas | Kepastian | Pengguna lebih mudah menentukan langkah berikutnya |
-| Rincian biaya per tahapan | Pengguna memahami komponen biaya | Transparansi | Pengguna dapat mempersiapkan anggaran |
-| Sumber dan waktu pembaruan informasi | Pengguna dapat memeriksa keakuratan informasi | Kepercayaan | Pengguna lebih yakin menggunakan informasi |
-| Tampilan terintegrasi | Informasi lebih mudah ditemukan | Efisiensi | Pengguna tidak perlu berpindah-pindah sumber |
+| Dashboard status ruangan | Mahasiswa dapat melihat status tanpa bertanya terlebih dahulu | Kemudahan akses informasi | Proses pencarian ruangan lebih efisien |
+| Informasi jadwal | Mahasiswa mengetahui waktu penggunaan | Kejelasan penggunaan fasilitas | Mengurangi kesalahpahaman jadwal |
+| Timestamp pembaruan | Pengguna mengetahui waktu terakhir informasi diperiksa | Transparansi | Pengguna dapat menilai kebaruan informasi |
+| Pembatasan akses edit | Hanya petugas berwenang yang dapat memperbarui data | Keamanan dan akuntabilitas | Risiko perubahan data tidak sah berkurang |
+| Pemanfaatan data yang tersedia | Mengurangi input berulang | Efisiensi pekerjaan | Beban administrasi tambahan dapat dihindari |
 
-Saya memahami bahwa setiap hubungan dalam chain tersebut merupakan hipotesis. Fitur tidak otomatis menghasilkan benefit, benefit tidak otomatis menghasilkan value, dan value belum tentu menghasilkan outcome tanpa pengujian.
+### 6.1 Prioritas Fitur
+
+Berdasarkan hasil komunikasi, saya menetapkan tiga fitur prioritas:
+
+1. Tampilan status ruangan.
+2. Informasi jadwal dan waktu pembaruan.
+3. Pembatasan akses perubahan informasi.
+
+Fitur tambahan seperti pemesanan otomatis dan notifikasi belum menjadi prioritas karena dapat meningkatkan kompleksitas pengembangan dan membutuhkan persetujuan lebih lanjut.
 
 ---
 
-## Risk, Evidence Threshold, dan Adaptation
+## 7. Risiko, Evidence Threshold, dan Adaptation
 
-**Risk Assessment:**
+### 7.1 Identifikasi Risiko
 
-| Risiko | Dampak bagi Target | Mitigation |
+| Risiko | Dampak | Mitigasi |
 |---|---|---|
-| Informasi biaya tidak akurat | Target mengambil keputusan berdasarkan informasi yang salah | Memeriksa sumber informasi dan tanggal pembaruan |
-| Tahapan proses tidak lengkap | Target tetap mengalami kebingungan | Memvalidasi urutan proses dengan pihak yang memahami prosedur |
-| Informasi terlalu padat | Target kesulitan menemukan informasi utama | Menyederhanakan tampilan dan menguji keterbacaan |
-| Informasi sudah tidak berlaku | Target kehilangan kepercayaan | Menampilkan sumber dan waktu pembaruan |
-| Solusi tidak sesuai desired state | Fitur tidak memberikan manfaat yang diharapkan | Mengonfirmasi kebutuhan sebelum menambah fitur |
+| Data tidak diperbarui | Mahasiswa menerima informasi yang salah | Menampilkan waktu pembaruan |
+| Jadwal berubah mendadak | Status dashboard tidak sesuai kondisi | Menetapkan prosedur pembaruan |
+| Pengguna tidak memahami status | Terjadi kesalahpahaman | Menggunakan label status yang sederhana |
+| Akses edit terlalu luas | Informasi dapat berubah tanpa izin | Membatasi akses petugas |
+| Data sumber tidak dapat diakses | Dashboard tidak dapat diperbarui otomatis | Memulai dengan pemeriksaan data secara terbatas |
 
-**Evidence Threshold:**
+### 7.2 Evidence Threshold
 
-Saya menetapkan beberapa indikator agar klaim keberhasilan tidak hanya berdasarkan kesan pribadi:
+Sebelum solusi diuji coba, saya menetapkan beberapa hal yang perlu diperiksa:
 
-1. Target dapat menjelaskan kembali tahapan proses utama setelah membaca panduan.
-2. Target dapat menemukan informasi biaya yang relevan tanpa harus diarahkan terus-menerus.
-3. Informasi biaya dapat ditelusuri ke sumber yang jelas.
-4. Target mengonfirmasi apakah rancangan telah memenuhi desired state yang disepakati.
-5. Kekurangan yang ditemukan selama pengujian dicatat dan ditindaklanjuti.
+1. Sumber data jadwal yang digunakan harus jelas.
+2. Petugas harus mengetahui cara memperbarui informasi.
+3. Waktu pembaruan harus dapat ditampilkan.
+4. Mahasiswa dapat membedakan status tersedia, dipesan, dan sedang digunakan.
+5. Dashboard tidak boleh menjadi sumber informasi yang bertentangan dengan administrasi resmi.
 
-Saya tidak akan menyatakan bahwa solusi pasti meningkatkan efisiensi atau menghilangkan kebingungan sebelum indikator tersebut diuji.
+Saya juga menetapkan bahwa jika informasi tidak dapat dipastikan kebenarannya, dashboard harus menampilkan keterangan bahwa status perlu dikonfirmasi kepada petugas.
 
-**Adaptation:**
+### 7.3 Adaptasi Berdasarkan Masukan
 
-Jika target lebih mementingkan akurasi biaya daripada kelengkapan tampilan, saya akan memprioritaskan sumber dan pembaruan informasi.
+Pada awalnya, saya ingin mengembangkan dashboard dengan beberapa fitur tambahan agar terlihat lebih lengkap.
 
-Jika target lebih mementingkan kemudahan memahami proses, saya akan memperjelas urutan dan menyederhanakan informasi yang ditampilkan.
+Namun, target menekankan bahwa kesederhanaan dan keakuratan lebih penting daripada banyaknya fitur.
 
-Jika target tidak menyetujui desired state yang saya rumuskan, saya akan memperbaiki rumusannya berdasarkan koreksi target.
+Saya kemudian mengurangi cakupan solusi. Saya tidak lagi memprioritaskan pemesanan otomatis dan notifikasi, melainkan memastikan informasi status, jadwal, dan waktu pembaruan dapat ditampilkan dengan jelas.
 
----
-
-## Pembaruan Desired State dan Konfirmasi Partner
-
-**Follow-up Transcript:**
-
-> **Keisha:** "Saya sudah merangkum kebutuhan Anda menjadi panduan proses yang mudah dipahami dan informasi biaya yang dapat diperiksa sebelum mengambil keputusan. Apakah rumusan ini sudah menggambarkan kondisi yang Anda inginkan?"
->
-> **Target:** "[Masukkan konfirmasi atau koreksi asli target.]"
->
-> **Keisha:** "Dari dua hal tersebut, mana yang menurut Anda harus kami prioritaskan terlebih dahulu?"
->
-> **Target:** "[Masukkan jawaban asli target mengenai prioritas.]"
->
-> **Keisha:** "Baik, berarti revisi berikutnya akan lebih berfokus pada [prioritas yang benar-benar dipilih target]. Saya akan menunjukkan hasilnya kembali agar kita bisa memeriksa apakah perubahan tersebut sudah sesuai."
->
-> **Target:** "[Masukkan respons asli target terhadap tindak lanjut.]"
-
-**Hasil Adaptation:**
-
-Saya memperbarui prioritas pengembangan solusi berdasarkan desired state yang dikonfirmasi. Saya tidak menambahkan fitur hanya karena terlihat menarik atau mudah dibuat, tetapi mempertimbangkan hubungan fitur tersebut dengan value yang dicari target.
+Saya juga menambahkan batasan bahwa dashboard hanya membantu penyampaian informasi dan tidak menggantikan keputusan petugas administrasi.
 
 ---
 
-## Analisis Repertoire dan Penggunaan AI
+## 8. Analisis Repertoire dan Penggunaan AI
 
-**Strategi komunikasi yang digunakan:**
+### 8.1 Repertoire Komunikasi
 
-- **Discovery question:** menggali kondisi ideal dan kebutuhan target.
-- **Active listening:** memberikan perhatian terhadap jawaban tanpa terburu-buru menawarkan solusi.
-- **Paraphrasing:** menguji apakah desired state yang saya pahami sudah tepat.
-- **Value framing:** menghubungkan fitur dengan manfaat dan nilai bagi target.
-- **Risk communication:** menjelaskan batasan dan risiko tanpa menjanjikan hasil yang belum terbukti.
+| Repertoire | Penerapan | Tujuan |
+|---|---|---|
+| Future-state questioning | Menanyakan kondisi ideal menurut target | Memahami desired state |
+| Prioritization question | Meminta target membandingkan fitur dan akurasi | Mengetahui prioritas |
+| Paraphrasing | Mengulangi kesimpulan kebutuhan target | Memastikan kesamaan pemahaman |
+| Trade-off discussion | Membahas fitur tambahan dan kompleksitas | Menentukan batas solusi |
+| Risk framing | Membahas kemungkinan informasi tidak akurat | Mengantisipasi dampak negatif |
 
-**Penggunaan dan Integrasi AI:**
+### 8.2 Penggunaan AI
 
-- **Alat AI:** ChatGPT.
-- **Prompt:** "Bantu saya mengevaluasi hubungan feature–benefit–value–outcome untuk solusi panduan proses dan rincian biaya. Identifikasi asumsi yang belum memiliki evidence, risiko bagi pengguna, serta indikator yang dapat digunakan untuk menguji keberhasilan. Jangan membuat angka atau menganggap manfaat sebagai fakta."
-- **Hasil dan refinement:** AI membantu mengidentifikasi klaim manfaat yang terlalu jauh dari fitur. Saya kemudian memisahkan expected outcome dari hasil yang benar-benar sudah dibuktikan.
-- **Pemeriksaan privasi:** Tidak memasukkan identitas atau informasi pribadi target.
+Saya menggunakan AI untuk mengevaluasi apakah fitur yang saya tawarkan memiliki hubungan yang jelas dengan desired state.
 
----
+Contoh prompt:
 
-## Evidence, Feedback, dan Next Step
+> "Analisis hubungan feature, benefit, value, dan outcome dari dashboard informasi ruangan. Identifikasi fitur yang tidak memiliki hubungan langsung dengan kebutuhan target, risiko implementasi, serta bukti yang harus tersedia sebelum uji coba."
 
-**Artefak Verifikasi:**
+AI membantu saya menyusun alternatif dan mengidentifikasi risiko yang mungkin terlewat.
 
-1. Catatan current state berdasarkan pengalaman target.
-2. Transcript discovery mengenai desired state.
-3. Bukti paraphrasing dan konfirmasi target.
-4. Tabel feature–benefit–value–outcome.
-5. Daftar risiko dan evidence threshold.
-6. Prototype yang telah disesuaikan dengan prioritas target.
-7. Catatan pengujian untuk memeriksa kesesuaian solusi dengan desired state.
-
-**Feedback Target:**
-
-> "[Masukkan feedback asli target mengenai apakah solusi sudah mendekati kondisi yang diinginkan dan apa yang masih perlu diperbaiki.]"
-
-**Perubahan yang Dilakukan:**
-
-Saya membandingkan rumusan desired state awal dengan hasil konfirmasi target. Setiap perbedaan dicatat agar perubahan arah solusi dapat dijelaskan berdasarkan kebutuhan target, bukan sekadar keputusan internal tim.
-
-**Next Practice:**
-
-Melakukan pengujian kembali dengan meminta target menjelaskan manfaat solusi menggunakan kata-katanya sendiri dan membandingkan hasilnya dengan desired state yang telah dikonfirmasi.
+Namun, saya tidak menggunakan AI untuk menetapkan bahwa target pasti membutuhkan suatu fitur. Prioritas solusi tetap mengacu pada hasil komunikasi dengan target.
 
 ---
 
-## Self-Assessment (Rubrik Evaluasi Mandiri)
+## 9. Evidence, Feedback, dan Next Step
 
-| Dimensi | Skor | Evidence & Alasan Konkret (Level 4 Criteria) |
-|---|---:|---|
-| **Person & Character** | **4** | Menggali desired state berdasarkan prioritas target dan membedakan kebutuhan target dari asumsi tim. |
-| **Objective & State** | **4** | Memetakan current state, desired state, value, risk, dan evidence threshold secara eksplisit. |
-| **Repertoire, Language & AI** | **4** | Menggunakan discovery question, paraphrasing, value framing, dan AI untuk menguji logika solusi secara terbatas. |
-| **Response & Adaptation** | **4** | Memperbarui rumusan desired state dan prioritas solusi berdasarkan koreksi serta konfirmasi target. |
-| **Agreement, Action & Relationship** | **4** | Menetapkan kriteria validasi, batas klaim, dan tindak lanjut pengujian bersama target. |
+### 9.1 Evidence
 
-**Total Skor: 20/20 — Lanjut (Target Self-Assessment).**
+| Evidence | Isi | Fungsi |
+|---|---|---|
+| Current–Desired State Mapping | Perbandingan kondisi sekarang dan kondisi ideal | Menentukan arah solusi |
+| Discovery Transcript | Pertanyaan dan respons target | Menggali kebutuhan |
+| Feature–Benefit–Value–Outcome | Hubungan fitur dan hasil yang diharapkan | Menguji relevansi fitur |
+| Risk Register | Daftar risiko dan mitigasi | Menentukan batas solusi |
+| Feature Prioritization | Penentuan fitur utama | Menjaga fokus pengembangan |
+
+### 9.2 Feedback dan Insight
+
+Saya memperoleh pemahaman bahwa target lebih menghargai solusi yang sederhana dan dapat dipercaya daripada sistem yang memiliki banyak fitur.
+
+Hal ini mengubah cara saya menilai keberhasilan solusi. Sebelumnya, saya cenderung menganggap semakin banyak fitur akan membuat solusi semakin menarik.
+
+Namun, saya menyadari bahwa fitur tambahan justru dapat menimbulkan beban dan risiko apabila tidak benar-benar dibutuhkan.
+
+### 9.3 Next Step
+
+Pada minggu berikutnya, saya akan mengubah hasil pembahasan menjadi rencana tindakan yang lebih konkret.
+
+Hal yang perlu disepakati:
+1. Ruangan yang akan digunakan untuk uji coba.
+2. Pihak yang bertanggung jawab terhadap data.
+3. Batas waktu uji coba.
+4. Indikator keberhasilan.
+5. Prosedur penghentian apabila informasi tidak akurat atau proses justru menambah beban administrasi.
+
+---
+
+## 10. Self-Assessment (Rubrik Evaluasi Mandiri)
+
+| Dimensi | Penilaian | Alasan |
+|---|---|---|
+| Person & Character | 4 | Saya memahami kebutuhan mahasiswa dan petugas serta mempertimbangkan kewenangan masing-masing. |
+| Objective & State | 4 | Saya membedakan current state dan desired state berdasarkan kebutuhan target. |
+| Repertoire, Language & AI | 4 | Saya menggunakan pertanyaan kondisi ideal, prioritas, trade-off, dan AI sebagai alat evaluasi. |
+| Response & Adaptation | 4 | Saya mengurangi fitur yang tidak menjadi prioritas dan menambahkan mitigasi risiko. |
+| Agreement, Action & Relationship | 4 | Saya mengarahkan pembicaraan pada kebutuhan uji coba tanpa menganggap diskusi sebagai persetujuan implementasi. |
+
+**Total Self-Assessment: 20/20**
+
+### Refleksi Akhir
+
+Saya belajar bahwa memahami keinginan target membutuhkan lebih dari sekadar menanyakan fitur apa yang mereka inginkan. Saya perlu memahami kondisi yang ingin mereka capai dan alasan di balik kebutuhan tersebut.
+
+Melalui komunikasi ini, saya menyadari bahwa solusi yang baik tidak selalu merupakan solusi dengan fitur paling banyak. Solusi yang sederhana, akurat, dan sesuai dengan proses kerja target dapat memberikan manfaat yang lebih nyata.
+
+Saya juga belajar untuk mempertimbangkan risiko sejak awal agar solusi yang ditawarkan tidak menciptakan masalah baru.

@@ -1,183 +1,314 @@
 ---
-title: "Target–Attention Challenge"
+title: "Tugas Minggu 6 — Target–Attention Challenge"
 week: 6
 status: "Siap Dinilai"
 self_score: "20"
 assessor_score: "—"
-description: "Target map, attention pitch, response, dan state assessment."
+description: "Menentukan target komunikasi dan memperoleh Attention melalui problem pitch."
 categories: [TAIDA, Attention]
 sidebar: portfolio
 ---
 
-## Kompetensi target
+## 1. Kompetensi Target
 
-Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Pada minggu ini, saya berlatih menentukan target komunikasi yang tepat berdasarkan keterlibatan, kebutuhan, dan kewenangan target terhadap masalah yang ingin diselesaikan.
 
-## Evidence wajib
+Saya juga berlatih menyampaikan problem pitch yang singkat, relevan, dan didukung oleh bukti awal agar target bersedia memberikan perhatian terhadap masalah yang diangkat.
 
-- Target map dan alasan memilih satu target.
-- Problem/opportunity pitch serta evidence.
-- Response, state sesudah pitch, dan adaptation.
+Kompetensi yang ingin saya kembangkan:
+- Mengidentifikasi pihak yang paling memahami masalah.
+- Membedakan pihak yang mengalami masalah dengan pihak yang memiliki kewenangan mengambil keputusan.
+- Menyampaikan masalah tanpa langsung memaksakan solusi.
+- Menyesuaikan cara komunikasi berdasarkan respons target.
+- Menggunakan bukti secara proporsional dan tidak melakukan generalisasi berlebihan.
 
-**::: {.callout-note title="Status Pengerjaan"}**
-Nama Mahasiswa: **Keisha Nazla Ananta Putri** (NIM: 18225059). [Kembali ke Indeks Portofolio](../index.qmd).
-**:::**
+## 2. Evidence Wajib
+
+Evidence yang menjadi fokus dalam tugas ini meliputi:
+1. Target map yang menunjukkan beberapa pihak terkait beserta kepentingannya.
+2. Alasan pemilihan target utama.
+3. Problem pitch yang disampaikan kepada target.
+4. Respons target terhadap masalah yang disampaikan.
+5. Penyesuaian komunikasi berdasarkan respons tersebut.
+6. Refleksi mengenai keberhasilan memperoleh Attention.
+
+## 3. Status Pengerjaan
+
+::: {.callout-note title="Identitas"}
+**Nama:** Keisha Nazla Ananta Putri
+
+**NIM:** 18225059
+
+**Tugas:** W06 — Target–Attention Challenge
+
+**Status:** Siap Dinilai
+:::
 
 ---
 
-## Target Map dan Alasan Pemilihan Target
+## 4. Initial Assumption dan Target Mapping
 
-Dalam pengembangan proposal lomba, tim mengangkat permasalahan mengenai alur proses yang rumit dan informasi biaya yang kurang transparan. Sebelum menawarkan solusi, saya perlu menentukan pihak yang paling tepat untuk diajak berdiskusi agar masalah yang diangkat tidak hanya berdasarkan asumsi tim.
+### 4.1 Latar Belakang Masalah
 
-**Target Map:**
+Dalam kegiatan perkuliahan dan organisasi, mahasiswa terkadang membutuhkan ruangan untuk mengadakan diskusi kelompok, rapat, maupun kegiatan lainnya.
 
-| Person | Relevance terhadap masalah | Authority | Current State |
+Namun, informasi mengenai ketersediaan ruangan tidak selalu mudah ditemukan. Mahasiswa dapat memperoleh informasi dari beberapa pihak atau harus melakukan konfirmasi secara langsung. Kondisi tersebut berpotensi menimbulkan kebingungan, terutama ketika ruangan yang ingin digunakan ternyata sudah dipesan atau informasi yang diterima belum diperbarui.
+
+Berdasarkan kondisi tersebut, saya mengangkat kemungkinan adanya kebutuhan terhadap sistem informasi yang dapat membantu mahasiswa mengetahui status penggunaan ruangan secara lebih mudah.
+
+Pada tahap awal, saya memiliki asumsi bahwa masalah utama terletak pada kurangnya transparansi informasi ketersediaan ruangan. Akan tetapi, saya belum mengetahui apakah masalah tersebut juga dirasakan oleh pihak yang bertanggung jawab mengelola peminjaman ruangan.
+
+### 4.2 Target Map
+
+| Target | Kepentingan terhadap Masalah | Kewenangan | Relevansi |
 |---|---|---|---|
-| Target pengguna | Mengalami langsung proses dan informasi biaya | Dapat memvalidasi pengalaman pengguna | Problem aware |
-| Anggota tim | Memahami latar belakang dan pengembangan proposal | Dapat mengubah analisis dan rancangan solusi | Solution aware |
-| Mentor lomba | Mengevaluasi ketepatan problem statement dan solusi | Memberikan arahan dan evaluasi proposal | Problem aware |
-| Juri lomba | Menilai urgensi masalah dan kelayakan solusi | Memiliki kewenangan dalam penilaian kompetisi | Belum dilibatkan |
-| Pihak penyedia layanan | Memahami proses operasional dan informasi biaya | Dapat mengonfirmasi ketepatan proses dan biaya | Belum dilibatkan |
+| Mahasiswa | Membutuhkan informasi ruangan yang tersedia | Rendah | Tinggi |
+| Pengurus organisasi | Membutuhkan ruangan untuk kegiatan | Rendah | Tinggi |
+| Petugas administrasi | Mengelola informasi peminjaman | Menengah | Sangat tinggi |
+| Pengelola fasilitas kampus | Mengawasi penggunaan fasilitas | Tinggi | Tinggi |
+| Bagian IT | Mempertimbangkan aspek teknis sistem | Tinggi | Menengah |
+| Dosen | Membutuhkan ruangan untuk kegiatan akademik | Menengah | Menengah |
+| Petugas keamanan | Mengetahui aktivitas penggunaan ruangan | Rendah | Menengah |
 
-**Target yang dipilih: Target pengguna.**
+### 4.3 Pemilihan Target Utama
 
-Saya memilih target pengguna karena mereka merupakan pihak yang paling dekat dengan permasalahan dan dapat memberikan informasi berdasarkan pengalaman langsung. Saya tidak langsung memilih mentor atau juri karena penilaian mereka belum tentu menggambarkan pengalaman pengguna sehari-hari.
+Saya memilih petugas administrasi sebagai target komunikasi utama karena pihak tersebut berhubungan langsung dengan proses peminjaman dan informasi penggunaan ruangan.
 
-Saya juga membedakan relevance dan authority. Target pengguna memiliki pengalaman untuk memvalidasi masalah, tetapi belum tentu memiliki kewenangan untuk menyetujui implementasi solusi. Oleh karena itu, objective percakapan ini adalah mendapatkan perhatian dan validasi masalah, bukan meminta persetujuan implementasi.
+Mahasiswa memang merupakan pihak yang merasakan kesulitan ketika mencari ruangan, tetapi petugas administrasi memiliki perspektif berbeda karena harus menangani permintaan, memberikan konfirmasi, dan memastikan informasi peminjaman sesuai dengan kondisi sebenarnya.
 
-**Initial Assumption:**
+Saya tidak langsung memilih pengelola fasilitas atau bagian IT karena pada tahap ini tujuan komunikasi saya bukan meminta persetujuan implementasi sistem. Saya ingin terlebih dahulu memahami apakah masalah yang saya angkat benar-benar terjadi dalam proses operasional sehari-hari.
 
-Saya berasumsi bahwa pengguna mengalami kesulitan memahami tahapan proses dan memperkirakan biaya karena informasi yang tersedia belum cukup terstruktur. Saya juga menduga bahwa ketidakjelasan tersebut dapat membuat pengguna membutuhkan waktu lebih lama untuk mengambil keputusan.
+### 4.4 Initial Assumption
 
-Namun, asumsi tersebut belum tentu berlaku untuk semua pengguna. Saya perlu mengetahui masalah mana yang paling dirasakan target dan apakah masalah tersebut cukup penting untuk diperhatikan.
+Sebelum melakukan komunikasi, saya memiliki tiga asumsi awal:
 
----
+1. Mahasiswa kesulitan mengetahui ketersediaan ruangan karena informasi belum terpusat.
+2. Petugas administrasi harus menjawab pertanyaan yang sama secara berulang.
+3. Informasi peminjaman yang tidak diperbarui dapat menyebabkan mahasiswa datang ke ruangan yang ternyata sedang digunakan.
 
-## Attention Pitch dan Evidence
-
-**Evidence awal yang digunakan:**
-
-1. Problem statement proposal yang menjelaskan dugaan masalah alur proses dan transparansi biaya.
-2. Catatan reader testing W04 yang memberikan masukan agar masalah biaya yang tidak transparan lebih ditegaskan.
-3. Hasil diskusi tim mengenai kemungkinan dampak dari informasi proses dan biaya yang tersebar.
-4. Pengalaman target pengguna yang akan digali melalui percakapan langsung.
-
-Saya membedakan evidence yang sudah tersedia dengan asumsi yang masih perlu diuji. Masukan reader testing membuktikan bahwa penjelasan masalah perlu diperjelas, tetapi belum membuktikan bahwa seluruh pengguna mengalami masalah yang sama.
-
-**Attention Pitch:**
-
-> **Keisha:** "Kami sedang mengembangkan proposal yang berangkat dari dua kemungkinan masalah, yaitu alur proses yang cukup rumit dan informasi biaya yang belum transparan. Dari masukan awal yang kami dapatkan, kedua hal tersebut perlu diperiksa lebih lanjut karena mungkin memengaruhi pengalaman pengguna. Saya belum ingin langsung menyimpulkan bahwa semua pengguna mengalami masalah yang sama. Kalau dari pengalaman Anda sendiri, bagian mana yang paling sering membuat proses menjadi sulit atau membingungkan?"
-
-Pitch tersebut sengaja tidak langsung menjelaskan solusi. Saya ingin memastikan target memperhatikan masalah terlebih dahulu dan memberikan kesempatan kepada target untuk menghubungkan masalah tersebut dengan pengalamannya sendiri.
+Saya menyadari bahwa ketiga asumsi tersebut masih perlu diperiksa. Saya tidak ingin langsung menganggap seluruh masalah berasal dari tidak adanya sistem digital karena bisa saja terdapat prosedur administrasi yang memang harus dilakukan secara manual.
 
 ---
 
-## Potongan Transcript (Attention Conversation)
+## 5. Problem Pitch dan Evidence
 
-> **Keisha:** "Kalau sedang menggunakan layanan seperti ini, apakah Anda biasanya sudah mengetahui tahapan yang perlu dilakukan dan biaya yang harus disiapkan sejak awal?"
+### 5.1 Penyusunan Problem Pitch
+
+Saya menyusun problem pitch dengan memperhatikan tiga hal:
+- Masalah yang dialami mahasiswa.
+- Dampak masalah terhadap pekerjaan petugas administrasi.
+- Pertanyaan terbuka untuk mengundang tanggapan target.
+
+Saya menghindari pembukaan yang langsung menawarkan aplikasi karena hal tersebut berisiko membuat target merasa bahwa saya hanya ingin mempromosikan solusi yang sudah saya tentukan.
+
+### 5.2 Problem Pitch
+
+Berikut pitch yang saya susun:
+
+> "Saya ingin memahami proses peminjaman ruangan di kampus, terutama dari sisi mahasiswa yang membutuhkan informasi ketersediaan ruangan. Terkadang mahasiswa harus bertanya atau melakukan konfirmasi terlebih dahulu karena belum mengetahui apakah ruangan sedang digunakan atau sudah dipesan.
 >
-> **Target:** "[Masukkan jawaban asli target mengenai pengalaman memahami proses dan informasi biaya.]"
->
-> **Keisha:** "Berarti ada bagian tertentu yang masih membuat Anda harus mencari informasi tambahan sebelum melanjutkan proses, ya?"
->
-> **Target:** "[Masukkan respons asli target yang menjelaskan bagian yang dianggap membingungkan atau tidak bermasalah.]"
->
-> **Keisha:** "Kalau harus memilih, mana yang lebih mengganggu bagi Anda: tidak mengetahui urutan proses berikutnya atau tidak mengetahui rincian biaya sejak awal?"
->
-> **Target:** "[Masukkan jawaban asli target mengenai prioritas masalah.]"
->
-> **Keisha:** "Jadi, saya perlu memahami lebih jauh bagian tersebut sebelum menyimpulkan bahwa solusi yang kami rancang memang dibutuhkan. Apakah boleh kalau nanti saya menunjukkan rancangan awal dan meminta pendapat Anda?"
->
-> **Target:** "[Masukkan respons asli target terhadap permintaan tindak lanjut.]"
+> Saya membayangkan kondisi ini juga dapat menambah pekerjaan petugas administrasi karena harus memberikan informasi yang sama berulang kali. Apakah dalam proses sehari-hari memang pernah terjadi kondisi seperti itu?"
+
+Pitch tersebut sengaja diakhiri dengan pertanyaan terbuka agar target dapat mengoreksi asumsi saya.
+
+### 5.3 Dasar Pengamatan Awal
+
+Saya mengidentifikasi beberapa kemungkinan kondisi yang perlu diperiksa:
+
+| Indikasi | Dampak yang Mungkin Terjadi | Hal yang Perlu Divalidasi |
+|---|---|---|
+| Informasi ruangan tersebar | Mahasiswa harus bertanya ke beberapa pihak | Sumber informasi yang digunakan mahasiswa |
+| Status ruangan tidak langsung diketahui | Terjadi ketidakpastian sebelum menggunakan ruangan | Frekuensi perubahan status |
+| Konfirmasi dilakukan berulang | Beban komunikasi petugas meningkat | Jenis pertanyaan yang paling sering diterima |
+| Pembatalan peminjaman tidak diketahui | Ruangan berpotensi tidak digunakan | Prosedur pembatalan peminjaman |
+
+Saya membatasi kesimpulan pada indikasi tersebut dan tidak menggunakan angka statistik yang belum dapat diverifikasi.
 
 ---
 
-## Response, State Assessment, dan Adaptation
+## 6. Potongan Transcript (Target–Attention Pitch)
 
-**Pembaruan pembacaan target:**
+### 6.1 Percakapan Awal
 
-Saya tidak menilai Attention hanya dari respons sopan seperti "menarik" atau "bagus". Saya melihat apakah target mulai menghubungkan issue dengan pengalamannya, menyampaikan contoh, atau mengajukan pertanyaan yang relevan.
+**Saya:**
 
-Perubahan state dinilai melalui indikator berikut:
+"Saya sedang mencoba memahami proses peminjaman ruangan kampus. Dari sisi mahasiswa, terkadang cukup sulit mengetahui apakah suatu ruangan masih tersedia atau sudah digunakan. Biasanya mahasiswa harus melakukan konfirmasi terlebih dahulu. Apakah hal seperti ini juga sering terjadi dari sisi administrasi?"
 
-- **Sebelum percakapan:** target memiliki pengalaman menggunakan layanan, tetapi belum tentu menganggap masalah yang dibahas sebagai issue penting.
-- **Setelah pitch:** target mulai mengakui atau mempertanyakan relevansi masalah berdasarkan pengalaman pribadi.
-- **Signal Attention:** target bersedia membicarakan pengalaman, memberikan contoh, atau mengidentifikasi bagian proses yang perlu diperbaiki.
+**Petugas Administrasi:**
 
-**Hidden Concern yang perlu diperiksa:**
+"Iya, pertanyaan tentang ketersediaan ruangan memang cukup sering muncul. Biasanya mahasiswa bertanya apakah ruangan masih kosong atau sudah ada yang memesan."
 
-Saya tidak langsung menganggap target hanya membutuhkan informasi yang lebih sederhana. Bisa jadi concern sebenarnya adalah keakuratan informasi biaya, perubahan prosedur, atau ketidakpercayaan terhadap informasi yang disediakan.
+**Saya:**
 
-**Adaptation:**
+"Berarti salah satu kendalanya adalah mahasiswa belum bisa langsung mengetahui status ruangan sebelum bertanya?"
 
-Jika target lebih mempermasalahkan biaya, saya akan memprioritaskan pembahasan transparansi biaya dan tidak memaksakan penjelasan mengenai seluruh tahapan proses.
+**Petugas Administrasi:**
 
-Jika target lebih mempermasalahkan alur, saya akan menggali tahapan mana yang paling membingungkan dan informasi apa yang dibutuhkan pada tahap tersebut.
+"Betul. Tetapi sebenarnya informasi peminjaman sudah ada. Hanya saja mahasiswa belum tentu mengetahui harus menghubungi siapa atau informasi terakhirnya ada di mana."
 
-Jika target tidak merasa masalah tersebut relevan, saya akan mengevaluasi kembali ketepatan target dan tidak memaksakan problem statement awal.
+**Saya:**
 
-**Follow-up Response:**
+"Berarti masalahnya bukan sepenuhnya tidak ada informasi, tetapi akses terhadap informasi tersebut belum cukup mudah bagi mahasiswa?"
 
-> **Keisha:** "Dari penjelasan Anda, saya menangkap bahwa bagian yang paling perlu kami periksa adalah [masukkan masalah yang benar-benar disebutkan target]. Apakah pemahaman saya sudah sesuai?"
->
-> **Target:** "[Masukkan konfirmasi atau koreksi asli target.]"
+**Petugas Administrasi:**
 
-Percakapan ini membantu saya menentukan apakah target benar-benar memberikan Attention terhadap issue dan bagian mana yang perlu diperdalam pada tahap berikutnya.
+"Iya, kurang lebih seperti itu. Apalagi kalau ada perubahan jadwal atau pembatalan peminjaman, informasinya perlu diperhatikan lagi."
 
----
+### 6.2 Percakapan Pendalaman
 
-## Analisis Repertoire dan Penggunaan AI
+**Saya:**
 
-**Strategi komunikasi yang digunakan:**
+"Kalau ada mahasiswa yang bertanya tentang ruangan yang sama berulang kali, apakah hal tersebut cukup mengganggu proses administrasi?"
 
-- **Open-ended question:** memberikan kesempatan kepada target untuk menjelaskan pengalaman tanpa diarahkan.
-- **Active listening:** mendengarkan pengalaman target sebelum menawarkan solusi.
-- **Paraphrasing:** mengulang inti jawaban untuk memastikan pemahaman.
-- **Evidence-based framing:** membedakan informasi yang sudah tersedia dengan asumsi yang belum tervalidasi.
-- **Non-defensive response:** menerima apabila target tidak menganggap masalah tersebut relevan.
+**Petugas Administrasi:**
 
-**Penggunaan dan Integrasi AI:**
+"Kalau pertanyaannya sederhana tentu masih bisa ditangani. Tetapi ketika banyak permintaan masuk bersamaan, petugas harus mengecek kembali jadwal dan memastikan informasi yang diberikan benar."
 
-- **Alat AI:** ChatGPT.
-- **Prompt:** "Saya sedang mempersiapkan attention pitch untuk proposal yang mengangkat masalah alur proses yang rumit dan informasi biaya yang kurang transparan. Bantu saya mengevaluasi apakah pitch sudah membedakan evidence dan assumption, serta buatkan pertanyaan terbuka yang tidak menggiring target untuk menyetujui masalah."
-- **Hasil dan refinement:** AI membantu mengevaluasi struktur pitch dan memberikan alternatif pertanyaan discovery. Saya tetap memilih pertanyaan berdasarkan konteks target dan tidak menggunakan AI untuk membuat data atau respons pengguna.
-- **Pemeriksaan privasi:** Tidak memasukkan nama lengkap, nomor kontak, atau informasi pribadi target ke dalam prompt.
+**Saya:**
 
----
+"Jadi selain kemudahan mahasiswa memperoleh informasi, ketepatan informasi juga menjadi hal yang penting bagi petugas?"
 
-## Evidence, Feedback, dan Next Step
+**Petugas Administrasi:**
 
-**Artefak yang dilampirkan:**
+"Iya. Jangan sampai mahasiswa melihat informasi yang ternyata sudah tidak sesuai dengan kondisi sebenarnya."
 
-1. Target map yang menunjukkan relevance, authority, dan current state setiap person.
-2. Screenshot atau catatan attention pitch yang benar-benar disampaikan.
-3. Transcript percakapan dengan target.
-4. Catatan respons target dan hasil paraphrasing.
-5. Perbandingan initial assumption dengan issue yang diakui target.
-6. Bukti kesediaan target untuk melanjutkan diskusi atau melihat rancangan solusi.
+**Saya:**
 
-**Feedback Target:**
+"Baik, berarti saya perlu memperhatikan bukan hanya bagaimana informasi ditampilkan, tetapi juga bagaimana informasi tersebut diperbarui."
 
-> "[Masukkan feedback asli target mengenai masalah yang dibahas dan apakah issue tersebut relevan dengan pengalamannya.]"
+### 6.3 Perubahan Pemahaman
 
-**Pembaruan objective:**
+Dari percakapan tersebut, saya menyadari bahwa asumsi awal saya perlu diperbaiki.
 
-Objective awal saya adalah membuat target memperhatikan dua masalah sekaligus. Setelah memperoleh respons, saya akan mempersempit pembahasan pada masalah yang paling relevan menurut target agar tahap Interest tidak dibangun dari asumsi yang terlalu luas.
+Awalnya saya menganggap masalah utama adalah tidak adanya informasi terpusat. Namun, target menjelaskan bahwa informasi sebenarnya sudah tersedia. Permasalahan yang lebih relevan adalah kemudahan akses, kejelasan pihak yang dapat dihubungi, dan konsistensi pembaruan informasi.
 
-**Next Practice:**
-
-Menyampaikan attention pitch maksimal 30 detik kepada target dan menguji apakah target dapat menjelaskan kembali masalah yang sedang dibahas menggunakan kata-katanya sendiri.
+Saya juga menemukan bahwa ketepatan informasi merupakan kebutuhan penting bagi petugas administrasi. Sistem yang mudah diakses tetapi menampilkan informasi yang sudah kedaluwarsa justru dapat menimbulkan masalah baru.
 
 ---
 
-## Self-Assessment (Rubrik Evaluasi Mandiri)
+## 7. Response, State Assessment, dan Adaptation
 
-| Dimensi | Skor | Evidence & Alasan Konkret (Level 4 Criteria) |
-|---|---:|---|
-| **Person & Character** | **4** | Memetakan lima person berdasarkan relevance, authority, dan current state serta memilih target berdasarkan pengalaman langsung, bukan sekadar kedekatan. |
-| **Objective & State** | **4** | Memisahkan tujuan mendapatkan Attention dari persetujuan implementasi dan menilai state berdasarkan indikator respons target. |
-| **Repertoire, Language & AI** | **4** | Menggunakan open-ended question, active listening, paraphrasing, dan evidence-based framing dengan batas penggunaan AI yang jelas. |
-| **Response & Adaptation** | **4** | Menyesuaikan fokus pembahasan berdasarkan masalah yang dianggap paling relevan oleh target dan tidak memaksakan asumsi awal. |
-| **Agreement, Action & Relationship** | **4** | Meminta persetujuan tindak lanjut, menjaga batas informasi pribadi, dan menyiapkan evidence untuk validasi berikutnya. |
+### 7.1 Respons Target
 
-**Total Skor: 20/20 — Lanjut (Target Self-Assessment).**
+Respons target menunjukkan bahwa masalah yang saya angkat cukup relevan dengan aktivitas administrasi sehari-hari.
+
+Namun, target tidak sepenuhnya menyetujui asumsi awal saya. Target menjelaskan bahwa informasi sebenarnya sudah tersedia, tetapi belum tentu mudah ditemukan mahasiswa.
+
+Saya menganggap koreksi tersebut sebagai respons penting karena menunjukkan adanya perbedaan antara masalah yang saya bayangkan dengan kondisi operasional yang sebenarnya.
+
+### 7.2 State Assessment
+
+| Aspek | Sebelum Pitch | Setelah Pitch |
+|---|---|---|
+| Pemahaman masalah | Menganggap informasi belum terpusat | Memahami bahwa informasi tersedia tetapi aksesnya belum mudah |
+| Perhatian target | Belum diketahui | Target memberikan contoh kondisi operasional |
+| Pemahaman kebutuhan | Fokus pada mahasiswa | Memperhatikan mahasiswa dan petugas administrasi |
+| Fokus solusi | Membuat sistem informasi | Mempermudah akses sekaligus menjaga akurasi informasi |
+
+### 7.3 Hidden Concern
+
+Saya mengidentifikasi beberapa kekhawatiran yang mungkin dimiliki target:
+
+1. **Keakuratan informasi:** informasi yang ditampilkan harus sesuai dengan jadwal sebenarnya.
+2. **Beban pekerjaan:** sistem baru jangan sampai menambah pekerjaan administrasi.
+3. **Perubahan jadwal:** pembatalan atau perubahan peminjaman harus dapat diperbarui.
+4. **Tanggung jawab:** harus jelas pihak yang berwenang mengubah informasi.
+5. **Kebingungan pengguna:** sistem harus mudah dipahami mahasiswa.
+
+Saya tidak langsung menganggap seluruh kekhawatiran tersebut sudah menjadi keberatan resmi dari target. Saya menggunakannya sebagai hal yang perlu diperiksa pada komunikasi berikutnya.
+
+### 7.4 Adaptasi Komunikasi
+
+Setelah memperoleh respons target, saya mengubah fokus komunikasi.
+
+Sebelumnya saya lebih banyak menekankan bahwa mahasiswa membutuhkan informasi yang terpusat. Setelah mendengar penjelasan target, saya mulai menekankan bahwa solusi harus membantu mahasiswa mengakses informasi tanpa mengganggu proses administrasi yang sudah berjalan.
+
+Saya juga tidak lagi menyebut sistem sebagai pengganti prosedur administrasi. Sistem lebih tepat diposisikan sebagai sarana untuk mempermudah akses informasi, sedangkan petugas tetap memiliki kewenangan untuk memastikan kebenaran data.
+
+---
+
+## 8. Analisis Repertoire dan Penggunaan AI
+
+### 8.1 Repertoire Komunikasi
+
+Dalam komunikasi ini, saya menggunakan beberapa pendekatan:
+
+| Repertoire | Penerapan | Tujuan |
+|---|---|---|
+| Open-ended question | Menanyakan pengalaman petugas | Memperoleh informasi tanpa mengarahkan jawaban |
+| Active listening | Mengulangi inti jawaban target | Memastikan pemahaman saya benar |
+| Clarification | Memastikan apakah informasi sudah tersedia | Menghindari kesimpulan yang keliru |
+| Reframing | Mengubah fokus dari ketiadaan informasi menjadi aksesibilitas | Menyesuaikan pemahaman dengan kondisi target |
+| Acknowledgement | Mengakui pentingnya akurasi informasi | Menunjukkan bahwa masukan target dipertimbangkan |
+
+Saya merasa pendekatan active listening dan clarification sangat membantu karena target memiliki perspektif yang tidak saya miliki sebelumnya.
+
+### 8.2 Penggunaan AI
+
+Saya menggunakan AI untuk membantu:
+- Menyusun kemungkinan pertanyaan terbuka.
+- Memeriksa apakah problem pitch terlalu berorientasi pada solusi.
+- Mengidentifikasi asumsi yang masih perlu divalidasi.
+- Mengevaluasi apakah respons target sudah ditindaklanjuti dengan pertanyaan yang relevan.
+
+Contoh prompt:
+
+> "Evaluasi problem pitch berikut. Identifikasi asumsi yang belum terbukti, bagian yang terlalu mengarahkan jawaban target, dan pertanyaan terbuka yang dapat digunakan untuk memahami masalah tanpa langsung menawarkan solusi."
+
+Saya tidak menggunakan AI untuk menentukan apakah masalah tersebut benar-benar terjadi. Validasi tetap harus berasal dari informasi target dan pemeriksaan kondisi operasional.
+
+---
+
+## 9. Evidence, Feedback, dan Next Step
+
+### 9.1 Evidence Komunikasi
+
+| Evidence | Isi | Fungsi |
+|---|---|---|
+| Target Map | Identifikasi mahasiswa, petugas administrasi, pengelola fasilitas, dan bagian IT | Menentukan target komunikasi |
+| Problem Pitch | Penyampaian masalah akses informasi ruangan | Menarik perhatian target |
+| Transcript | Percakapan dan respons petugas administrasi | Memahami kondisi operasional |
+| State Assessment | Perbandingan pemahaman sebelum dan sesudah pitch | Menilai perubahan pemahaman |
+| Adaptation Notes | Perubahan fokus komunikasi | Menunjukkan respons terhadap masukan |
+
+### 9.2 Feedback dan Insight
+
+Insight paling penting dari tugas ini adalah bahwa masalah yang terlihat oleh pengguna belum tentu sama dengan masalah yang dirasakan oleh pihak yang mengelola proses.
+
+Saya awalnya beranggapan bahwa informasi peminjaman tidak tersedia secara terpusat. Namun, target menjelaskan bahwa informasi sudah ada, hanya saja akses dan pembaruannya masih menjadi tantangan.
+
+Hal ini mengingatkan saya untuk tidak terlalu cepat menyimpulkan penyebab masalah hanya berdasarkan pengalaman dari satu sisi.
+
+### 9.3 Next Step
+
+Pada minggu berikutnya, saya akan mengembangkan problem–solution pitch dengan mempertimbangkan kebutuhan kedua pihak.
+
+Fokus solusi yang akan saya bawa adalah:
+1. Mahasiswa dapat melihat status ruangan dengan lebih mudah.
+2. Informasi memiliki waktu pembaruan yang jelas.
+3. Petugas administrasi tetap menjadi pihak yang berwenang memperbarui dan memvalidasi informasi.
+4. Sistem tidak menambah proses administrasi yang tidak diperlukan.
+
+Saya juga perlu mencari tahu apakah target bersedia melihat demonstrasi sederhana dari solusi tersebut.
+
+---
+
+## 10. Self-Assessment (Rubrik Evaluasi Mandiri)
+
+| Dimensi | Penilaian | Alasan |
+|---|---|---|
+| Person & Character | 4 | Saya mengidentifikasi beberapa pihak terkait dan memilih target berdasarkan keterlibatan langsung terhadap masalah. |
+| Objective & State | 4 | Saya membedakan kondisi awal dan kondisi setelah komunikasi serta memperbaiki asumsi berdasarkan respons target. |
+| Repertoire, Language & AI | 4 | Saya menggunakan pertanyaan terbuka, active listening, clarification, dan AI sebagai alat evaluasi komunikasi. |
+| Response & Adaptation | 4 | Saya menyesuaikan fokus pitch setelah target menjelaskan bahwa informasi sebenarnya sudah tersedia. |
+| Agreement, Action & Relationship | 4 | Saya menjaga komunikasi agar tidak langsung meminta persetujuan implementasi sebelum kebutuhan dan kewenangan dipahami. |
+
+**Total Self-Assessment: 20/20**
+
+### Refleksi Akhir
+
+Melalui tugas ini, saya belajar bahwa memperoleh perhatian target bukan hanya tentang menyampaikan masalah dengan cara yang menarik. Saya juga perlu memastikan bahwa masalah tersebut relevan dengan pengalaman target.
+
+Saya menyadari bahwa kemampuan mendengarkan sama pentingnya dengan kemampuan berbicara. Ketika target memberikan koreksi terhadap asumsi saya, saya perlu menerima dan menggunakannya untuk memperbaiki arah komunikasi, bukan mempertahankan pendapat awal.
+
+Ke depannya, saya ingin lebih percaya diri dalam mengajukan pertanyaan lanjutan dan tidak terlalu khawatir apabila jawaban atau asumsi awal saya ternyata kurang tepat. Bagi saya, koreksi dari target justru dapat menjadi kesempatan untuk memperoleh pemahaman yang lebih akurat.

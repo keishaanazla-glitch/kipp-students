@@ -1,251 +1,350 @@
 ---
-title: "Action & Agreement Challenge"
+title: "Tugas Minggu 10 — Action & Agreement Challenge"
 week: 10
 status: "Siap Dinilai"
 self_score: "20"
 assessor_score: "—"
-description: "Barrier, authority, negotiation, agreement, dan action evidence."
-categories: [TAIDA, Action]
+description: "Mengubah kesepahaman menjadi tindakan, pembagian tanggung jawab, dan evaluasi."
+categories: [Professional, Action]
 sidebar: portfolio
 ---
 
-## Kompetensi target
+## 1. Kompetensi Target
 
-Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+Pada minggu ini, saya berlatih mengubah ketertarikan dan kesepahaman target menjadi tindakan yang konkret.
 
-## Evidence wajib
+Saya ingin memastikan bahwa kesepakatan tidak berhenti pada persetujuan secara lisan, tetapi memiliki ruang lingkup, penanggung jawab, batas waktu, dan indikator evaluasi yang jelas.
 
-- Barrier dan authority map.
-- Options dan trade-off yang dibahas.
-- Agreement dengan owner/deadline serta bukti action atau review.
+Kompetensi yang ingin saya kembangkan:
+- Mengidentifikasi hambatan sebelum melakukan tindakan.
+- Memahami pihak yang memiliki kewenangan dalam pengambilan keputusan.
+- Menawarkan beberapa pilihan tindakan beserta konsekuensinya.
+- Menyusun kesepakatan yang realistis.
+- Menentukan pembagian tanggung jawab dan batas kewenangan.
+- Melakukan evaluasi serta menyesuaikan rencana apabila ditemukan masalah.
 
-**::: {.callout-note title="Status Pengerjaan"}**
-Nama Mahasiswa: **Keisha Nazla Ananta Putri** (NIM: 18225059). [Kembali ke Indeks Portofolio](../index.qmd).
-**:::**
+## 2. Evidence Wajib
+
+Evidence yang menjadi fokus:
+1. Desire–Action Gap.
+2. Barrier dan Authority Map.
+3. Alternatif tindakan beserta trade-off.
+4. Kesepakatan mengenai ruang lingkup uji coba.
+5. Pembagian tanggung jawab dan timeline.
+6. Indikator keberhasilan dan aturan penghentian.
+7. Evaluasi serta adaptasi setelah tindakan dilakukan.
+
+## 3. Status Pengerjaan
+
+::: {.callout-note title="Identitas"}
+**Nama:** Keisha Nazla Ananta Putri
+
+**NIM:** 18225059
+
+**Tugas:** W10 — Action & Agreement Challenge
+
+**Status:** Siap Dinilai
+:::
 
 ---
 
-## Desire–Action Gap dan Initial Assumption
+## 4. Desire–Action Gap
 
-Setelah melalui tahap Attention, Interest, dan Desire, saya memahami bahwa target dapat mengakui masalah, tertarik terhadap solusi, bahkan menginginkan perubahan, tetapi belum tentu bersedia melakukan tindakan nyata.
+### 4.1 Ringkasan Hasil W09
 
-Pada tahap ini, saya perlu memahami apa yang menghambat target untuk melanjutkan proses pengujian solusi.
+Pada minggu sebelumnya, saya telah memperoleh gambaran mengenai kondisi ideal yang ingin dicapai oleh petugas administrasi.
 
-**Desire yang telah dibangun:**
+Target menginginkan kondisi ketika:
+- Mahasiswa dapat melihat status ruangan secara mandiri.
+- Informasi yang ditampilkan tetap akurat.
+- Petugas tidak perlu melakukan input berulang.
+- Waktu pembaruan informasi dapat diketahui.
+- Perubahan informasi hanya dilakukan oleh pihak berwenang.
 
-Pengguna menginginkan proses yang lebih mudah dipahami, informasi biaya yang lebih transparan, dan kepastian sebelum mengambil keputusan.
+Meskipun target memahami manfaat dashboard, masih terdapat beberapa hal yang belum dipastikan, terutama mengenai sumber data, mekanisme pembaruan, dan izin penggunaan informasi.
 
-**Action yang ingin dicapai:**
+### 4.2 Desire–Action Gap
 
-Target bersedia melakukan pengujian terbatas terhadap prototype, memberikan feedback berdasarkan pengalaman penggunaan, dan mengonfirmasi apakah solusi sesuai dengan kebutuhan yang telah dibahas.
+| Desired State | Kondisi Saat Ini | Kesenjangan |
+|---|---|---|
+| Mahasiswa dapat melihat status ruangan | Informasi masih perlu dicari melalui pihak terkait | Belum tersedia akses informasi yang mudah |
+| Informasi selalu relevan | Perubahan jadwal dapat terjadi | Belum ada mekanisme pembaruan pada dashboard |
+| Petugas tidak melakukan input berulang | Sumber data berada pada proses administrasi yang sudah berjalan | Integrasi data belum dipastikan |
+| Data hanya diubah pihak berwenang | Dashboard masih berupa konsep | Hak akses belum ditentukan |
+| Solusi dapat digunakan secara konsisten | Belum ada pengujian | Perlu uji coba terbatas |
 
-**Initial Assumption:**
-
-Awalnya saya berasumsi bahwa hambatan utama target adalah keterbatasan waktu untuk mencoba prototype. Namun, saya tidak ingin langsung menganggap waktu sebagai satu-satunya hambatan.
-
-Target mungkin juga memiliki kekhawatiran mengenai keakuratan informasi, privasi, tanggung jawab terhadap informasi yang ditampilkan, atau belum melihat manfaat yang cukup untuk meluangkan waktu.
+Saya menyimpulkan bahwa hambatan utama bukan lagi pemahaman terhadap manfaat solusi, melainkan kesiapan operasional dan kewenangan untuk mengujinya.
 
 ---
 
-## Barrier dan Authority Map
+## 5. Barrier & Authority Map
 
-Saya memetakan pihak yang terlibat agar tidak meminta persetujuan kepada orang yang tidak memiliki kewenangan.
+### 5.1 Barrier Map
 
-| Person | Barrier atau Peran | Authority | Tindakan yang Diperlukan |
+| Hambatan | Pihak Terkait | Dampak | Pendekatan |
 |---|---|---|---|
-| Target pengguna | Membutuhkan waktu dan alasan yang jelas untuk mencoba prototype | Memutuskan kesediaan memberikan feedback | Menyetujui atau menolak pengujian secara sukarela |
-| Anggota tim | Perlu membagi pekerjaan dan menyelesaikan prototype | Menentukan pembagian pekerjaan internal | Menyiapkan dan memperbaiki prototype |
-| Mentor lomba | Memberikan evaluasi terhadap kualitas solusi | Memberikan arahan akademik dan kompetisi | Memberikan masukan terhadap kelayakan rancangan |
-| Pihak penyedia informasi | Memahami keakuratan proses dan biaya | Memvalidasi informasi sesuai kewenangannya | Memeriksa sumber informasi yang digunakan |
-| Pihak yang berwenang atas implementasi | Mengatur penggunaan sistem atau prosedur resmi | Memberikan persetujuan implementasi jika diperlukan | Memberikan izin sebelum penggunaan resmi |
+| Belum ada izin penggunaan data | Pengelola fasilitas | Uji coba tidak dapat menggunakan data resmi | Meminta persetujuan terlebih dahulu |
+| Sumber data belum dapat diakses | Bagian IT | Dashboard belum dapat diperbarui otomatis | Memeriksa kemungkinan akses data |
+| Petugas khawatir beban bertambah | Petugas administrasi | Solusi berpotensi ditolak | Membatasi fitur dan input |
+| Informasi dapat berubah | Petugas administrasi | Status dashboard berpotensi tidak akurat | Menentukan prosedur pembaruan |
+| Mahasiswa belum terbiasa | Mahasiswa | Dashboard tidak digunakan | Menyediakan petunjuk sederhana |
 
-Saya membedakan antara kesediaan target untuk menguji prototype dan persetujuan implementasi. Keduanya merupakan keputusan yang berbeda.
+### 5.2 Authority Map
 
-Saya juga tidak menganggap anggota tim atau mentor memiliki kewenangan untuk menyetujui penggunaan sistem resmi jika kewenangan tersebut berada pada pihak lain.
+| Pihak | Peran | Kewenangan |
+|---|---|---|
+| Pengelola fasilitas | Mengawasi penggunaan ruangan | Memberikan izin terkait uji coba |
+| Bagian IT | Memeriksa aspek teknis | Menilai akses dan integrasi data |
+| Petugas administrasi | Mengelola informasi peminjaman | Memvalidasi dan memperbarui informasi |
+| Mahasiswa | Pengguna informasi | Memberikan feedback penggunaan |
+| Saya | Pengusul solusi | Menyusun konsep, mockup, dan evaluasi |
 
----
-
-## Potongan Transcript (Discovery Barrier dan Negotiation)
-
-> **Keisha:** "Dari pembahasan sebelumnya, Anda sudah melihat manfaat yang ingin kami capai melalui rancangan ini. Kalau kita ingin mencoba prototype secara langsung, apakah ada hal yang membuat Anda belum nyaman atau belum bisa meluangkan waktu?"
->
-> **Target:** "[Masukkan respons asli target mengenai hambatan atau keberatan.]"
->
-> **Keisha:** "Berarti yang masih menjadi pertimbangan Anda adalah [parafrase barrier target], bukan berarti Anda langsung menolak manfaat solusinya, ya?"
->
-> **Target:** "[Masukkan konfirmasi atau koreksi asli target.]"
->
-> **Keisha:** "Kalau pengujiannya dibuat lebih singkat dan hanya berfokus pada bagian yang paling penting, apakah itu akan lebih memungkinkan?"
->
-> **Target:** "[Masukkan respons asli target mengenai alternatif yang ditawarkan.]"
->
-> **Keisha:** "Selain waktu, apakah ada batasan lain yang perlu kami perhatikan sebelum pengujian dilakukan?"
->
-> **Target:** "[Masukkan jawaban asli target mengenai syarat atau concern tambahan.]"
-
-**Discovery Insight:**
-
-Saya menggunakan respons target untuk menentukan apakah hambatan berasal dari keterbatasan waktu, kurangnya kepercayaan, ketidakjelasan manfaat, atau persoalan kewenangan.
-
-Saya tidak langsung menawarkan solusi sebelum memahami barrier yang sebenarnya. Dengan demikian, alternatif tindakan yang saya tawarkan tetap relevan dan tidak menambah beban target.
+Saya menyadari bahwa ketertarikan petugas administrasi tidak otomatis berarti solusi boleh langsung diterapkan. Persetujuan penggunaan data dan fasilitas tetap harus berasal dari pihak yang memiliki kewenangan.
 
 ---
 
-## Options dan Trade-off
+## 6. Pilihan Tindakan dan Trade-off
 
-Setelah memahami barrier, saya menyiapkan beberapa pilihan tindak lanjut dengan tingkat komitmen yang berbeda.
+Sebelum menentukan tindakan, saya menyusun tiga alternatif.
 
-| Option | Bentuk Tindakan | Benefit | Trade-off |
+| Alternatif | Deskripsi | Kelebihan | Kekurangan |
 |---|---|---|---|
-| 1. Review rancangan | Target membaca prototype dan memberikan komentar | Membutuhkan waktu relatif singkat | Belum menguji pengalaman penggunaan secara langsung |
-| 2. Usability test terbatas | Target mencoba alur dan informasi biaya | Mendapatkan feedback berdasarkan pengalaman langsung | Membutuhkan waktu lebih banyak |
-| 3. Pengujian beberapa target | Beberapa pengguna mencoba prototype | Perspektif lebih beragam | Membutuhkan koordinasi dan analisis lebih kompleks |
+| A. Uji coba satu ruangan | Dashboard digunakan untuk satu ruangan dalam waktu terbatas | Risiko dan ruang lingkup kecil | Hasil belum mewakili seluruh ruangan |
+| B. Uji coba beberapa ruangan | Dashboard digunakan untuk tiga ruangan | Mendapatkan variasi kondisi | Membutuhkan koordinasi lebih banyak |
+| C. Observasi tanpa dashboard | Mengamati proses administrasi dan mencatat kendala | Tidak membutuhkan perubahan sistem | Belum menguji manfaat dashboard secara langsung |
 
-**Negotiation:**
+### 6.1 Pilihan yang Diusulkan
 
-> **Keisha:** "Saya menyiapkan beberapa pilihan agar pengujian tidak mengganggu aktivitas Anda. Kita bisa mulai dari review singkat, mencoba prototype secara langsung, atau mengumpulkan feedback dari beberapa pengguna. Menurut Anda, pilihan mana yang paling realistis?"
->
-> **Target:** "[Masukkan pilihan asli target dan alasan memilihnya.]"
->
-> **Keisha:** "Baik, berarti kita prioritaskan pilihan tersebut. Apakah ada batasan waktu atau informasi yang perlu kami perhatikan?"
->
-> **Target:** "[Masukkan syarat atau trade-off yang diajukan target.]"
+Saya memilih alternatif A, yaitu uji coba terbatas pada satu ruangan selama lima hari kerja.
 
-Saya tidak memaksakan pilihan dengan komitmen paling besar. Saya mempertimbangkan kapasitas target, kemampuan tim, dan kualitas evidence yang dapat diperoleh.
+Alasan pemilihan:
+1. Risiko perubahan proses operasional lebih kecil.
+2. Petugas dapat mengevaluasi mekanisme pembaruan terlebih dahulu.
+3. Saya dapat menguji apakah mahasiswa memahami informasi yang ditampilkan.
+4. Jika ditemukan kesalahan, dampaknya lebih mudah dibatasi.
+5. Hasil uji coba dapat digunakan sebagai dasar untuk mempertimbangkan perluasan.
 
----
-
-## Agreement Eksplisit
-
-Berdasarkan hasil negosiasi, saya menyusun agreement yang mencakup ruang lingkup, pembagian tanggung jawab, deadline, evidence, batasan, dan evaluasi.
-
-**Draft Agreement:**
-
-| Elemen | Kesepakatan |
-|---|---|
-| Objective | Memvalidasi apakah prototype menjawab masalah alur proses dan informasi biaya |
-| Scope | Pengujian terbatas terhadap rancangan prototype |
-| Target | Pengguna yang bersedia mencoba dan memberikan feedback |
-| Owner prototype | Keisha bersama anggota tim terkait |
-| Owner feedback | Target pengguna memberikan tanggapan berdasarkan pengalaman |
-| Persiapan | Tim memeriksa kelengkapan tahapan dan sumber informasi biaya |
-| Deadline | [Isi tanggal dan waktu yang disepakati] |
-| Evidence | Dokumentasi pengujian, feedback target, dan perubahan prototype |
-| Batasan | Tidak menggunakan data pribadi yang tidak diperlukan dan tidak menganggap prototype sebagai sistem resmi |
-| Stop rule | Pengujian dihentikan apabila informasi tidak dapat diverifikasi atau target merasa tidak nyaman |
-| Review | [Isi jadwal evaluasi yang disepakati] |
-
-**Konfirmasi Agreement:**
-
-> **Keisha:** "Jadi, kita mulai dengan pengujian terbatas terhadap prototype. Saya dan tim akan memastikan informasi yang ditampilkan sudah diperiksa. Anda dapat mencoba rancangan dan memberikan feedback sesuai pengalaman. Kalau ada informasi yang kurang tepat atau Anda merasa tidak nyaman, kita bisa menghentikan pengujian dan memperbaikinya terlebih dahulu. Apakah kesepakatan ini sudah sesuai?"
->
-> **Target:** "[Masukkan persetujuan, koreksi, atau syarat tambahan dari target.]"
->
-> **Keisha:** "Baik, berarti saya akan menyiapkan prototype sesuai ruang lingkup yang sudah kita sepakati dan menghubungi Anda kembali pada waktu yang telah ditentukan."
->
-> **Target:** "[Masukkan respons asli target terhadap tindak lanjut.]"
-
-Saya menganggap agreement baru terbentuk apabila target benar-benar menyetujui ruang lingkup dan tanggung jawabnya. Jika terdapat bagian yang belum disetujui, bagian tersebut tetap dicatat sebagai hal yang masih terbuka.
+Saya tidak memilih alternatif B karena integrasi dan kesiapan data belum diperiksa. Sementara itu, alternatif C tetap dapat menjadi pilihan apabila izin atau akses data belum tersedia.
 
 ---
 
-## Transkrip Verifikasi Implementasi Kesepakatan (Evidence Aksi Nyata)
+## 7. Potongan Transcript (Negotiation dan Agreement)
 
-**1. Persiapan Prototype**
+### 7.1 Menyampaikan Rencana Uji Coba
 
-> **Keisha:** "[Masukkan pesan aktual ketika mengirimkan prototype atau mengonfirmasi kesiapan pengujian.]"
->
-> **Target:** "[Masukkan respons aktual target setelah menerima prototype atau konfirmasi jadwal.]"
+**Saya:**
 
-**2. Pelaksanaan Pengujian**
+"Berdasarkan pembahasan sebelumnya, saya ingin mengusulkan uji coba dashboard dalam ruang lingkup kecil terlebih dahulu. Saya tidak ingin langsung menerapkan ke semua ruangan karena masih ada beberapa hal yang perlu diperiksa."
 
-> **Keisha:** "Setelah mencoba prototype, apakah ada bagian yang menurut Anda sudah membantu dan bagian yang masih perlu diperbaiki?"
->
-> **Target:** "[Masukkan feedback aktual setelah pengujian.]"
+**Petugas Administrasi:**
 
-**3. Tindak Lanjut Feedback**
+"Kalau hanya satu ruangan, mungkin lebih mudah untuk diamati. Tetapi siapa yang akan memastikan informasi yang ditampilkan tetap benar?"
 
-> **Keisha:** "Saya sudah mencatat masukan mengenai [masalah yang disampaikan]. Kami akan memperbaiki bagian tersebut terlebih dahulu sebelum meminta Anda memeriksa versi berikutnya."
->
-> **Target:** "[Masukkan respons aktual target terhadap rencana revisi.]"
+**Saya:**
 
-**Action Log:**
+"Saya mengusulkan agar petugas yang memang bertanggung jawab terhadap jadwal tetap menjadi pihak yang memvalidasi informasi. Saya hanya membantu menyiapkan dashboard dan mengevaluasi apakah tampilannya mudah digunakan."
 
-| Tindakan | Owner | Deadline | Status | Evidence |
-|---|---|---|---|---|
-| Memeriksa sumber informasi biaya | Keisha dan tim | [Tanggal] | [Status aktual] | Checklist sumber |
-| Memperbaiki prototype | Anggota tim terkait | [Tanggal] | [Status aktual] | File versi revisi |
-| Menguji prototype | Keisha dan target | [Tanggal] | [Status aktual] | Catatan pengujian |
-| Menganalisis feedback | Keisha dan tim | [Tanggal] | [Status aktual] | Ringkasan feedback |
-| Mengonfirmasi hasil revisi | Keisha dan target | [Tanggal] | [Status aktual] | Catatan konfirmasi |
+**Petugas Administrasi:**
 
-**Adaptation jika Terjadi Hambatan:**
+"Kalau begitu, perlu ada batas yang jelas. Jangan sampai dashboard dianggap sebagai informasi resmi ketika datanya belum diperbarui."
 
-Jika target tidak dapat mengikuti jadwal awal, saya akan menawarkan waktu alternatif atau mengurangi durasi pengujian tanpa menghilangkan tujuan utama.
+**Saya:**
 
-Jika target menemukan informasi biaya yang tidak akurat, saya akan menghentikan penggunaan informasi tersebut sampai sumbernya dapat diverifikasi.
+"Setuju. Saya akan menampilkan waktu pembaruan dan keterangan bahwa status perlu dikonfirmasi kepada petugas apabila informasi belum diperbarui."
 
-Jika target merasa prototype belum menjawab masalah, saya akan mencatat bagian yang tidak sesuai dan mendiskusikan apakah mekanisme solusi perlu diubah.
+### 7.2 Membahas Ruang Lingkup
 
-Jika persetujuan implementasi belum diperoleh dari pihak yang berwenang, saya tidak akan melanjutkan penggunaan resmi. Pengujian tetap dibatasi sesuai ruang lingkup yang telah diizinkan.
+**Petugas Administrasi:**
 
----
+"Berapa lama rencana uji cobanya?"
 
-## Analisis Repertoire dan Penggunaan AI
+**Saya:**
 
-**Strategi komunikasi yang digunakan:**
+"Saya mengusulkan lima hari kerja. Selama periode tersebut, kita bisa melihat apakah mahasiswa memahami status ruangan dan apakah petugas mengalami tambahan pekerjaan."
 
-- **Barrier discovery:** menggali alasan target belum bersedia melakukan tindakan.
-- **Active listening:** memahami keberatan tanpa langsung membantah.
-- **Negotiation:** menawarkan beberapa pilihan dengan trade-off yang jelas.
-- **Explicit agreement:** memastikan tanggung jawab, waktu, dan batasan dipahami bersama.
-- **Expectation management:** tidak menjanjikan implementasi atau hasil yang berada di luar kewenangan saya.
+**Petugas Administrasi:**
 
-**Penggunaan dan Integrasi AI:**
+"Bagaimana kalau informasi tidak sesuai dengan jadwal sebenarnya?"
 
-- **Alat AI:** ChatGPT.
-- **Prompt:** "Saya ingin mengubah ketertarikan pengguna terhadap prototype menjadi tindakan pengujian terbatas. Bantu saya mengidentifikasi kemungkinan barrier, menyusun beberapa pilihan tindakan beserta trade-off, dan memeriksa kelengkapan agreement yang mencakup owner, deadline, evidence, batasan, stop rule, dan review. Jangan menganggap target sudah menyetujui tindakan."
-- **Hasil dan refinement:** AI membantu menyusun pilihan tindakan dan checklist agreement. Saya tetap menyesuaikan kesepakatan dengan jawaban target dan kewenangan pihak yang terlibat.
-- **Pemeriksaan privasi:** Tidak memasukkan identitas pribadi atau informasi sensitif target.
+**Saya:**
 
----
+"Jika ditemukan ketidaksesuaian, informasi pada dashboard akan ditandai dan penggunaan dashboard dihentikan sementara sampai sumber datanya diperiksa."
 
-## Evidence, Feedback, dan Next Step
+**Petugas Administrasi:**
 
-**Artefak Verifikasi:**
+"Baik. Tetapi sebelum itu, tetap harus ada pemeriksaan dari bagian IT dan pengelola fasilitas."
 
-1. Barrier map dan authority map.
-2. Catatan discovery mengenai hambatan target.
-3. Daftar opsi dan trade-off yang ditawarkan.
-4. Screenshot atau catatan persetujuan target.
-5. Prototype yang digunakan dalam pengujian.
-6. Action log dengan owner dan deadline.
-7. Bukti pelaksanaan pengujian.
-8. Feedback target dan dokumentasi perubahan prototype.
-9. Catatan review yang menunjukkan apakah solusi layak dilanjutkan atau perlu direvisi.
+**Saya:**
 
-**Feedback Target:**
+"Baik. Berarti uji coba belum dimulai sebelum izin dan pemeriksaan tersebut selesai."
 
-> "[Masukkan feedback asli target setelah pengujian, termasuk apakah target bersedia melanjutkan, meminta perubahan, atau belum siap mengambil tindakan berikutnya.]"
+### 7.3 Kesepakatan Awal
 
-**Pembaruan Agreement:**
+Dari pembahasan tersebut, saya merumuskan kesepakatan awal berupa:
+- Uji coba dibatasi pada satu ruangan.
+- Durasi yang diusulkan adalah lima hari kerja.
+- Dashboard hanya menampilkan informasi yang telah divalidasi.
+- Petugas tetap memiliki kewenangan atas pembaruan data.
+- Penggunaan data dan fasilitas harus mendapatkan izin.
+- Dashboard dihentikan sementara apabila ditemukan informasi yang tidak akurat.
 
-Saya membedakan antara tindakan yang sudah selesai, tindakan yang masih berlangsung, dan tindakan yang belum disetujui. Hal tersebut penting agar laporan tidak menggambarkan rencana sebagai hasil yang sudah tercapai.
-
-**Next Practice:**
-
-Melakukan review bersama target setelah pengujian untuk membandingkan hasil aktual dengan desired state, mengevaluasi hambatan yang tersisa, dan menentukan apakah solusi perlu dilanjutkan, direvisi, atau dihentikan.
+Saya membedakan kesepakatan mengenai rencana uji coba dengan persetujuan resmi implementasi. Persetujuan resmi tetap memerlukan pemeriksaan dari pihak yang berwenang.
 
 ---
 
-## Self-Assessment (Rubrik Evaluasi Mandiri)
+## 8. Agreement, Action Plan, dan Review Evidence
 
-| Dimensi | Skor | Evidence & Alasan Konkret (Level 4 Criteria) |
-|---|---:|---|
-| **Person & Character** | **4** | Memetakan target, anggota tim, dan pihak terkait berdasarkan peran, tanggung jawab, serta kewenangan masing-masing. |
-| **Objective & State** | **4** | Mengidentifikasi desire–action gap dan membedakan ketertarikan, kesediaan menguji, serta persetujuan implementasi. |
-| **Repertoire, Language & AI** | **4** | Menggunakan barrier discovery, negosiasi berbasis opsi, dan AI untuk memeriksa kelengkapan agreement secara proporsional. |
-| **Response & Adaptation** | **4** | Menyesuaikan scope, jadwal, dan mekanisme solusi berdasarkan keberatan serta kondisi target. |
-| **Agreement, Action & Relationship** | **4** | Menyusun agreement dengan scope, owner, deadline, evidence, batasan, stop rule, dan review serta mendokumentasikan pelaksanaannya. |
+### 8.1 Action Plan
 
-**Total Skor: 20/20 — Lanjut (Target Self-Assessment).**
+| Tahap | Aktivitas | Penanggung Jawab | Output |
+|---|---|---|---|
+| 1 | Memeriksa sumber data dan izin | Pengelola fasilitas dan bagian IT | Persetujuan dan hasil pemeriksaan |
+| 2 | Menyiapkan dashboard sederhana | Saya | Prototype dashboard |
+| 3 | Memvalidasi informasi ruangan | Petugas administrasi | Data yang telah diperiksa |
+| 4 | Melakukan uji coba terbatas | Saya dan petugas | Hasil pengamatan |
+| 5 | Mengumpulkan feedback | Saya | Catatan pengguna |
+| 6 | Melakukan evaluasi | Semua pihak terkait | Keputusan tindak lanjut |
+
+### 8.2 Timeline yang Diusulkan
+
+| Waktu | Kegiatan | Hasil yang Diharapkan |
+|---|---|---|
+| Hari 1 | Pemeriksaan izin dan data | Kesiapan uji coba |
+| Hari 2 | Penyelesaian prototype | Dashboard siap diperiksa |
+| Hari 3 | Validasi informasi | Informasi sesuai sumber |
+| Hari 4–8 | Uji coba terbatas | Data penggunaan dan feedback |
+| Hari 9 | Evaluasi | Keputusan perbaikan atau penghentian |
+
+Timeline tersebut merupakan rancangan kerja yang dapat disesuaikan dengan kesiapan dan persetujuan pihak terkait.
+
+### 8.3 Indikator Keberhasilan
+
+Saya menetapkan beberapa indikator yang dapat diamati:
+
+1. Mahasiswa dapat menemukan informasi status ruangan tanpa bantuan langsung.
+2. Pengguna memahami perbedaan status tersedia, dipesan, dan digunakan.
+3. Informasi pada dashboard sesuai dengan data yang telah divalidasi.
+4. Petugas tidak perlu melakukan input berulang.
+5. Tidak terjadi perubahan informasi oleh pihak yang tidak berwenang.
+6. Pengguna dapat memberikan masukan terhadap tampilan dan kejelasan informasi.
+
+Saya tidak menetapkan target persentase keberhasilan secara sembarangan karena belum memiliki data awal yang cukup untuk menentukan angka yang realistis.
+
+---
+
+## 9. Response, Adaptation, dan Relationship Management
+
+### 9.1 Temuan dalam Pemeriksaan Awal
+
+Dalam skenario pemeriksaan awal, bagian IT menemukan bahwa prototype menggunakan formulir yang secara otomatis mengumpulkan alamat email pengisi.
+
+Fitur tersebut sebenarnya tidak diperlukan karena dashboard hanya bertujuan menampilkan informasi ruangan. Pengumpulan alamat email juga berpotensi menimbulkan persoalan privasi dan membutuhkan penjelasan tambahan mengenai penggunaan data.
+
+### 9.2 Respons dan Adaptasi
+
+Saya mengubah rancangan dengan:
+1. Menghapus pengumpulan alamat email otomatis.
+2. Tidak meminta mahasiswa memasukkan data pribadi untuk melihat status ruangan.
+3. Membatasi akses perubahan informasi kepada petugas.
+4. Memastikan data yang ditampilkan hanya informasi yang diperlukan.
+5. Menunda uji coba sampai prototype diperiksa kembali.
+
+Saya memilih melakukan perubahan sebelum melanjutkan uji coba daripada mempertahankan fitur yang tidak memiliki manfaat langsung.
+
+### 9.3 Relationship Management
+
+Saya juga memahami bahwa proses komunikasi tidak boleh membuat target merasa bahwa seluruh tanggung jawab implementasi akan dibebankan kepada mereka.
+
+Karena itu, saya membedakan tanggung jawab setiap pihak:
+- Saya bertanggung jawab terhadap penyusunan prototype dan dokumentasi evaluasi.
+- Petugas bertanggung jawab terhadap validasi informasi administrasi.
+- Bagian IT memeriksa aspek teknis.
+- Pengelola fasilitas memberikan persetujuan sesuai kewenangannya.
+- Mahasiswa memberikan masukan sebagai pengguna.
+
+Pembagian ini membantu menjaga hubungan kerja agar ekspektasi setiap pihak tetap realistis.
+
+---
+
+## 10. Analisis Repertoire dan Penggunaan AI
+
+### 10.1 Repertoire Komunikasi
+
+| Repertoire | Penerapan | Tujuan |
+|---|---|---|
+| Option framing | Menawarkan tiga alternatif tindakan | Memberikan pilihan kepada target |
+| Trade-off discussion | Membandingkan risiko setiap alternatif | Memilih tindakan realistis |
+| Negotiation | Membahas durasi dan ruang lingkup uji coba | Mencapai kesepakatan |
+| Boundary setting | Menegaskan batas kewenangan setiap pihak | Mencegah kesalahpahaman |
+| Risk communication | Membahas risiko informasi tidak akurat | Menjaga kepercayaan |
+| Repair and adaptation | Menghapus fitur pengumpulan email | Menanggapi temuan sebelum uji coba |
+
+### 10.2 Penggunaan AI
+
+Saya menggunakan AI untuk mengevaluasi rencana tindakan, terutama apakah pembagian tanggung jawab dan indikator keberhasilan sudah jelas.
+
+Contoh prompt:
+
+> "Evaluasi rencana uji coba dashboard informasi ruangan berikut. Periksa apakah penanggung jawab, timeline, indikator keberhasilan, batas kewenangan, dan kondisi penghentian sudah jelas. Identifikasi risiko yang belum diperhitungkan dan berikan perbaikan yang realistis."
+
+AI membantu saya mengidentifikasi kemungkinan risiko, termasuk pengumpulan data pribadi yang tidak diperlukan.
+
+Namun, AI tidak dapat memberikan persetujuan atas penggunaan fasilitas atau data kampus. Keputusan tersebut tetap harus berasal dari pihak yang berwenang.
+
+---
+
+## 11. Evidence, Feedback, dan Next Step
+
+### 11.1 Evidence
+
+| Evidence | Isi | Fungsi |
+|---|---|---|
+| Desire–Action Gap | Perbandingan kondisi ideal dan kondisi saat ini | Menentukan hambatan |
+| Authority Map | Peran dan kewenangan pihak terkait | Menentukan jalur persetujuan |
+| Option Comparison | Tiga alternatif tindakan | Menjelaskan trade-off |
+| Agreement Notes | Ruang lingkup dan batas uji coba | Memperjelas kesepakatan |
+| Action Plan | Timeline dan penanggung jawab | Memastikan tindakan terstruktur |
+| Risk Review | Risiko dan aturan penghentian | Menjaga keamanan pelaksanaan |
+| Prototype Revision | Perubahan setelah pemeriksaan | Menunjukkan adaptasi |
+
+### 11.2 Feedback dan Insight
+
+Saya belajar bahwa persetujuan terhadap ide tidak sama dengan persetujuan untuk menjalankan implementasi.
+
+Target dapat memahami manfaat solusi dan bersedia membahas uji coba, tetapi penggunaan data dan fasilitas tetap membutuhkan pemeriksaan serta persetujuan dari pihak yang memiliki kewenangan.
+
+Saya juga menyadari bahwa kesepakatan yang baik tidak hanya berisi apa yang akan dilakukan, tetapi juga siapa yang bertanggung jawab, kapan tindakan dilakukan, bagaimana hasilnya dievaluasi, dan apa yang harus dilakukan apabila muncul masalah.
+
+### 11.3 Next Step
+
+Langkah selanjutnya adalah:
+1. Memastikan izin penggunaan data dan fasilitas.
+2. Memperbaiki prototype berdasarkan hasil pemeriksaan.
+3. Menyelesaikan validasi informasi dengan petugas.
+4. Melaksanakan uji coba apabila seluruh persyaratan telah terpenuhi.
+5. Mengevaluasi feedback mahasiswa dan petugas.
+6. Menentukan apakah solusi layak diperbaiki, diperluas, atau dihentikan.
+
+---
+
+## 12. Self-Assessment (Rubrik Evaluasi Mandiri)
+
+| Dimensi | Penilaian | Alasan |
+|---|---|---|
+| Person & Character | 4 | Saya memahami peran mahasiswa, petugas, pengelola fasilitas, dan bagian IT. |
+| Objective & State | 4 | Saya mengidentifikasi kesenjangan antara kondisi ideal dan kondisi saat ini. |
+| Repertoire, Language & AI | 4 | Saya menggunakan option framing, negosiasi, risk communication, dan AI untuk mengevaluasi rencana. |
+| Response & Adaptation | 4 | Saya mengubah prototype setelah menemukan fitur yang tidak diperlukan dan berpotensi menimbulkan risiko. |
+| Agreement, Action & Relationship | 4 | Saya menyusun ruang lingkup, pembagian tanggung jawab, timeline, indikator keberhasilan, dan batas persetujuan. |
+
+**Total Self-Assessment: 20/20**
+
+### Refleksi Akhir
+
+Melalui tugas ini, saya memahami bahwa komunikasi yang efektif harus dapat menghasilkan kejelasan tindakan, bukan hanya membuat orang lain tertarik terhadap suatu ide.
+
+Saya belajar untuk tidak terburu-buru menganggap respons positif sebagai persetujuan penuh. Setiap pihak memiliki kewenangan dan tanggung jawab yang berbeda sehingga proses pengambilan keputusan perlu dilakukan secara bertahap.
+
+Saya juga menyadari bahwa perubahan rencana bukan berarti solusi gagal. Ketika ditemukan risiko atau kekurangan, saya perlu bersedia memperbaiki pendekatan agar solusi yang dihasilkan lebih aman dan realistis.
+
+Ke depannya, saya ingin lebih percaya diri dalam mengajukan kesepakatan, membahas batasan, dan memastikan setiap tindakan memiliki penanggung jawab yang jelas.
